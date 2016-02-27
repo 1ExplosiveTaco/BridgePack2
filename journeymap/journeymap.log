@@ -1,12 +1,12 @@
-[11:35:52] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
-[11:35:52] [Client thread/INFO] [JourneymapClient] initialize ENTER
-[11:35:52] [Client thread/INFO] [PropertiesBase] Loaded CoreProperties from C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\journeymap\config\5.1\journeymap.core.config
-[11:35:52] [Client thread/INFO] [PropertiesBase] Loaded FullMapProperties from C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\journeymap\config\5.1\journeymap.fullmap.config
-[11:35:52] [Client thread/INFO] [PropertiesBase] Loaded MiniMapProperties from C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\journeymap\config\5.1\journeymap.minimap.config
-[11:35:52] [Client thread/INFO] [PropertiesBase] Loaded MiniMapProperties2 from C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\journeymap\config\5.1\journeymap.minimap2.config
-[11:35:52] [Client thread/INFO] [PropertiesBase] Loaded WebMapProperties from C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\journeymap\config\5.1\journeymap.webmap.config
-[11:35:52] [Client thread/INFO] [PropertiesBase] Loaded WaypointProperties from C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\journeymap\config\5.1\journeymap.waypoint.config
-[11:35:52] [Client thread/INFO] [?] Version: JourneyMap 5.1.4 Unlimited, built with Forge 10.13.4.1558
+[12:23:25] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
+[12:23:25] [Client thread/INFO] [JourneymapClient] initialize ENTER
+[12:23:25] [Client thread/INFO] [PropertiesBase] Loaded CoreProperties from C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\journeymap\config\5.1\journeymap.core.config
+[12:23:25] [Client thread/INFO] [PropertiesBase] Loaded FullMapProperties from C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\journeymap\config\5.1\journeymap.fullmap.config
+[12:23:25] [Client thread/INFO] [PropertiesBase] Loaded MiniMapProperties from C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\journeymap\config\5.1\journeymap.minimap.config
+[12:23:25] [Client thread/INFO] [PropertiesBase] Loaded MiniMapProperties2 from C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\journeymap\config\5.1\journeymap.minimap2.config
+[12:23:25] [Client thread/INFO] [PropertiesBase] Loaded WebMapProperties from C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\journeymap\config\5.1\journeymap.webmap.config
+[12:23:25] [Client thread/INFO] [PropertiesBase] Loaded WaypointProperties from C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\journeymap\config\5.1\journeymap.waypoint.config
+[12:23:25] [Client thread/INFO] [?] Version: JourneyMap 5.1.4 Unlimited, built with Forge 10.13.4.1558
 Forge: 10.13.4.1614
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_US, locale=en_us
 Unlimited Features: 
@@ -21,33 +21,77 @@ FullMapProperties{entityIconSetName=2D, showAnimals=true, showMobs=true, showPet
 WaypointProperties{autoHideLabel=true, beaconEnabled=true, boldLabel=false, createDeathpoints=true, fontScale=2, managerEnabled=true, maxDistance=0, name=waypoint, showDistance=true, showName=true, showRotatingBeam=true, showStaticBeam=true, showTexture=true, textureSmall=true}
 WebMapProperties: , enabled=false, port=8080, showMobs=true, showAnimals=true, showVillagers=true, showPets=true, showPlayers=true, showWaypoints=true, entityIconSetName=2D
 CoreProperties{announceMod=true, autoMapPoll=2000, browserPoll=2000, cacheAnimalsData=3100, cacheMobsData=3000, cachePlayerData=1000, cachePlayersData=2000, cacheVillagersData=2200, caveIgnoreGlass=true, isUpdateCheckEnabled=true, renderDelay=2, hideSneakingEntities=true, logLevel=INFO, mapAntialiasing=true, mapBathymetry=false, mapCaveLighting=true, mapCrops=true, mapPlants=false, mapPlantShadows=false, mapSurfaceAboveCaves=true, tileHighDisplayQuality=true, mapTransparency=true, maxAnimalsData=32, maxMobsData=32, maxPlayersData=32, maxVillagersData=32, optionsManagerViewed=, radarLateralDistance=64, radarVerticalDistance=16, recordCacheStats=false, renderOverlayEventTypeName=ALL, renderOverlayPreEvent=true, renderDistanceCaveMin=3, renderDistanceCaveMax=3, renderDistanceSurfaceMin=4, renderDistanceSurfaceMax=7, revealShape=Circle, themeName=Victorian, tileRenderType=1}
-[11:35:52] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg �ms
-[11:35:53] [Client thread/INFO] [JourneymapClient] postInitialize ENTER
-[11:35:53] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.ChatEventHandler registered in MinecraftForgeBus
-[11:35:53] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.StateTickHandler registered in FMLCommonHandlerBus
-[11:35:53] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.WorldEventHandler registered in MinecraftForgeBus
-[11:35:53] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.ChunkUpdateHandler registered in MinecraftForgeBus
-[11:35:53] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.WaypointBeaconHandler registered in MinecraftForgeBus
-[11:35:53] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.TextureAtlasHandler registered in MinecraftForgeBus
-[11:35:53] [Client thread/INFO] [WorldInfoHandler] Registered channel: world_info
-[11:35:53] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.MiniMapOverlayHandler registered in MinecraftForgeBus
-[11:35:53] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.KeyEventHandler registered in FMLCommonHandlerBus
-[11:35:53] [Client thread/INFO] [IconSetFileHandler] Initializing icon sets...
-[11:35:54] [Client thread/TRACE] [ThemeFileHandler] Initializing themes ...
-[11:35:54] [Client thread/DEBUG] [PropertiesBase] Saved journeymap.webmap.config
-[11:35:54] [Client thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r582.75§8ms§r
-[11:36:02] [Client thread/INFO] [ColorManager] Loading blocks and textures...
-[11:36:02] [Client thread/INFO] [BlockMD] Built BlockMD cache (1174) : BlockMD.reset count 1 avg 71.45ms
-[11:36:02] [Client thread/INFO] [ColorHelper_1_7_10] initBlocksTexture: 1024x512 loaded in 14.022117ms
-[11:36:02] [Client thread/WARN] [ColorPalette] Existing color palette's mods no longer match current loadout.
-[11:36:02] [Client thread/INFO] [ColorPalette] WAS: Alternate Terrain Generation:0.10.0, Battle Towers:1.5.1, Biomes O' Plenty:2.1.0, ChickenChunks:1.3.4.19, CodeChicken Core:1.0.7.47, DrZhark's CustomSpawner:3.3.0, DrZhark's Mo'Creatures Mod:6.3.1, Dynamic Lights Burning Entity Module:1.0.4, Dynamic Lights Creeper Module:1.0.4, Dynamic Lights Entity Light Module:1.0.1, Dynamic Lights EntityItem Module:1.0.8, Dynamic Lights Fiery Arrows Light Module:1.0.0, Dynamic Lights Flood Light:1.0.2, Dynamic Lights Mob Equipment Light Module:1.0.8, Dynamic Lights OtherPlayers Light Module:1.0.8, Dynamic Lights Player Light Module:1.1.4, Dynamic Lights:1.3.8, EnderStorage:1.4.7.37, Farseek:1.0.11, Forge Microblocks:1.2.0.345, Forge Mod Loader:7.10.99.99, Forge Multipart:1.2.0.345, GraveStone:2.16.0, Infernal Mobs:1.6.0, Inventory Tweaks:1.59-dev-152-cf6e263, JourneyMap:5.1.4, Mantle:1.7.10-0.3.2.jenkins191, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Minecraft Multipart Plugin:1.2.0.345, Mod Support:0.31.3_build.unknown, NEI Addons: Applied Energistics 2:1.12.14.40, NEI Addons: Botany:1.12.14.40, NEI Addons: Crafting Tables:1.12.14.40, NEI Addons: Developer Tools:1.12.14.40, NEI Addons: Ex Nihilo:1.12.14.40, NEI Addons: Forestry:1.12.14.40, NEI Addons:1.12.14.40, NEI Integration:1.1.2, Neat:GRADLE:VERSION-GRADLE:BUILD, Not Enough Items:1.0.5.118, Pet Bat:1.3.8, Realistic Terrain Generation:0.6.2, Streams:0.2, TiC Tooltips:1.2.5, Tinkers' Construct:1.7.10-1.8.8.build988, Tinkers' Mechworks:0.2.15.106, Vein Miner:0.31.3_build.unknown, Veinminer Mod Integration:1.7.10-0.2.0, WR-CBE Addons:1.4.1.9, WR-CBE Core:1.4.1.9, WR-CBE Logic:1.4.1.9, Waila Harvestability:1.1.6, Waila:1.5.10, WorldEdit:6.0-beta-01
-NOW: Alternate Terrain Generation:0.10.0, Battle Towers:1.5.1, Biomes O' Plenty:2.1.0, ChickenChunks:1.3.4.19, CodeChicken Core:1.0.7.47, DrZhark's CustomSpawner:3.3.0, DrZhark's Mo'Creatures Mod:6.3.1, Dynamic Lights Burning Entity Module:1.0.4, Dynamic Lights Creeper Module:1.0.4, Dynamic Lights Entity Light Module:1.0.1, Dynamic Lights EntityItem Module:1.0.8, Dynamic Lights Fiery Arrows Light Module:1.0.0, Dynamic Lights Flood Light:1.0.2, Dynamic Lights Mob Equipment Light Module:1.0.8, Dynamic Lights OtherPlayers Light Module:1.0.8, Dynamic Lights Player Light Module:1.1.4, Dynamic Lights:1.3.8, EnderStorage:1.4.7.37, Farseek:1.0.11, Forge Microblocks:1.2.0.345, Forge Mod Loader:7.10.99.99, Forge Multipart:1.2.0.345, GraveStone:2.16.0, Infernal Mobs:1.6.0, Inventory Tweaks:1.59-dev-152-cf6e263, JourneyMap:5.1.4, Mantle:1.7.10-0.3.2.jenkins191, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Minecraft Multipart Plugin:1.2.0.345, Mod Support:0.31.3_build.unknown, NEI Addons: Applied Energistics 2:1.12.14.40, NEI Addons: Botany:1.12.14.40, NEI Addons: Crafting Tables:1.12.14.40, NEI Addons: Developer Tools:1.12.14.40, NEI Addons: Ex Nihilo:1.12.14.40, NEI Addons: Forestry:1.12.14.40, NEI Addons:1.12.14.40, NEI Integration:1.1.2, Neat:GRADLE:VERSION-GRADLE:BUILD, Not Enough Items:1.0.5.118, Ore Dictionary Converter:1.6.1, Pet Bat:1.3.8, Realistic Terrain Generation:0.6.2, Streams:0.2, TiC Tooltips:1.2.5, Tinkers' Construct:1.7.10-1.8.8.build988, Tinkers' Mechworks:0.2.15.106, Vein Miner:0.31.3_build.unknown, Veinminer Mod Integration:1.7.10-0.2.0, WR-CBE Addons:1.4.1.9, WR-CBE Core:1.4.1.9, WR-CBE Logic:1.4.1.9, Waila Harvestability:1.1.6, Waila:1.5.10, WorldEdit:6.0-beta-01
-[11:36:02] [Client thread/INFO] [ColorManager] Initialized 940 block colors from mods and resource packs in 51ms
-[11:36:02] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ForgeMultipart:block:0] (Transparency,Error)
-[11:36:02] [Client thread/INFO] [ColorPalette] Color palette file generated with 948 colors in 55ms for: C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\journeymap\colorpalette.json
-[11:36:02] [Client thread/INFO] [ColorManager] Updated color palette file: C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\journeymap\colorpalette.json
-[11:36:48] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\journeymap\data\sp\New World--\waypoints
-[11:36:48] [Client thread/INFO] [ColorManager] Blocks and textures are current
-[11:36:48] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\journeymap\data\sp\New World--\DIM0. Memory: 1563MB total, 298MB free 
-[11:36:50] [Client thread/INFO] [ChatLog] JourneyMap: Press [HOME]
-[11:39:36] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\journeymap\data\sp\New World--\DIM0
+[12:23:25] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg �ms
+[12:23:32] [Client thread/INFO] [JourneymapClient] postInitialize ENTER
+[12:23:32] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.ChatEventHandler registered in MinecraftForgeBus
+[12:23:32] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.StateTickHandler registered in FMLCommonHandlerBus
+[12:23:32] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.WorldEventHandler registered in MinecraftForgeBus
+[12:23:32] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.ChunkUpdateHandler registered in MinecraftForgeBus
+[12:23:32] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.WaypointBeaconHandler registered in MinecraftForgeBus
+[12:23:32] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.TextureAtlasHandler registered in MinecraftForgeBus
+[12:23:32] [Client thread/INFO] [WorldInfoHandler] Registered channel: world_info
+[12:23:32] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.MiniMapOverlayHandler registered in MinecraftForgeBus
+[12:23:32] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.KeyEventHandler registered in FMLCommonHandlerBus
+[12:23:32] [Client thread/INFO] [IconSetFileHandler] Initializing icon sets...
+[12:23:32] [Client thread/TRACE] [ThemeFileHandler] Initializing themes ...
+[12:23:32] [Client thread/DEBUG] [PropertiesBase] Saved journeymap.webmap.config
+[12:23:32] [Client thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r669.72§8ms§r
+[12:23:46] [Client thread/INFO] [ColorManager] Loading blocks and textures...
+[12:23:46] [Client thread/INFO] [BlockMD] Built BlockMD cache (1207) : BlockMD.reset count 1 avg 55.22ms
+[12:23:46] [Client thread/INFO] [ColorHelper_1_7_10] initBlocksTexture: 1024x512 loaded in 17.439031ms
+[12:23:46] [Client thread/WARN] [ColorPalette] Existing color palette's mods no longer match current loadout.
+[12:23:46] [Client thread/INFO] [ColorPalette] WAS: Alternate Terrain Generation:0.10.0, Battle Towers:1.5.1, Biomes O' Plenty:2.1.0, ChickenChunks:1.3.4.19, CodeChicken Core:1.0.7.47, DrZhark's CustomSpawner:3.3.0, DrZhark's Mo'Creatures Mod:6.3.1, Dynamic Lights Burning Entity Module:1.0.4, Dynamic Lights Creeper Module:1.0.4, Dynamic Lights Entity Light Module:1.0.1, Dynamic Lights EntityItem Module:1.0.8, Dynamic Lights Fiery Arrows Light Module:1.0.0, Dynamic Lights Flood Light:1.0.2, Dynamic Lights Mob Equipment Light Module:1.0.8, Dynamic Lights OtherPlayers Light Module:1.0.8, Dynamic Lights Player Light Module:1.1.4, Dynamic Lights:1.3.8, EnderStorage:1.4.7.37, Farseek:1.0.11, Forge Microblocks:1.2.0.345, Forge Mod Loader:7.10.99.99, Forge Multipart:1.2.0.345, GraveStone:2.16.0, Infernal Mobs:1.6.0, Inventory Tweaks:1.59-dev-152-cf6e263, JourneyMap:5.1.4, Mantle:1.7.10-0.3.2.jenkins191, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Minecraft Multipart Plugin:1.2.0.345, Mod Support:0.31.3_build.unknown, NEI Addons: Applied Energistics 2:1.12.14.40, NEI Addons: Botany:1.12.14.40, NEI Addons: Crafting Tables:1.12.14.40, NEI Addons: Developer Tools:1.12.14.40, NEI Addons: Ex Nihilo:1.12.14.40, NEI Addons: Forestry:1.12.14.40, NEI Addons:1.12.14.40, NEI Integration:1.1.2, Neat:GRADLE:VERSION-GRADLE:BUILD, Not Enough Items:1.0.5.118, Ore Dictionary Converter:1.6.1, Pet Bat:1.3.8, Realistic Terrain Generation:0.6.2, Streams:0.2, TiC Tooltips:1.2.5, Tinkers' Construct:1.7.10-1.8.8.build988, Tinkers' Mechworks:0.2.15.106, Vein Miner:0.31.3_build.unknown, Veinminer Mod Integration:1.7.10-0.2.0, WR-CBE Addons:1.4.1.9, WR-CBE Core:1.4.1.9, WR-CBE Logic:1.4.1.9, Waila Harvestability:1.1.6, Waila:1.5.10, WorldEdit:6.0-beta-01
+NOW: Alternate Terrain Generation:0.10.0, Battle Towers:1.5.1, Biomes O' Plenty:2.1.0, ChickenChunks:1.3.4.19, CodeChicken Core:1.0.7.47, DrZhark's CustomSpawner:3.3.0, DrZhark's Mo'Creatures Mod:6.3.1, Dynamic Lights Burning Entity Module:1.0.4, Dynamic Lights Creeper Module:1.0.4, Dynamic Lights Entity Light Module:1.0.1, Dynamic Lights EntityItem Module:1.0.8, Dynamic Lights Fiery Arrows Light Module:1.0.0, Dynamic Lights Flood Light:1.0.2, Dynamic Lights Mob Equipment Light Module:1.0.8, Dynamic Lights OtherPlayers Light Module:1.0.8, Dynamic Lights Player Light Module:1.1.4, Dynamic Lights:1.3.8, EnderStorage:1.4.7.37, Farseek:1.0.11, Forge Microblocks:1.2.0.345, Forge Mod Loader:7.10.99.99, Forge Multipart:1.2.0.345, GraveStone:2.16.0, Infernal Mobs:1.6.0, Inventory Tweaks:1.59-dev-152-cf6e263, JourneyMap:5.1.4, Mantle:1.7.10-0.3.2.jenkins191, MillÃ©naire:6.0.0, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Minecraft Multipart Plugin:1.2.0.345, Mod Support:0.31.3_build.unknown, NEI Addons: Applied Energistics 2:1.12.14.40, NEI Addons: Botany:1.12.14.40, NEI Addons: Crafting Tables:1.12.14.40, NEI Addons: Developer Tools:1.12.14.40, NEI Addons: Ex Nihilo:1.12.14.40, NEI Addons: Forestry:1.12.14.40, NEI Addons:1.12.14.40, NEI Integration:1.1.2, Neat:GRADLE:VERSION-GRADLE:BUILD, Not Enough Items:1.0.5.118, Ore Dictionary Converter:1.6.1, Pet Bat:1.3.8, Realistic Terrain Generation:0.6.2, Streams:0.2, TiC Tooltips:1.2.5, Tinkers' Construct:1.7.10-1.8.8.build988, Tinkers' Mechworks:0.2.15.106, Vein Miner:0.31.3_build.unknown, Veinminer Mod Integration:1.7.10-0.2.0, WR-CBE Addons:1.4.1.9, WR-CBE Core:1.4.1.9, WR-CBE Logic:1.4.1.9, Waila Harvestability:1.1.6, Waila:1.5.10, WorldEdit:6.0-beta-01
+[12:23:46] [Client thread/INFO] [ColorManager] Initialized 973 block colors from mods and resource packs in 45ms
+[12:23:46] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ForgeMultipart:block:0] (Transparency,Error)
+[12:23:46] [Client thread/INFO] [ColorPalette] Color palette file generated with 981 colors in 51ms for: C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\journeymap\colorpalette.json
+[12:23:46] [Client thread/INFO] [ColorManager] Updated color palette file: C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\journeymap\colorpalette.json
+[12:24:49] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\journeymap\data\sp\New World---\waypoints
+[12:24:49] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[12:24:49] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\journeymap\data\sp\New World---\DIM0. Memory: 1571MB total, 213MB free 
+[12:25:01] [Client thread/INFO] [ChatLog] JourneyMap: Press [HOME]
+[12:25:02] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/panther.png
+[12:25:02] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/miceb.png
+[12:25:16] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/cricketb.png
+[12:25:16] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/tiger.png
+[12:25:16] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/lionf.png
+[12:25:19] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/miceg.png
+[12:25:26] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/mothidiaaemula.png
+[12:25:32] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/bearpanda.png
+[12:25:32] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/bunnye.png
+[12:25:32] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/bfathymanefte.png
+[12:25:32] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/bunnyc.png
+[12:25:32] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/bunnyb.png
+[12:25:35] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/bunnyd.png
+[12:25:35] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/elephantindian.png
+[12:25:40] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/elephantafrican.png
+[12:25:40] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/bunny.png
+[12:25:43] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/fox.png
+[12:25:46] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/deer.png
+[12:25:46] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/boarb.png
+[12:25:46] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/pussycatg.png
+[12:25:46] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/crocodile.png
+[12:25:49] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/boara.png
+[12:25:56] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/duck.png
+[12:25:56] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/pussycatd.png
+[12:27:24] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/cheetah.png
+[12:30:05] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/deerf.png
+[12:30:16] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/ostrichb.png
+[12:30:16] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/pussycatb.png
+[12:31:01] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/turkey.png
+[12:31:01] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/pussycatc.png
+[12:32:28] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/komododragon.png
+[12:34:57] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/ratw.png
+[12:35:13] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/turtle.png
+[12:35:42] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/fishy3.png
+[12:35:45] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/mediumfish_bass.png
+[12:35:58] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/wolffire1.png
+[12:36:36] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/wolfblack.png
+[12:37:30] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/scorpiondirt.png
+[12:38:10] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/horseskeleton.png
+[12:38:22] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/horseundead02.png
+[12:38:25] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/horseundead06.png
+[12:38:29] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/horseundead07.png
+[12:38:32] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/mocreatures/textures/models/horseundead03.png
+[12:38:50] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/gravestone/textures/entities/SkullCrawler.png
+[12:40:22] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\journeymap\data\sp\New World---\DIM0

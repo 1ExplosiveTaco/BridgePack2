@@ -1,104 +1,131 @@
-[11:35:13] [main/INFO]: Setting user: 1ExplosiveTaco
-[11:35:15] [Client thread/INFO]: LWJGL Version: 2.9.1
-[11:35:31] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Alternate Terrain Generation, FMLFileResourcePack:Battle Towers, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:DrZhark's CustomSpawner, FMLFileResourcePack:DrZhark's Mo'Creatures Mod, FMLFileResourcePack:Dynamic Lights, FMLFileResourcePack:Dynamic Lights Burning Entity Module, FMLFileResourcePack:Dynamic Lights Creeper Module, FMLFileResourcePack:Dynamic Lights EntityItem Module, FMLFileResourcePack:Dynamic Lights Entity Light Module, FMLFileResourcePack:Dynamic Lights Mob Equipment Light Module, FMLFileResourcePack:Dynamic Lights Fiery Arrows Light Module, FMLFileResourcePack:Dynamic Lights Flood Light, FMLFileResourcePack:Dynamic Lights OtherPlayers Light Module, FMLFileResourcePack:Dynamic Lights Player Light Module, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:farseek, FMLFileResourcePack:GraveStone, FMLFileResourcePack:Infernal Mobs, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Mantle, FMLFileResourcePack:Neat, FMLFileResourcePack:NEI Addons, FMLFileResourcePack:NEI Addons: Developer Tools, FMLFileResourcePack:NEI Addons: Applied Energistics 2, FMLFileResourcePack:NEI Addons: Botany, FMLFileResourcePack:NEI Addons: Forestry, FMLFileResourcePack:NEI Addons: Crafting Tables, FMLFileResourcePack:NEI Addons: Ex Nihilo, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:Ore Dictionary Converter, FMLFileResourcePack:Pet Bat, FMLFileResourcePack:Realistic Terrain Generation, FMLFileResourcePack:streams, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:TiC Tooltips, FMLFileResourcePack:Tinkers' Mechworks, FMLFileResourcePack:Vein Miner, FMLFileResourcePack:Mod Support, FMLFileResourcePack:Veinminer Mod Integration, FMLFileResourcePack:Waila, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:WorldEdit, FMLFileResourcePack:WR-CBE Core, FMLFileResourcePack:WR-CBE Addons, FMLFileResourcePack:WR-CBE Logic, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin
-[11:35:31] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
-[11:35:31] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
-[11:35:31] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
-[11:35:31] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
-[11:35:31] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
-[11:35:31] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
-[11:35:31] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
-[11:35:31] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
-[11:35:31] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
-[11:35:31] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
-[11:35:31] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
-[11:35:31] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
-[11:35:31] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
-[11:35:38] [Sound Library Loader/INFO]: Sound engine started
-[11:35:51] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[11:35:51] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[11:35:56] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Alternate Terrain Generation, FMLFileResourcePack:Battle Towers, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:DrZhark's CustomSpawner, FMLFileResourcePack:DrZhark's Mo'Creatures Mod, FMLFileResourcePack:Dynamic Lights, FMLFileResourcePack:Dynamic Lights Burning Entity Module, FMLFileResourcePack:Dynamic Lights Creeper Module, FMLFileResourcePack:Dynamic Lights EntityItem Module, FMLFileResourcePack:Dynamic Lights Entity Light Module, FMLFileResourcePack:Dynamic Lights Mob Equipment Light Module, FMLFileResourcePack:Dynamic Lights Fiery Arrows Light Module, FMLFileResourcePack:Dynamic Lights Flood Light, FMLFileResourcePack:Dynamic Lights OtherPlayers Light Module, FMLFileResourcePack:Dynamic Lights Player Light Module, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:Farseek, FMLFileResourcePack:GraveStone, FMLFileResourcePack:Infernal Mobs, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Mantle, FMLFileResourcePack:Neat, FMLFileResourcePack:NEI Addons, FMLFileResourcePack:NEI Addons: Developer Tools, FMLFileResourcePack:NEI Addons: Applied Energistics 2, FMLFileResourcePack:NEI Addons: Botany, FMLFileResourcePack:NEI Addons: Forestry, FMLFileResourcePack:NEI Addons: Crafting Tables, FMLFileResourcePack:NEI Addons: Ex Nihilo, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:Ore Dictionary Converter, FMLFileResourcePack:Pet Bat, FMLFileResourcePack:Realistic Terrain Generation, FMLFileResourcePack:Streams, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:TiC Tooltips, FMLFileResourcePack:Tinkers' Mechworks, FMLFileResourcePack:Vein Miner, FMLFileResourcePack:Mod Support, FMLFileResourcePack:Veinminer Mod Integration, FMLFileResourcePack:Waila, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:WorldEdit, FMLFileResourcePack:WR-CBE Core, FMLFileResourcePack:WR-CBE Addons, FMLFileResourcePack:WR-CBE Logic, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin
-[11:35:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
-[11:35:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
-[11:35:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
-[11:35:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
-[11:35:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
-[11:35:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
-[11:35:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
-[11:35:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
-[11:35:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
-[11:35:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
-[11:35:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
-[11:35:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
-[11:35:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
-[11:35:58] [Client thread/INFO]: Created: 1024x512 textures/blocks-atlas
-[11:36:00] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
-[11:36:01] [Sound Library Loader/INFO]: Sound engine started
-[11:36:17] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[11:36:17] [Server thread/INFO]: Generating keypair
-[11:36:18] [Server thread/INFO]: Converting map!
-[11:36:18] [Server thread/INFO]: Scanning folders...
-[11:36:18] [Server thread/INFO]: Total conversion count is 0
-[11:36:20] [Server thread/WARN]: Unable to find spawn biome
-[11:36:29] [Server thread/INFO]: Preparing start region for level 0
-[11:36:30] [Server thread/INFO]: Preparing spawn area: 2%
-[11:36:31] [Server thread/INFO]: Preparing spawn area: 13%
-[11:36:32] [Server thread/INFO]: Preparing spawn area: 28%
-[11:36:33] [Server thread/INFO]: Preparing spawn area: 43%
-[11:36:34] [Server thread/INFO]: Preparing spawn area: 62%
-[11:36:36] [Server thread/INFO]: Preparing spawn area: 80%
-[11:36:38] [Server thread/INFO]: Changing view distance to 8, from 10
-[11:36:38] [Server thread/INFO]: 1ExplosiveTaco[local:E:9cbdc0c4] logged in with entity id 2339 at (-118.5, 82.0, -257.5)
-[11:36:38] [Server thread/INFO]: 1ExplosiveTaco joined the game
-[11:36:44] [Client thread/INFO]: [CHAT] Veinminer using client keybind. See mod config for details.
-[11:36:44] [Server thread/INFO]: Saving and pausing game...
-[11:36:44] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:36:44] [Client thread/INFO]: [CHAT] InvTweaks: Configuration loaded.
-[11:36:47] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:36:47] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
-[11:36:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2346ms behind, skipping 46 tick(s)
-[11:36:49] [Client thread/INFO]: [CHAT] codechickencore.update
-[11:36:50] [Client thread/INFO]: [CHAT] §eJourneyMap:§f Press [§bHOME§f]
-[11:36:52] [Server thread/INFO]: Saving and pausing game...
-[11:36:52] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:36:52] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:36:52] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
-[11:36:55] [Client thread/INFO]: Warning: Clientside chunk ticking took 111 ms
-[11:36:55] [Client thread/INFO]: Warning: Clientside chunk ticking took 106 ms
-[11:36:55] [Client thread/INFO]: Warning: Clientside chunk ticking took 142 ms
-[11:36:55] [Client thread/INFO]: Warning: Clientside chunk ticking took 123 ms
-[11:36:55] [Client thread/INFO]: Warning: Clientside chunk ticking took 106 ms
-[11:36:56] [Client thread/INFO]: Warning: Clientside chunk ticking took 155 ms
-[11:37:13] [Client thread/INFO]: Warning: Clientside chunk ticking took 102 ms
-[11:37:27] [Client thread/INFO]: Warning: Clientside chunk ticking took 101 ms
-[11:37:27] [Client thread/INFO]: Warning: Clientside chunk ticking took 108 ms
-[11:37:28] [Client thread/INFO]: Warning: Clientside chunk ticking took 101 ms
-[11:37:29] [Client thread/INFO]: Warning: Clientside chunk ticking took 109 ms
-[11:37:29] [Client thread/INFO]: Warning: Clientside chunk ticking took 111 ms
-[11:37:53] [Client thread/INFO]: Warning: Clientside chunk ticking took 215 ms
-[11:37:53] [Client thread/INFO]: Warning: Clientside chunk ticking took 212 ms
-[11:37:53] [Client thread/INFO]: Warning: Clientside chunk ticking took 206 ms
-[11:38:00] [Client thread/INFO]: Warning: Clientside chunk ticking took 270 ms
-[11:38:01] [Client thread/INFO]: Warning: Clientside chunk ticking took 271 ms
-[11:38:01] [Client thread/INFO]: Warning: Clientside chunk ticking took 295 ms
-[11:38:07] [Server thread/INFO]: Saving and pausing game...
-[11:38:07] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:38:08] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:38:08] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
-[11:38:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2107ms behind, skipping 42 tick(s)
-[11:38:55] [Server thread/INFO]: Saving and pausing game...
-[11:38:55] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:38:55] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:38:55] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
-[11:39:30] [Server thread/INFO]: Saving and pausing game...
-[11:39:30] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:39:30] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:39:30] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
-[11:39:36] [Client thread/INFO]: Stopping!
-[11:39:36] [Server thread/INFO]: Stopping server
-[11:39:36] [Server thread/INFO]: Saving players
-[11:39:36] [Server thread/INFO]: Saving worlds
-[11:39:36] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:39:36] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:39:36] [Client Shutdown Thread/INFO]: Stopping server
-[11:39:36] [Client Shutdown Thread/INFO]: Saving players
+[12:22:52] [main/INFO]: Setting user: 1ExplosiveTaco
+[12:22:54] [Client thread/INFO]: LWJGL Version: 2.9.1
+[12:23:10] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Alternate Terrain Generation, FMLFileResourcePack:Battle Towers, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:DrZhark's CustomSpawner, FMLFileResourcePack:DrZhark's Mo'Creatures Mod, FMLFileResourcePack:Dynamic Lights, FMLFileResourcePack:Dynamic Lights Burning Entity Module, FMLFileResourcePack:Dynamic Lights Creeper Module, FMLFileResourcePack:Dynamic Lights EntityItem Module, FMLFileResourcePack:Dynamic Lights Entity Light Module, FMLFileResourcePack:Dynamic Lights Mob Equipment Light Module, FMLFileResourcePack:Dynamic Lights Fiery Arrows Light Module, FMLFileResourcePack:Dynamic Lights Flood Light, FMLFileResourcePack:Dynamic Lights OtherPlayers Light Module, FMLFileResourcePack:Dynamic Lights Player Light Module, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:farseek, FMLFileResourcePack:GraveStone, FMLFileResourcePack:Infernal Mobs, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Mantle, FMLFileResourcePack:MillÃ©naire, FMLFileResourcePack:Neat, FMLFileResourcePack:NEI Addons, FMLFileResourcePack:NEI Addons: Developer Tools, FMLFileResourcePack:NEI Addons: Applied Energistics 2, FMLFileResourcePack:NEI Addons: Botany, FMLFileResourcePack:NEI Addons: Forestry, FMLFileResourcePack:NEI Addons: Crafting Tables, FMLFileResourcePack:NEI Addons: Ex Nihilo, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:Ore Dictionary Converter, FMLFileResourcePack:Pet Bat, FMLFileResourcePack:Realistic Terrain Generation, FMLFileResourcePack:streams, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:TiC Tooltips, FMLFileResourcePack:Tinkers' Mechworks, FMLFileResourcePack:Vein Miner, FMLFileResourcePack:Mod Support, FMLFileResourcePack:Veinminer Mod Integration, FMLFileResourcePack:Waila, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:WorldEdit, FMLFileResourcePack:WR-CBE Core, FMLFileResourcePack:WR-CBE Addons, FMLFileResourcePack:WR-CBE Logic, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin
+[12:23:10] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:10] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:10] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:10] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:10] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:10] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:10] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:10] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:10] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:10] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:10] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:10] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:10] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:15] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Alternate Terrain Generation, FMLFileResourcePack:Battle Towers, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:DrZhark's CustomSpawner, FMLFileResourcePack:DrZhark's Mo'Creatures Mod, FMLFileResourcePack:Dynamic Lights, FMLFileResourcePack:Dynamic Lights Burning Entity Module, FMLFileResourcePack:Dynamic Lights Creeper Module, FMLFileResourcePack:Dynamic Lights EntityItem Module, FMLFileResourcePack:Dynamic Lights Entity Light Module, FMLFileResourcePack:Dynamic Lights Mob Equipment Light Module, FMLFileResourcePack:Dynamic Lights Fiery Arrows Light Module, FMLFileResourcePack:Dynamic Lights Flood Light, FMLFileResourcePack:Dynamic Lights OtherPlayers Light Module, FMLFileResourcePack:Dynamic Lights Player Light Module, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:Farseek, FMLFileResourcePack:GraveStone, FMLFileResourcePack:Infernal Mobs, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Mantle, FMLFileResourcePack:MillÃ©naire, FMLFileResourcePack:Neat, FMLFileResourcePack:NEI Addons, FMLFileResourcePack:NEI Addons: Developer Tools, FMLFileResourcePack:NEI Addons: Applied Energistics 2, FMLFileResourcePack:NEI Addons: Botany, FMLFileResourcePack:NEI Addons: Forestry, FMLFileResourcePack:NEI Addons: Crafting Tables, FMLFileResourcePack:NEI Addons: Ex Nihilo, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:Ore Dictionary Converter, FMLFileResourcePack:Pet Bat, FMLFileResourcePack:Realistic Terrain Generation, FMLFileResourcePack:streams, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:TiC Tooltips, FMLFileResourcePack:Tinkers' Mechworks, FMLFileResourcePack:Vein Miner, FMLFileResourcePack:Mod Support, FMLFileResourcePack:Veinminer Mod Integration, FMLFileResourcePack:Waila, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:WorldEdit, FMLFileResourcePack:WR-CBE Core, FMLFileResourcePack:WR-CBE Addons, FMLFileResourcePack:WR-CBE Logic, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin
+[12:23:15] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:15] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:15] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:15] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:15] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:15] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:15] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:15] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:15] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:15] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:15] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:15] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:15] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:18] [Sound Library Loader/INFO]: Sound engine started
+[12:23:24] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[12:23:24] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[12:23:35] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Alternate Terrain Generation, FMLFileResourcePack:Battle Towers, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:DrZhark's CustomSpawner, FMLFileResourcePack:DrZhark's Mo'Creatures Mod, FMLFileResourcePack:Dynamic Lights, FMLFileResourcePack:Dynamic Lights Burning Entity Module, FMLFileResourcePack:Dynamic Lights Creeper Module, FMLFileResourcePack:Dynamic Lights EntityItem Module, FMLFileResourcePack:Dynamic Lights Entity Light Module, FMLFileResourcePack:Dynamic Lights Mob Equipment Light Module, FMLFileResourcePack:Dynamic Lights Fiery Arrows Light Module, FMLFileResourcePack:Dynamic Lights Flood Light, FMLFileResourcePack:Dynamic Lights OtherPlayers Light Module, FMLFileResourcePack:Dynamic Lights Player Light Module, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:Farseek, FMLFileResourcePack:GraveStone, FMLFileResourcePack:Infernal Mobs, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Mantle, FMLFileResourcePack:MillÃ©naire, FMLFileResourcePack:Neat, FMLFileResourcePack:NEI Addons, FMLFileResourcePack:NEI Addons: Developer Tools, FMLFileResourcePack:NEI Addons: Applied Energistics 2, FMLFileResourcePack:NEI Addons: Botany, FMLFileResourcePack:NEI Addons: Forestry, FMLFileResourcePack:NEI Addons: Crafting Tables, FMLFileResourcePack:NEI Addons: Ex Nihilo, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:Ore Dictionary Converter, FMLFileResourcePack:Pet Bat, FMLFileResourcePack:Realistic Terrain Generation, FMLFileResourcePack:Streams, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:TiC Tooltips, FMLFileResourcePack:Tinkers' Mechworks, FMLFileResourcePack:Vein Miner, FMLFileResourcePack:Mod Support, FMLFileResourcePack:Veinminer Mod Integration, FMLFileResourcePack:Waila, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:WorldEdit, FMLFileResourcePack:WR-CBE Core, FMLFileResourcePack:WR-CBE Addons, FMLFileResourcePack:WR-CBE Logic, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin
+[12:23:35] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:35] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:35] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:35] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:35] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:35] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:35] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:35] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:35] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:35] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:35] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:35] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:35] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[12:23:36] [Client thread/INFO]: Created: 1024x512 textures/blocks-atlas
+[12:23:39] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
+[12:23:40] [Sound Library Loader/INFO]: Sound engine started
+[12:24:16] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[12:24:16] [Server thread/INFO]: Generating keypair
+[12:24:16] [Server thread/INFO]: Converting map!
+[12:24:16] [Server thread/INFO]: Scanning folders...
+[12:24:16] [Server thread/INFO]: Total conversion count is 0
+[12:24:18] [Server thread/WARN]: Unable to find spawn biome
+[12:24:27] [Server thread/INFO]: Preparing start region for level 0
+[12:24:28] [Server thread/INFO]: Preparing spawn area: 2%
+[12:24:29] [Server thread/INFO]: Preparing spawn area: 7%
+[12:24:30] [Server thread/INFO]: Preparing spawn area: 15%
+[12:24:31] [Server thread/INFO]: Preparing spawn area: 24%
+[12:24:32] [Server thread/INFO]: Preparing spawn area: 34%
+[12:24:33] [Server thread/INFO]: Preparing spawn area: 41%
+[12:24:34] [Server thread/INFO]: Preparing spawn area: 53%
+[12:24:35] [Server thread/INFO]: Preparing spawn area: 64%
+[12:24:36] [Server thread/INFO]: Preparing spawn area: 72%
+[12:24:37] [Server thread/INFO]: Preparing spawn area: 79%
+[12:24:38] [Server thread/INFO]: Preparing spawn area: 87%
+[12:24:39] [Server thread/INFO]: Preparing spawn area: 97%
+[12:24:41] [Server thread/INFO]: Changing view distance to 8, from 10
+[12:24:41] [Server thread/INFO]: 1ExplosiveTaco[local:E:487c6635] logged in with entity id 2651 at (14.5, 72.0, -18.5)
+[12:24:42] [Server thread/INFO]: 1ExplosiveTaco joined the game
+[12:24:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3400ms behind, skipping 68 tick(s)
+[12:24:47] [Client thread/INFO]: [CHAT] Veinminer using client keybind. See mod config for details.
+[12:24:47] [Client thread/INFO]: [CHAT] Creation Quest: Chapter "The Sadhu": not started. Chapter "The Alchemist": not started. Chapter "The Fallen King": not started.  Press 'M' for more information or to access the Millénaire help.
+[12:24:47] [Client thread/INFO]: [CHAT] Millénaire 6.0.0 is loaded. Explore and press 'V' to locate villages.
+[12:24:47] [Client thread/INFO]: [CHAT] Bonus content enabled.
+[12:24:48] [Server thread/INFO]: Saving and pausing game...
+[12:24:48] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[12:24:48] [Client thread/INFO]: [CHAT] InvTweaks: Configuration loaded.
+[12:24:57] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[12:24:57] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
+[12:25:00] [Client thread/INFO]: [CHAT] codechickencore.update
+[12:25:01] [Client thread/INFO]: [CHAT] §eJourneyMap:§f Press [§bHOME§f]
+[12:25:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3268ms behind, skipping 65 tick(s)
+[12:25:12] [Client thread/INFO]: Warning: Clientside chunk ticking took 720 ms
+[12:25:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3292ms behind, skipping 65 tick(s)
+[12:25:33] [Client thread/INFO]: Warning: Clientside chunk ticking took 511 ms
+[12:25:33] [Client thread/INFO]: Warning: Clientside chunk ticking took 253 ms
+[12:25:34] [Client thread/INFO]: Warning: Clientside chunk ticking took 411 ms
+[12:26:00] [Client thread/INFO]: [CHAT] §eNew village located: Barbery-la-fôret of type Village militaire and culture Norman is 82 metres to the South-West.
+[12:26:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7317ms behind, skipping 146 tick(s)
+[12:26:02] [Server thread/INFO]: Saving and pausing game...
+[12:26:02] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[12:26:02] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[12:26:02] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
+[12:26:08] [Client thread/INFO]: [CHAT] Saved screenshot as 2016-02-27_12.26.08.png
+[12:26:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2380ms behind, skipping 47 tick(s)
+[12:26:37] [Client thread/INFO]: [CHAT] §fAlfgard de Mortain: I'll be right there, 1ExplosiveTaco!
+[12:26:42] [Client thread/INFO]: [CHAT] §fAlfgard de Mortain: I hope you liked trading with us! Have a good day.
+[12:26:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9114ms behind, skipping 182 tick(s)
+[12:27:36] [Server thread/INFO]: 1ExplosiveTaco has just earned the achievement [Taking Inventory]
+[12:27:36] [Client thread/INFO]: [CHAT] 1ExplosiveTaco has just earned the achievement [Taking Inventory]
+[12:30:52] [Client thread/INFO]: Warning: Clientside chunk ticking took 150 ms
+[12:34:00] [Client thread/INFO]: [CHAT] §fOttilia Sigvald: I'll be right there, 1ExplosiveTaco!
+[12:34:03] [Server thread/INFO]: 1ExplosiveTaco has just earned the achievement [First contact]
+[12:34:03] [Client thread/INFO]: [CHAT] 1ExplosiveTaco has just earned the achievement [First contact]
+[12:38:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.idle
+[12:38:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.idle
+[12:38:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.idle
+[12:38:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.idle
+[12:38:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.idle
+[12:38:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.idle
+[12:38:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.idle
+[12:38:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.idle
+[12:38:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.idle
+[12:38:45] [Client thread/INFO]: [CHAT] §fRobert Sigvald: §9Tous pour un !
+[12:38:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.idle
+[12:38:49] [Client thread/INFO]: [CHAT] §fRobert Sigvald: §9Aux armes ! Aux armes !
+[12:38:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.idle
+[12:40:20] [Server thread/INFO]: Saving and pausing game...
+[12:40:20] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[12:40:20] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[12:40:20] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
+[12:40:22] [Server thread/INFO]: Stopping server
+[12:40:22] [Server thread/INFO]: Saving players
+[12:40:22] [Server thread/INFO]: Saving worlds
+[12:40:22] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[12:40:22] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[12:40:22] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
+[12:40:28] [Client thread/INFO]: Stopping!

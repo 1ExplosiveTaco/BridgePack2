@@ -1,0 +1,2 @@
+quest:lumbermancider;step:0;startTime:10000;currentStepStartTime:10000;villager:startvillager,8707845965161237063,-364/76/82
+quest:lordssword;step:0;startTime:12000;currentStepStartTime:12000;villager:startvillager,6779516386769067672,-364/76/82;villager:knight,5250507782837317642,-364/76/82

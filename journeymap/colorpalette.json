@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 5.1.4 Unlimited for 1.7.10 on Sat Feb 27 11:36:02 EST 2016",
+  "generated": "Generated using JourneyMap 5.1.4 Unlimited for 1.7.10 on Sat Feb 27 12:23:46 EST 2016",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -11,7 +11,7 @@ var colorpalette={
   ],
   "permanent": false,
   "resourcePacks": "Default",
-  "modNames": "Alternate Terrain Generation:0.10.0, Battle Towers:1.5.1, Biomes O\u0027 Plenty:2.1.0, ChickenChunks:1.3.4.19, CodeChicken Core:1.0.7.47, DrZhark\u0027s CustomSpawner:3.3.0, DrZhark\u0027s Mo\u0027Creatures Mod:6.3.1, Dynamic Lights Burning Entity Module:1.0.4, Dynamic Lights Creeper Module:1.0.4, Dynamic Lights Entity Light Module:1.0.1, Dynamic Lights EntityItem Module:1.0.8, Dynamic Lights Fiery Arrows Light Module:1.0.0, Dynamic Lights Flood Light:1.0.2, Dynamic Lights Mob Equipment Light Module:1.0.8, Dynamic Lights OtherPlayers Light Module:1.0.8, Dynamic Lights Player Light Module:1.1.4, Dynamic Lights:1.3.8, EnderStorage:1.4.7.37, Farseek:1.0.11, Forge Microblocks:1.2.0.345, Forge Mod Loader:7.10.99.99, Forge Multipart:1.2.0.345, GraveStone:2.16.0, Infernal Mobs:1.6.0, Inventory Tweaks:1.59-dev-152-cf6e263, JourneyMap:5.1.4, Mantle:1.7.10-0.3.2.jenkins191, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Minecraft Multipart Plugin:1.2.0.345, Mod Support:0.31.3_build.unknown, NEI Addons: Applied Energistics 2:1.12.14.40, NEI Addons: Botany:1.12.14.40, NEI Addons: Crafting Tables:1.12.14.40, NEI Addons: Developer Tools:1.12.14.40, NEI Addons: Ex Nihilo:1.12.14.40, NEI Addons: Forestry:1.12.14.40, NEI Addons:1.12.14.40, NEI Integration:1.1.2, Neat:GRADLE:VERSION-GRADLE:BUILD, Not Enough Items:1.0.5.118, Ore Dictionary Converter:1.6.1, Pet Bat:1.3.8, Realistic Terrain Generation:0.6.2, Streams:0.2, TiC Tooltips:1.2.5, Tinkers\u0027 Construct:1.7.10-1.8.8.build988, Tinkers\u0027 Mechworks:0.2.15.106, Vein Miner:0.31.3_build.unknown, Veinminer Mod Integration:1.7.10-0.2.0, WR-CBE Addons:1.4.1.9, WR-CBE Core:1.4.1.9, WR-CBE Logic:1.4.1.9, Waila Harvestability:1.1.6, Waila:1.5.10, WorldEdit:6.0-beta-01",
+  "modNames": "Alternate Terrain Generation:0.10.0, Battle Towers:1.5.1, Biomes O\u0027 Plenty:2.1.0, ChickenChunks:1.3.4.19, CodeChicken Core:1.0.7.47, DrZhark\u0027s CustomSpawner:3.3.0, DrZhark\u0027s Mo\u0027Creatures Mod:6.3.1, Dynamic Lights Burning Entity Module:1.0.4, Dynamic Lights Creeper Module:1.0.4, Dynamic Lights Entity Light Module:1.0.1, Dynamic Lights EntityItem Module:1.0.8, Dynamic Lights Fiery Arrows Light Module:1.0.0, Dynamic Lights Flood Light:1.0.2, Dynamic Lights Mob Equipment Light Module:1.0.8, Dynamic Lights OtherPlayers Light Module:1.0.8, Dynamic Lights Player Light Module:1.1.4, Dynamic Lights:1.3.8, EnderStorage:1.4.7.37, Farseek:1.0.11, Forge Microblocks:1.2.0.345, Forge Mod Loader:7.10.99.99, Forge Multipart:1.2.0.345, GraveStone:2.16.0, Infernal Mobs:1.6.0, Inventory Tweaks:1.59-dev-152-cf6e263, JourneyMap:5.1.4, Mantle:1.7.10-0.3.2.jenkins191, MillÃ©naire:6.0.0, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Minecraft Multipart Plugin:1.2.0.345, Mod Support:0.31.3_build.unknown, NEI Addons: Applied Energistics 2:1.12.14.40, NEI Addons: Botany:1.12.14.40, NEI Addons: Crafting Tables:1.12.14.40, NEI Addons: Developer Tools:1.12.14.40, NEI Addons: Ex Nihilo:1.12.14.40, NEI Addons: Forestry:1.12.14.40, NEI Addons:1.12.14.40, NEI Integration:1.1.2, Neat:GRADLE:VERSION-GRADLE:BUILD, Not Enough Items:1.0.5.118, Ore Dictionary Converter:1.6.1, Pet Bat:1.3.8, Realistic Terrain Generation:0.6.2, Streams:0.2, TiC Tooltips:1.2.5, Tinkers\u0027 Construct:1.7.10-1.8.8.build988, Tinkers\u0027 Mechworks:0.2.15.106, Vein Miner:0.31.3_build.unknown, Veinminer Mod Integration:1.7.10-0.2.0, WR-CBE Addons:1.4.1.9, WR-CBE Core:1.4.1.9, WR-CBE Logic:1.4.1.9, Waila Harvestability:1.1.6, Waila:1.5.10, WorldEdit:6.0-beta-01",
   "basicColors": [
     {
       "name": "Acacia Leaves",
@@ -66,6 +66,12 @@ var colorpalette={
       "uid": "TMechworks:RedstoneMachine",
       "meta": 2,
       "color": "#ae8631"
+    },
+    {
+      "name": "Alchimist\u0027s Explosive",
+      "uid": "millenaire:tile.ml_stone_deco",
+      "meta": 3,
+      "color": "#770000"
     },
     {
       "name": "Algae",
@@ -813,6 +819,24 @@ var colorpalette={
       "color": "#9c7f4e"
     },
     {
+      "name": "Byzantine Stone Tile",
+      "uid": "millenaire:tile.byzantine_mixedbrick",
+      "meta": 0,
+      "color": "#8a512c"
+    },
+    {
+      "name": "Byzantine Tile Slab",
+      "uid": "millenaire:tile.byzantine_brick_slab",
+      "meta": 0,
+      "color": "#824d2a"
+    },
+    {
+      "name": "Byzantine Tiles",
+      "uid": "millenaire:tile.byzantine_brick",
+      "meta": 0,
+      "color": "#8a512c"
+    },
+    {
       "name": "Cactus",
       "uid": "minecraft:cactus",
       "meta": 0,
@@ -1128,6 +1152,12 @@ var colorpalette={
       "color": "#684224"
     },
     {
+      "name": "Cooked Brick",
+      "uid": "millenaire:tile.ml_stone_deco",
+      "meta": 0,
+      "color": "#efece5"
+    },
+    {
       "name": "Copper Gravel Ore",
       "uid": "TConstruct:GravelOre",
       "meta": 2,
@@ -1192,6 +1222,12 @@ var colorpalette={
       "uid": "GraveStone:GSMemorial",
       "meta": 0,
       "color": "#7d7d7d"
+    },
+    {
+      "name": "Cross Timber Frame",
+      "uid": "millenaire:tile.ml_wood_deco",
+      "meta": 1,
+      "color": "#837a6c"
     },
     {
       "name": "Cyan Carpet",
@@ -1402,6 +1438,24 @@ var colorpalette={
       "color": "#5a3f1c"
     },
     {
+      "name": "Dirt Wall",
+      "uid": "millenaire:tile.ml_earth_deco",
+      "meta": 1,
+      "color": "#876a55"
+    },
+    {
+      "name": "Dirt path",
+      "uid": "millenaire:tile.ml_path",
+      "meta": 8,
+      "color": "#9d806b"
+    },
+    {
+      "name": "Dirt path",
+      "uid": "millenaire:tile.ml_path_slab",
+      "meta": 8,
+      "color": "#9d806b"
+    },
+    {
       "name": "Dispenser",
       "uid": "minecraft:dispenser",
       "meta": 0,
@@ -1574,6 +1628,12 @@ var colorpalette={
       "uid": "TMechworks:MeshFilter",
       "meta": 0,
       "color": "#976f24"
+    },
+    {
+      "name": "Empty Sericulture Block",
+      "uid": "millenaire:tile.ml_wood_deco",
+      "meta": 3,
+      "color": "#7c653d"
     },
     {
       "name": "Enchantment Table",
@@ -2058,6 +2118,12 @@ var colorpalette={
       "color": "#95834b"
     },
     {
+      "name": "Gold Ornament",
+      "uid": "millenaire:tile.ml_stone_deco",
+      "meta": 2,
+      "color": "#ae9c65"
+    },
+    {
       "name": "Goldenrod",
       "uid": "BiomesOPlenty:flowers2",
       "meta": 4,
@@ -2073,6 +2139,18 @@ var colorpalette={
       "name": "Gravel",
       "uid": "minecraft:gravel",
       "meta": 0,
+      "color": "#7e7c7a"
+    },
+    {
+      "name": "Gravel path",
+      "uid": "millenaire:tile.ml_path",
+      "meta": 9,
+      "color": "#7e7c7a"
+    },
+    {
+      "name": "Gravel path",
+      "uid": "millenaire:tile.ml_path_slab",
+      "meta": 9,
       "color": "#7e7c7a"
     },
     {
@@ -3069,6 +3147,12 @@ var colorpalette={
       "color": "#939393"
     },
     {
+      "name": "Locked Chest",
+      "uid": "millenaire:tile.ml_building",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
       "name": "Long Grass Block",
       "uid": "BiomesOPlenty:longGrass",
       "meta": 0,
@@ -3466,6 +3550,12 @@ var colorpalette={
       "color": "#493527"
     },
     {
+      "name": "Mud Brick",
+      "uid": "millenaire:tile.ml_stone_deco",
+      "meta": 1,
+      "color": "#c0b59d"
+    },
+    {
       "name": "Mud Bricks",
       "uid": "BiomesOPlenty:mudBricks",
       "meta": 0,
@@ -3633,6 +3723,18 @@ var colorpalette={
       "uid": "TConstruct:decoration.multibrick",
       "meta": 13,
       "color": "#232159"
+    },
+    {
+      "name": "Ochre slabs path",
+      "uid": "millenaire:tile.ml_path",
+      "meta": 12,
+      "color": "#9a7368"
+    },
+    {
+      "name": "Ochre slabs path",
+      "uid": "millenaire:tile.ml_path_slab",
+      "meta": 12,
+      "color": "#9a7368"
     },
     {
       "name": "OgreLair Dirt",
@@ -3837,6 +3939,12 @@ var colorpalette={
       "uid": "BiomesOPlenty:palmStairs",
       "meta": 0,
       "color": "#a7743b"
+    },
+    {
+      "name": "Paper Wall",
+      "uid": "millenaire:tile.ml_panes",
+      "meta": 0,
+      "color": "#c4b7ae"
     },
     {
       "name": "Part Builder",
@@ -4053,6 +4161,12 @@ var colorpalette={
       "uid": "minecraft:piston",
       "meta": 0,
       "color": "#606060"
+    },
+    {
+      "name": "Plain Timber Frame",
+      "uid": "millenaire:tile.ml_wood_deco",
+      "meta": 0,
+      "color": "#92897b"
     },
     {
       "name": "Poison",
@@ -4532,6 +4646,18 @@ var colorpalette={
       "color": "#dad29e"
     },
     {
+      "name": "Sandstone slabs path",
+      "uid": "millenaire:tile.ml_path",
+      "meta": 11,
+      "color": "#c1b985"
+    },
+    {
+      "name": "Sandstone slabs path",
+      "uid": "millenaire:tile.ml_path_slab",
+      "meta": 11,
+      "color": "#c1b985"
+    },
+    {
       "name": "Sandy Dirt",
       "uid": "BiomesOPlenty:newBopDirt",
       "meta": 2,
@@ -4694,6 +4820,12 @@ var colorpalette={
       "color": "#00b312"
     },
     {
+      "name": "Sericulture Block",
+      "uid": "millenaire:tile.ml_wood_deco",
+      "meta": 4,
+      "color": "#89724d"
+    },
+    {
       "name": "Shadow Shroom",
       "uid": "BiomesOPlenty:mushrooms",
       "meta": 5,
@@ -4776,6 +4908,30 @@ var colorpalette={
       "uid": "TConstruct:FurnaceSlab",
       "meta": 0,
       "color": "#606060"
+    },
+    {
+      "name": "Slabs and gravel path",
+      "uid": "millenaire:tile.ml_path",
+      "meta": 13,
+      "color": "#8a8986"
+    },
+    {
+      "name": "Slabs and gravel path",
+      "uid": "millenaire:tile.ml_path_slab",
+      "meta": 13,
+      "color": "#8a8986"
+    },
+    {
+      "name": "Slabs path",
+      "uid": "millenaire:tile.ml_path",
+      "meta": 10,
+      "color": "#9f9f9f"
+    },
+    {
+      "name": "Slabs path",
+      "uid": "millenaire:tile.ml_path_slab",
+      "meta": 10,
+      "color": "#9f9f9f"
     },
     {
       "name": "Slat Mesh Filter",
@@ -5132,6 +5288,12 @@ var colorpalette={
       "uid": "minecraft:tnt",
       "meta": 0,
       "color": "#82412f"
+    },
+    {
+      "name": "Thatch",
+      "uid": "millenaire:tile.ml_wood_deco",
+      "meta": 2,
+      "color": "#988550"
     },
     {
       "name": "Thorns",
@@ -5497,6 +5659,12 @@ var colorpalette={
       "color": "#f9ec4e"
     },
     {
+      "name": "Wet Brick",
+      "uid": "millenaire:tile.ml_earth_deco",
+      "meta": 0,
+      "color": "#714a26"
+    },
+    {
       "name": "White Anemone",
       "uid": "BiomesOPlenty:flowers",
       "meta": 9,
@@ -5833,6 +6001,36 @@ var colorpalette={
       "uid": "BiomesOPlenty:leaves4",
       "meta": 1,
       "color": "#3e3151"
+    },
+    {
+      "name": "tile.ml_cropMaize.name",
+      "uid": "millenaire:tile.ml_cropMaize",
+      "meta": 0,
+      "color": "#117401"
+    },
+    {
+      "name": "tile.ml_cropRice.name",
+      "uid": "millenaire:tile.ml_cropRice",
+      "meta": 0,
+      "color": "#5a740e"
+    },
+    {
+      "name": "tile.ml_cropTurmeric.name",
+      "uid": "millenaire:tile.ml_cropTurmeric",
+      "meta": 0,
+      "color": "#2e9e0d"
+    },
+    {
+      "name": "tile.ml_cropVine.name",
+      "uid": "millenaire:tile.ml_cropVine",
+      "meta": 0,
+      "color": "#706c39"
+    },
+    {
+      "name": "tile.ml_panel.name",
+      "uid": "millenaire:tile.ml_panel",
+      "meta": 0,
+      "color": "#9c7f4e"
     },
     {
       "name": "tile.null.name",
