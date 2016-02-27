@@ -1,139 +1,104 @@
-[10:01:38] [main/INFO]: Setting user: 1ExplosiveTaco
-[10:01:39] [Client thread/INFO]: LWJGL Version: 2.9.1
-[10:01:52] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Battle Towers, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:DrZhark's CustomSpawner, FMLFileResourcePack:DrZhark's Mo'Creatures Mod, FMLFileResourcePack:Dynamic Lights, FMLFileResourcePack:Dynamic Lights Burning Entity Module, FMLFileResourcePack:Dynamic Lights Creeper Module, FMLFileResourcePack:Dynamic Lights EntityItem Module, FMLFileResourcePack:Dynamic Lights Entity Light Module, FMLFileResourcePack:Dynamic Lights Mob Equipment Light Module, FMLFileResourcePack:Dynamic Lights Fiery Arrows Light Module, FMLFileResourcePack:Dynamic Lights Flood Light, FMLFileResourcePack:Dynamic Lights OtherPlayers Light Module, FMLFileResourcePack:Dynamic Lights Player Light Module, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:Infernal Mobs, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Mantle, FMLFileResourcePack:Neat, FMLFileResourcePack:NEI Addons, FMLFileResourcePack:NEI Addons: Developer Tools, FMLFileResourcePack:NEI Addons: Applied Energistics 2, FMLFileResourcePack:NEI Addons: Botany, FMLFileResourcePack:NEI Addons: Forestry, FMLFileResourcePack:NEI Addons: Crafting Tables, FMLFileResourcePack:NEI Addons: Ex Nihilo, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:Pet Bat, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:TiC Tooltips, FMLFileResourcePack:Tinkers' Mechworks, FMLFileResourcePack:Waila, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:WorldEdit, FMLFileResourcePack:WR-CBE Core, FMLFileResourcePack:WR-CBE Addons, FMLFileResourcePack:WR-CBE Logic, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin
-[10:01:58] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[10:01:58] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[10:01:59] [Sound Library Loader/INFO]: Sound engine started
-[10:02:02] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Battle Towers, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:DrZhark's CustomSpawner, FMLFileResourcePack:DrZhark's Mo'Creatures Mod, FMLFileResourcePack:Dynamic Lights, FMLFileResourcePack:Dynamic Lights Burning Entity Module, FMLFileResourcePack:Dynamic Lights Creeper Module, FMLFileResourcePack:Dynamic Lights EntityItem Module, FMLFileResourcePack:Dynamic Lights Entity Light Module, FMLFileResourcePack:Dynamic Lights Mob Equipment Light Module, FMLFileResourcePack:Dynamic Lights Fiery Arrows Light Module, FMLFileResourcePack:Dynamic Lights Flood Light, FMLFileResourcePack:Dynamic Lights OtherPlayers Light Module, FMLFileResourcePack:Dynamic Lights Player Light Module, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:Infernal Mobs, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Mantle, FMLFileResourcePack:Neat, FMLFileResourcePack:NEI Addons, FMLFileResourcePack:NEI Addons: Developer Tools, FMLFileResourcePack:NEI Addons: Applied Energistics 2, FMLFileResourcePack:NEI Addons: Botany, FMLFileResourcePack:NEI Addons: Forestry, FMLFileResourcePack:NEI Addons: Crafting Tables, FMLFileResourcePack:NEI Addons: Ex Nihilo, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:Pet Bat, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:TiC Tooltips, FMLFileResourcePack:Tinkers' Mechworks, FMLFileResourcePack:Waila, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:WorldEdit, FMLFileResourcePack:WR-CBE Core, FMLFileResourcePack:WR-CBE Addons, FMLFileResourcePack:WR-CBE Logic, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin
-[10:02:04] [Client thread/INFO]: Created: 1024x512 textures/blocks-atlas
-[10:02:06] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
-[10:02:07] [Sound Library Loader/INFO]: Sound engine started
-[10:02:29] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[10:02:29] [Server thread/INFO]: Generating keypair
-[10:02:30] [Server thread/INFO]: Converting map!
-[10:02:30] [Server thread/INFO]: Scanning folders...
-[10:02:30] [Server thread/INFO]: Total conversion count is 0
-[10:02:36] [Server thread/INFO]: Preparing start region for level 0
-[10:02:37] [Server thread/INFO]: Preparing spawn area: 7%
-[10:02:38] [Server thread/INFO]: Preparing spawn area: 20%
-[10:02:39] [Server thread/INFO]: Preparing spawn area: 33%
-[10:02:40] [Server thread/INFO]: Preparing spawn area: 40%
-[10:02:41] [Server thread/INFO]: Preparing spawn area: 49%
-[10:02:42] [Server thread/INFO]: Preparing spawn area: 62%
-[10:02:43] [Server thread/INFO]: Preparing spawn area: 77%
-[10:02:45] [Server thread/INFO]: Preparing spawn area: 88%
-[10:02:46] [Server thread/INFO]: Changing view distance to 8, from 10
-[10:02:47] [Server thread/INFO]: 1ExplosiveTaco[local:E:798da892] logged in with entity id 1584 at (-223.5, 70.0, 948.5)
-[10:02:47] [Server thread/INFO]: 1ExplosiveTaco joined the game
-[10:02:51] [Client thread/INFO]: [CHAT] codechickencore.update
-[10:02:51] [Client thread/INFO]: [CHAT] InvTweaks: C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\config\InvTweaksRules.txt missing, creating default one.
-[10:02:51] [Client thread/INFO]: [CHAT] InvTweaks: C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\config\InvTweaksTree.txt missing, creating default one.
-[10:02:51] [Client thread/INFO]: [CHAT] InvTweaks: Configuration loaded.
-[10:02:51] [Client thread/INFO]: Warning: Clientside chunk ticking took 179 ms
-[10:02:52] [Client thread/INFO]: [CHAT] §eJourneyMap:§f Press [§bJ§f]
-[10:03:01] [Server thread/INFO]: Saving and pausing game...
-[10:03:01] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[10:03:02] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[10:03:02] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
-[10:03:09] [Server thread/INFO]: 1ExplosiveTaco has just earned the achievement [Taking Inventory]
-[10:03:09] [Client thread/INFO]: [CHAT] 1ExplosiveTaco has just earned the achievement [Taking Inventory]
-[10:03:10] [Server thread/INFO]: Saving and pausing game...
-[10:03:10] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[10:03:10] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[10:03:10] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
-[10:04:15] [Server thread/INFO]: Saving and pausing game...
-[10:04:15] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[10:04:15] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[10:04:15] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
-[10:04:23] [Server thread/INFO]: Saving and pausing game...
-[10:04:23] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[10:04:23] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[10:04:23] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
-[10:10:03] [Server thread/INFO]: Saving and pausing game...
-[10:10:03] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[10:10:04] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[10:10:04] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
-[10:10:57] [Client thread/INFO]: Warning: Clientside chunk ticking took 104 ms
-[10:10:59] [Client thread/INFO]: Warning: Clientside chunk ticking took 109 ms
-[10:10:59] [Client thread/INFO]: Warning: Clientside chunk ticking took 107 ms
-[10:11:55] [Client thread/INFO]: Warning: Clientside chunk ticking took 132 ms
-[10:12:31] [Client thread/INFO]: Warning: Clientside chunk ticking took 202 ms
-[10:12:36] [Client thread/INFO]: Warning: Clientside chunk ticking took 122 ms
-[10:13:10] [Client thread/INFO]: Warning: Clientside chunk ticking took 152 ms
-[10:13:10] [Client thread/INFO]: Warning: Clientside chunk ticking took 202 ms
-[10:13:11] [Client thread/INFO]: Warning: Clientside chunk ticking took 152 ms
-[10:13:11] [Client thread/INFO]: Warning: Clientside chunk ticking took 102 ms
-[10:13:11] [Client thread/INFO]: Warning: Clientside chunk ticking took 102 ms
-[10:14:25] [Client thread/INFO]: Warning: Clientside chunk ticking took 446 ms
-[10:14:25] [Client thread/INFO]: Warning: Clientside chunk ticking took 440 ms
-[10:14:26] [Client thread/INFO]: Warning: Clientside chunk ticking took 446 ms
-[10:14:26] [Client thread/INFO]: Warning: Clientside chunk ticking took 105 ms
-[10:14:26] [Client thread/INFO]: Warning: Clientside chunk ticking took 105 ms
-[10:14:27] [Client thread/INFO]: Warning: Clientside chunk ticking took 104 ms
-[10:14:41] [Client thread/INFO]: Warning: Clientside chunk ticking took 872 ms
-[10:15:11] [Client thread/INFO]: Warning: Clientside chunk ticking took 483 ms
-[10:15:11] [Client thread/INFO]: Warning: Clientside chunk ticking took 269 ms
-[10:15:12] [Client thread/INFO]: Warning: Clientside chunk ticking took 418 ms
-[10:15:53] [Client thread/INFO]: Warning: Clientside chunk ticking took 348 ms
-[10:16:08] [Client thread/INFO]: Warning: Clientside chunk ticking took 149 ms
-[10:16:08] [Client thread/INFO]: Warning: Clientside chunk ticking took 101 ms
-[10:16:20] [Client thread/INFO]: Warning: Clientside chunk ticking took 118 ms
-[10:16:26] [Client thread/INFO]: Warning: Clientside chunk ticking took 101 ms
-[10:16:26] [Client thread/INFO]: Warning: Clientside chunk ticking took 105 ms
-[10:16:26] [Client thread/INFO]: Warning: Clientside chunk ticking took 103 ms
-[10:16:26] [Client thread/INFO]: Warning: Clientside chunk ticking took 103 ms
-[10:16:26] [Client thread/INFO]: Warning: Clientside chunk ticking took 103 ms
-[10:17:28] [Client thread/INFO]: [CHAT] You are now playing creative+
-[10:17:29] [Client thread/INFO]: [CHAT] You are now playing adventure
-[10:17:29] [Client thread/INFO]: [CHAT] You are now playing survival
-[10:17:30] [Client thread/INFO]: [CHAT] You are now playing creative
-[10:17:34] [Client thread/INFO]: [CHAT] You are now playing creative+
-[10:17:34] [Client thread/INFO]: [CHAT] You are now playing adventure
-[10:17:35] [Client thread/INFO]: [CHAT] You are now playing survival
-[10:17:35] [Client thread/INFO]: [CHAT] You are now playing creative
-[10:17:37] [Client thread/INFO]: [CHAT] You are now playing creative+
-[10:17:41] [Server thread/INFO]: Saving and pausing game...
-[10:17:41] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[10:17:41] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[10:17:41] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
-[10:18:44] [Client thread/INFO]: [CHAT] You are now playing adventure
-[10:18:45] [Client thread/INFO]: [CHAT] You are now playing survival
-[10:18:45] [Client thread/INFO]: [CHAT] You are now playing creative
-[10:18:49] [Server thread/INFO]: Saving and pausing game...
-[10:18:49] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[10:18:49] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[10:18:49] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
-[10:19:18] [Client thread/INFO]: [CHAT] Day 1. 6:00
-[10:20:10] [Server thread/INFO]: [1ExplosiveTaco: Given [Amethyst Boots] * 1 to 1ExplosiveTaco]
-[10:20:10] [Client thread/INFO]: [CHAT] Given [Amethyst Boots] * 1 to 1ExplosiveTaco
-[10:20:16] [Server thread/INFO]: [1ExplosiveTaco: Given [Amethyst Leggings] * 1 to 1ExplosiveTaco]
-[10:20:16] [Client thread/INFO]: [CHAT] Given [Amethyst Leggings] * 1 to 1ExplosiveTaco
-[10:22:12] [Server thread/INFO]: [1ExplosiveTaco: Given [Potion of Swiftness] * 1 to 1ExplosiveTaco]
-[10:22:12] [Client thread/INFO]: [CHAT] Given [Potion of Swiftness] * 1 to 1ExplosiveTaco
-[10:22:28] [Client thread/INFO]: Warning: Clientside chunk ticking took 108 ms
-[10:22:39] [Client thread/INFO]: Warning: Clientside chunk ticking took 106 ms
-[10:22:39] [Client thread/INFO]: Warning: Clientside chunk ticking took 107 ms
-[10:22:40] [Client thread/INFO]: Warning: Clientside chunk ticking took 104 ms
-[10:22:40] [Client thread/INFO]: Warning: Clientside chunk ticking took 104 ms
-[10:22:42] [Client thread/INFO]: Warning: Clientside chunk ticking took 103 ms
-[10:22:42] [Client thread/INFO]: Warning: Clientside chunk ticking took 107 ms
-[10:23:19] [Server thread/INFO]: Saving and pausing game...
-[10:23:19] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[10:23:19] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[10:23:19] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
-[10:23:35] [Server thread/INFO]: [1ExplosiveTaco: Given [Traveller's Boots] * 1 to 1ExplosiveTaco]
-[10:23:35] [Client thread/INFO]: [CHAT] Given [Traveller's Boots] * 1 to 1ExplosiveTaco
-[10:23:55] [Server thread/INFO]: Saving and pausing game...
-[10:23:55] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[10:23:55] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[10:23:55] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
-[10:24:08] [Server thread/INFO]: Saving and pausing game...
-[10:24:08] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[10:24:08] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[10:24:08] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
-[10:24:09] [Server thread/INFO]: Stopping server
-[10:24:09] [Server thread/INFO]: Saving players
-[10:24:10] [Server thread/INFO]: Saving worlds
-[10:24:10] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[10:24:10] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[10:24:10] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
+[11:35:13] [main/INFO]: Setting user: 1ExplosiveTaco
+[11:35:15] [Client thread/INFO]: LWJGL Version: 2.9.1
+[11:35:31] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Alternate Terrain Generation, FMLFileResourcePack:Battle Towers, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:DrZhark's CustomSpawner, FMLFileResourcePack:DrZhark's Mo'Creatures Mod, FMLFileResourcePack:Dynamic Lights, FMLFileResourcePack:Dynamic Lights Burning Entity Module, FMLFileResourcePack:Dynamic Lights Creeper Module, FMLFileResourcePack:Dynamic Lights EntityItem Module, FMLFileResourcePack:Dynamic Lights Entity Light Module, FMLFileResourcePack:Dynamic Lights Mob Equipment Light Module, FMLFileResourcePack:Dynamic Lights Fiery Arrows Light Module, FMLFileResourcePack:Dynamic Lights Flood Light, FMLFileResourcePack:Dynamic Lights OtherPlayers Light Module, FMLFileResourcePack:Dynamic Lights Player Light Module, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:farseek, FMLFileResourcePack:GraveStone, FMLFileResourcePack:Infernal Mobs, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Mantle, FMLFileResourcePack:Neat, FMLFileResourcePack:NEI Addons, FMLFileResourcePack:NEI Addons: Developer Tools, FMLFileResourcePack:NEI Addons: Applied Energistics 2, FMLFileResourcePack:NEI Addons: Botany, FMLFileResourcePack:NEI Addons: Forestry, FMLFileResourcePack:NEI Addons: Crafting Tables, FMLFileResourcePack:NEI Addons: Ex Nihilo, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:Ore Dictionary Converter, FMLFileResourcePack:Pet Bat, FMLFileResourcePack:Realistic Terrain Generation, FMLFileResourcePack:streams, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:TiC Tooltips, FMLFileResourcePack:Tinkers' Mechworks, FMLFileResourcePack:Vein Miner, FMLFileResourcePack:Mod Support, FMLFileResourcePack:Veinminer Mod Integration, FMLFileResourcePack:Waila, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:WorldEdit, FMLFileResourcePack:WR-CBE Core, FMLFileResourcePack:WR-CBE Addons, FMLFileResourcePack:WR-CBE Logic, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin
+[11:35:31] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[11:35:31] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[11:35:31] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[11:35:31] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[11:35:31] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[11:35:31] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[11:35:31] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[11:35:31] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[11:35:31] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[11:35:31] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[11:35:31] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[11:35:31] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[11:35:31] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[11:35:38] [Sound Library Loader/INFO]: Sound engine started
+[11:35:51] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[11:35:51] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[11:35:56] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Alternate Terrain Generation, FMLFileResourcePack:Battle Towers, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:DrZhark's CustomSpawner, FMLFileResourcePack:DrZhark's Mo'Creatures Mod, FMLFileResourcePack:Dynamic Lights, FMLFileResourcePack:Dynamic Lights Burning Entity Module, FMLFileResourcePack:Dynamic Lights Creeper Module, FMLFileResourcePack:Dynamic Lights EntityItem Module, FMLFileResourcePack:Dynamic Lights Entity Light Module, FMLFileResourcePack:Dynamic Lights Mob Equipment Light Module, FMLFileResourcePack:Dynamic Lights Fiery Arrows Light Module, FMLFileResourcePack:Dynamic Lights Flood Light, FMLFileResourcePack:Dynamic Lights OtherPlayers Light Module, FMLFileResourcePack:Dynamic Lights Player Light Module, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:Farseek, FMLFileResourcePack:GraveStone, FMLFileResourcePack:Infernal Mobs, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Mantle, FMLFileResourcePack:Neat, FMLFileResourcePack:NEI Addons, FMLFileResourcePack:NEI Addons: Developer Tools, FMLFileResourcePack:NEI Addons: Applied Energistics 2, FMLFileResourcePack:NEI Addons: Botany, FMLFileResourcePack:NEI Addons: Forestry, FMLFileResourcePack:NEI Addons: Crafting Tables, FMLFileResourcePack:NEI Addons: Ex Nihilo, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:Ore Dictionary Converter, FMLFileResourcePack:Pet Bat, FMLFileResourcePack:Realistic Terrain Generation, FMLFileResourcePack:Streams, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:TiC Tooltips, FMLFileResourcePack:Tinkers' Mechworks, FMLFileResourcePack:Vein Miner, FMLFileResourcePack:Mod Support, FMLFileResourcePack:Veinminer Mod Integration, FMLFileResourcePack:Waila, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:WorldEdit, FMLFileResourcePack:WR-CBE Core, FMLFileResourcePack:WR-CBE Addons, FMLFileResourcePack:WR-CBE Logic, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin
+[11:35:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[11:35:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[11:35:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[11:35:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[11:35:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[11:35:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[11:35:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[11:35:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[11:35:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[11:35:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[11:35:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[11:35:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[11:35:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RTG in C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\mods\RTG-1.7.10-0.6.2.jar
+[11:35:58] [Client thread/INFO]: Created: 1024x512 textures/blocks-atlas
+[11:36:00] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
+[11:36:01] [Sound Library Loader/INFO]: Sound engine started
+[11:36:17] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[11:36:17] [Server thread/INFO]: Generating keypair
+[11:36:18] [Server thread/INFO]: Converting map!
+[11:36:18] [Server thread/INFO]: Scanning folders...
+[11:36:18] [Server thread/INFO]: Total conversion count is 0
+[11:36:20] [Server thread/WARN]: Unable to find spawn biome
+[11:36:29] [Server thread/INFO]: Preparing start region for level 0
+[11:36:30] [Server thread/INFO]: Preparing spawn area: 2%
+[11:36:31] [Server thread/INFO]: Preparing spawn area: 13%
+[11:36:32] [Server thread/INFO]: Preparing spawn area: 28%
+[11:36:33] [Server thread/INFO]: Preparing spawn area: 43%
+[11:36:34] [Server thread/INFO]: Preparing spawn area: 62%
+[11:36:36] [Server thread/INFO]: Preparing spawn area: 80%
+[11:36:38] [Server thread/INFO]: Changing view distance to 8, from 10
+[11:36:38] [Server thread/INFO]: 1ExplosiveTaco[local:E:9cbdc0c4] logged in with entity id 2339 at (-118.5, 82.0, -257.5)
+[11:36:38] [Server thread/INFO]: 1ExplosiveTaco joined the game
+[11:36:44] [Client thread/INFO]: [CHAT] Veinminer using client keybind. See mod config for details.
+[11:36:44] [Server thread/INFO]: Saving and pausing game...
+[11:36:44] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[11:36:44] [Client thread/INFO]: [CHAT] InvTweaks: Configuration loaded.
+[11:36:47] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[11:36:47] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
+[11:36:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2346ms behind, skipping 46 tick(s)
+[11:36:49] [Client thread/INFO]: [CHAT] codechickencore.update
+[11:36:50] [Client thread/INFO]: [CHAT] §eJourneyMap:§f Press [§bHOME§f]
+[11:36:52] [Server thread/INFO]: Saving and pausing game...
+[11:36:52] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[11:36:52] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[11:36:52] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
+[11:36:55] [Client thread/INFO]: Warning: Clientside chunk ticking took 111 ms
+[11:36:55] [Client thread/INFO]: Warning: Clientside chunk ticking took 106 ms
+[11:36:55] [Client thread/INFO]: Warning: Clientside chunk ticking took 142 ms
+[11:36:55] [Client thread/INFO]: Warning: Clientside chunk ticking took 123 ms
+[11:36:55] [Client thread/INFO]: Warning: Clientside chunk ticking took 106 ms
+[11:36:56] [Client thread/INFO]: Warning: Clientside chunk ticking took 155 ms
+[11:37:13] [Client thread/INFO]: Warning: Clientside chunk ticking took 102 ms
+[11:37:27] [Client thread/INFO]: Warning: Clientside chunk ticking took 101 ms
+[11:37:27] [Client thread/INFO]: Warning: Clientside chunk ticking took 108 ms
+[11:37:28] [Client thread/INFO]: Warning: Clientside chunk ticking took 101 ms
+[11:37:29] [Client thread/INFO]: Warning: Clientside chunk ticking took 109 ms
+[11:37:29] [Client thread/INFO]: Warning: Clientside chunk ticking took 111 ms
+[11:37:53] [Client thread/INFO]: Warning: Clientside chunk ticking took 215 ms
+[11:37:53] [Client thread/INFO]: Warning: Clientside chunk ticking took 212 ms
+[11:37:53] [Client thread/INFO]: Warning: Clientside chunk ticking took 206 ms
+[11:38:00] [Client thread/INFO]: Warning: Clientside chunk ticking took 270 ms
+[11:38:01] [Client thread/INFO]: Warning: Clientside chunk ticking took 271 ms
+[11:38:01] [Client thread/INFO]: Warning: Clientside chunk ticking took 295 ms
+[11:38:07] [Server thread/INFO]: Saving and pausing game...
+[11:38:07] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[11:38:08] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[11:38:08] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
+[11:38:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2107ms behind, skipping 42 tick(s)
+[11:38:55] [Server thread/INFO]: Saving and pausing game...
+[11:38:55] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[11:38:55] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[11:38:55] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
+[11:39:30] [Server thread/INFO]: Saving and pausing game...
+[11:39:30] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[11:39:30] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[11:39:30] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
+[11:39:36] [Client thread/INFO]: Stopping!
+[11:39:36] [Server thread/INFO]: Stopping server
+[11:39:36] [Server thread/INFO]: Saving players
+[11:39:36] [Server thread/INFO]: Saving worlds
+[11:39:36] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[11:39:36] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[11:39:36] [Client Shutdown Thread/INFO]: Stopping server
+[11:39:36] [Client Shutdown Thread/INFO]: Saving players

@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2016-02-27T15:01:27.7468622Z",
+  "lastPlayed": "2016-02-27T16:35:06.4238464Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -226,21 +226,6 @@
       "queryTimestamp": "2016-02-27T15:01:20.1233221Z",
       "fileCount": 1,
       "fileSize": 10339
-    },
-    {
-      "folderName": "ForgeMultipart-1.7.10-1.2.0.345-universal.jar",
-      "fingerprint": 3017915821,
-      "fileDateHash": 3366535067,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3017915821
-      ],
-      "status": 1,
-      "timestamp": "2016-02-27T15:01:19.784186Z",
-      "lastWriteTimeUtc": "2016-02-27T14:52:46.4675516Z",
-      "queryTimestamp": "2016-02-27T15:01:20.1243255Z",
-      "fileCount": 1,
-      "fileSize": 943474
     },
     {
       "folderName": "NEIIntegration-MC1.7.10-1.1.2.jar",
@@ -1265,66 +1250,6 @@
       "manifestName": null
     },
     {
-      "addonID": 229323,
-      "gameInstanceID": "faec04fa-c5da-421c-9016-ad109ef005f1",
-      "installedFile": {
-        "Id": 2242993,
-        "FileName": "ForgeMultipart-1.7.10-1.2.0.345-universal.jar",
-        "FileNameOnDisk": "ForgeMultipart-1.7.10-1.2.0.345-universal.jar",
-        "FileDate": "2015-06-15T21:19:13",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "http://addons.curse.cursecdn.com/files/2242/993/ForgeMultipart-1.7.10-1.2.0.345-universal.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [
-          {
-            "AddOnId": 222213,
-            "Type": 1
-          }
-        ],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 2374603596
-          },
-          {
-            "Foldername": "codechicken",
-            "Fingerprint": 1684075095
-          },
-          {
-            "Foldername": "dependencies.info",
-            "Fingerprint": 773558116
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 3462475721
-          },
-          {
-            "Foldername": "meta-inf",
-            "Fingerprint": 3668006593
-          }
-        ],
-        "PackageFingerprint": 3017915821,
-        "GameVersion": [
-          "1.7.10"
-        ]
-      },
-      "dateInstalled": "2016-02-27T14:52:46.4675516Z",
-      "dateUpdated": "2016-02-27T14:52:46.470562Z",
-      "dateLastUpdateAttempted": "2016-02-27T14:52:46.470562Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": true,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
       "addonID": 229314,
       "gameInstanceID": "faec04fa-c5da-421c-9016-ad109ef005f1",
       "installedFile": {
@@ -2065,6 +1990,454 @@
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
       "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 62929,
+      "gameInstanceID": "faec04fa-c5da-421c-9016-ad109ef005f1",
+      "installedFile": {
+        "Id": 2272891,
+        "FileName": "GraveStone-2.16.0.jar",
+        "FileNameOnDisk": "GraveStone-2.16.0.jar",
+        "FileDate": "2015-12-30T02:40:27",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "http://addons.curse.cursecdn.com/files/2272/891/GraveStone-2.16.0.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 4253912902
+          },
+          {
+            "Foldername": "baubles",
+            "Fingerprint": 4156763752
+          },
+          {
+            "Foldername": "forestry",
+            "Fingerprint": 3281267186
+          },
+          {
+            "Foldername": "gravestone",
+            "Fingerprint": 2507326094
+          },
+          {
+            "Foldername": "mariculture",
+            "Fingerprint": 2602763092
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "micdoodle8",
+            "Fingerprint": 2938241048
+          },
+          {
+            "Foldername": "sophisticated_wolves",
+            "Fingerprint": 2428384526
+          },
+          {
+            "Foldername": "tconstruct",
+            "Fingerprint": 94033856
+          },
+          {
+            "Foldername": "thaumcraft",
+            "Fingerprint": 3594395633
+          }
+        ],
+        "PackageFingerprint": 3685507430,
+        "GameVersion": [
+          "1.7.10"
+        ]
+      },
+      "dateInstalled": "2016-02-27T15:36:09.4911062Z",
+      "dateUpdated": "2016-02-27T15:36:09.4991381Z",
+      "dateLastUpdateAttempted": "2016-02-27T15:36:09.4991381Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 67133,
+      "gameInstanceID": "faec04fa-c5da-421c-9016-ad109ef005f1",
+      "installedFile": {
+        "Id": 2281923,
+        "FileName": "VeinMiner 0.31.3 [MC1.7.2,1.7.10; build unknown]",
+        "FileNameOnDisk": "VeinMiner-1.7.10_0.31.3.unknown.jar",
+        "FileDate": "2016-02-15T05:58:12",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "http://addons.curse.cursecdn.com/files/2281/923/VeinMiner-1.7.10_0.31.3.unknown.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 2912900817
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 612725846
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 144637521
+          },
+          {
+            "Foldername": "portablejim",
+            "Fingerprint": 497044048
+          },
+          {
+            "Foldername": "version.properties",
+            "Fingerprint": 3113523615
+          }
+        ],
+        "PackageFingerprint": 3980074037,
+        "GameVersion": [
+          "1.7.10",
+          "1.7.2"
+        ]
+      },
+      "dateInstalled": "2016-02-27T15:36:53.9460184Z",
+      "dateUpdated": "2016-02-27T15:36:53.9470267Z",
+      "dateLastUpdateAttempted": "2016-02-27T15:36:53.9470267Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 227576,
+      "gameInstanceID": "faec04fa-c5da-421c-9016-ad109ef005f1",
+      "installedFile": {
+        "Id": 2226384,
+        "FileName": "veinminermodintegration 1.7.10 0.4.2",
+        "FileNameOnDisk": "veinminermodintegration-1.7.10-0.4.2.unknown.jar",
+        "FileDate": "2015-02-05T07:51:11",
+        "ReleaseType": 2,
+        "FileStatus": 2,
+        "DownloadURL": "http://addons.curse.cursecdn.com/files/2226/384/veinminermodintegration-1.7.10-0.4.2.unknown.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [
+          {
+            "AddOnId": 67133,
+            "Type": 1
+          }
+        ],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 4052089576
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 372295839
+          },
+          {
+            "Foldername": "meta-inf",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 2742702709
+          },
+          {
+            "Foldername": "portablejim",
+            "Fingerprint": 2657133751
+          }
+        ],
+        "PackageFingerprint": 310347699,
+        "GameVersion": [
+          "1.7.10"
+        ]
+      },
+      "dateInstalled": "2016-02-27T15:36:54.0553852Z",
+      "dateUpdated": "2016-02-27T15:36:54.0563914Z",
+      "dateLastUpdateAttempted": "2016-02-27T15:36:54.0563914Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 228356,
+      "gameInstanceID": "faec04fa-c5da-421c-9016-ad109ef005f1",
+      "installedFile": {
+        "Id": 2231153,
+        "FileName": "ATG 0.12.0 for Minecraft 1.7.10",
+        "FileNameOnDisk": "ATG-1.7.10-0.12.0.jar",
+        "FileDate": "2015-03-24T18:35:19",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "http://addons.curse.cursecdn.com/files/2231/153/ATG-1.7.10-0.12.0.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 1960253290
+          },
+          {
+            "Foldername": "meta-inf",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "ttftcuts",
+            "Fingerprint": 2587898491
+          }
+        ],
+        "PackageFingerprint": 1554390076,
+        "GameVersion": [
+          "1.7.10"
+        ]
+      },
+      "dateInstalled": "2016-02-27T15:43:24.226383Z",
+      "dateUpdated": "2016-02-27T15:43:24.2273865Z",
+      "dateLastUpdateAttempted": "2016-02-27T15:43:24.2273865Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 237989,
+      "gameInstanceID": "faec04fa-c5da-421c-9016-ad109ef005f1",
+      "installedFile": {
+        "Id": 2281842,
+        "FileName": "RTG-1.7.10-0.6.2",
+        "FileNameOnDisk": "RTG-1.7.10-0.6.2.jar",
+        "FileDate": "2016-02-14T19:21:39",
+        "ReleaseType": 2,
+        "FileStatus": 2,
+        "DownloadURL": "http://addons.curse.cursecdn.com/files/2281/842/RTG-1.7.10-0.6.2.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [
+          {
+            "AddOnId": 76544,
+            "Type": 2
+          },
+          {
+            "AddOnId": 228895,
+            "Type": 2
+          }
+        ],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 4179325746
+          },
+          {
+            "Foldername": "enhancedbiomes",
+            "Fingerprint": 2263392800
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 4097516359
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "rtg",
+            "Fingerprint": 1862335189
+          }
+        ],
+        "PackageFingerprint": 2316215591,
+        "GameVersion": [
+          "1.7.10"
+        ]
+      },
+      "dateInstalled": "2016-02-27T15:45:29.0856514Z",
+      "dateUpdated": "2016-02-27T15:45:29.0886611Z",
+      "dateLastUpdateAttempted": "2016-02-27T15:45:29.0886611Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 229708,
+      "gameInstanceID": "faec04fa-c5da-421c-9016-ad109ef005f1",
+      "installedFile": {
+        "Id": 2281555,
+        "FileName": "Farseek-1.0.11.jar",
+        "FileNameOnDisk": "Farseek-1.0.11.jar",
+        "FileDate": "2016-02-13T03:45:30",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "http://addons.curse.cursecdn.com/files/2281/555/Farseek-1.0.11.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "farseek",
+            "Fingerprint": 1904640989
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 3714014407
+          }
+        ],
+        "PackageFingerprint": 2072784661,
+        "GameVersion": [
+          "1.7.10"
+        ]
+      },
+      "dateInstalled": "2016-02-27T15:46:56.3780719Z",
+      "dateUpdated": "2016-02-27T15:46:56.3800788Z",
+      "dateLastUpdateAttempted": "2016-02-27T15:46:56.3800788Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 229769,
+      "gameInstanceID": "faec04fa-c5da-421c-9016-ad109ef005f1",
+      "installedFile": {
+        "Id": 2281587,
+        "FileName": "Streams-0.2.jar",
+        "FileNameOnDisk": "Streams-0.2.jar",
+        "FileDate": "2016-02-13T07:00:58",
+        "ReleaseType": 2,
+        "FileStatus": 2,
+        "DownloadURL": "http://addons.curse.cursecdn.com/files/2281/587/Streams-0.2.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [
+          {
+            "AddOnId": 229708,
+            "Type": 1
+          }
+        ],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 3539185195
+          },
+          {
+            "Foldername": "streams",
+            "Fingerprint": 2062444538
+          }
+        ],
+        "PackageFingerprint": 1689526477,
+        "GameVersion": [
+          "1.7.10"
+        ]
+      },
+      "dateInstalled": "2016-02-27T15:46:56.4954652Z",
+      "dateUpdated": "2016-02-27T15:46:56.4964686Z",
+      "dateLastUpdateAttempted": "2016-02-27T15:46:56.4964686Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 227564,
+      "gameInstanceID": "faec04fa-c5da-421c-9016-ad109ef005f1",
+      "installedFile": {
+        "Id": 2226312,
+        "FileName": "Ore Dictionary Converter 1.6.1",
+        "FileNameOnDisk": "OreDictionaryConverter-1.6.1.jar",
+        "FileDate": "2015-02-04T17:38:30",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "http://addons.curse.cursecdn.com/files/2226/312/OreDictionaryConverter-1.6.1.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 3892117412
+          },
+          {
+            "Foldername": "exter",
+            "Fingerprint": 2338374715
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 1684756085
+          },
+          {
+            "Foldername": "meta-inf",
+            "Fingerprint": 2464251221
+          }
+        ],
+        "PackageFingerprint": 3728134863,
+        "GameVersion": [
+          "1.7.10"
+        ]
+      },
+      "dateInstalled": "2016-02-27T15:53:37.5449053Z",
+      "dateUpdated": "2016-02-27T15:53:37.5469122Z",
+      "dateLastUpdateAttempted": "2016-02-27T15:53:37.5469122Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,

@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 5.1.4 Unlimited for 1.7.10 on Sat Feb 27 10:02:08 EST 2016",
+  "generated": "Generated using JourneyMap 5.1.4 Unlimited for 1.7.10 on Sat Feb 27 11:36:02 EST 2016",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -11,7 +11,7 @@ var colorpalette={
   ],
   "permanent": false,
   "resourcePacks": "Default",
-  "modNames": "Battle Towers:1.5.1, Biomes O\u0027 Plenty:2.1.0, ChickenChunks:1.3.4.19, CodeChicken Core:1.0.7.47, DrZhark\u0027s CustomSpawner:3.3.0, DrZhark\u0027s Mo\u0027Creatures Mod:6.3.1, Dynamic Lights Burning Entity Module:1.0.4, Dynamic Lights Creeper Module:1.0.4, Dynamic Lights Entity Light Module:1.0.1, Dynamic Lights EntityItem Module:1.0.8, Dynamic Lights Fiery Arrows Light Module:1.0.0, Dynamic Lights Flood Light:1.0.2, Dynamic Lights Mob Equipment Light Module:1.0.8, Dynamic Lights OtherPlayers Light Module:1.0.8, Dynamic Lights Player Light Module:1.1.4, Dynamic Lights:1.3.8, EnderStorage:1.4.7.37, Forge Microblocks:1.2.0.345, Forge Mod Loader:7.10.99.99, Forge Multipart:1.2.0.345, Infernal Mobs:1.6.0, Inventory Tweaks:1.59-dev-152-cf6e263, JourneyMap:5.1.4, Mantle:1.7.10-0.3.2.jenkins191, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Minecraft Multipart Plugin:1.2.0.345, NEI Addons: Applied Energistics 2:1.12.14.40, NEI Addons: Botany:1.12.14.40, NEI Addons: Crafting Tables:1.12.14.40, NEI Addons: Developer Tools:1.12.14.40, NEI Addons: Ex Nihilo:1.12.14.40, NEI Addons: Forestry:1.12.14.40, NEI Addons:1.12.14.40, NEI Integration:1.1.2, Neat:GRADLE:VERSION-GRADLE:BUILD, Not Enough Items:1.0.5.118, Pet Bat:1.3.8, TiC Tooltips:1.2.5, Tinkers\u0027 Construct:1.7.10-1.8.8.build988, Tinkers\u0027 Mechworks:0.2.15.106, WR-CBE Addons:1.4.1.9, WR-CBE Core:1.4.1.9, WR-CBE Logic:1.4.1.9, Waila Harvestability:1.1.6, Waila:1.5.10, WorldEdit:6.0-beta-01",
+  "modNames": "Alternate Terrain Generation:0.10.0, Battle Towers:1.5.1, Biomes O\u0027 Plenty:2.1.0, ChickenChunks:1.3.4.19, CodeChicken Core:1.0.7.47, DrZhark\u0027s CustomSpawner:3.3.0, DrZhark\u0027s Mo\u0027Creatures Mod:6.3.1, Dynamic Lights Burning Entity Module:1.0.4, Dynamic Lights Creeper Module:1.0.4, Dynamic Lights Entity Light Module:1.0.1, Dynamic Lights EntityItem Module:1.0.8, Dynamic Lights Fiery Arrows Light Module:1.0.0, Dynamic Lights Flood Light:1.0.2, Dynamic Lights Mob Equipment Light Module:1.0.8, Dynamic Lights OtherPlayers Light Module:1.0.8, Dynamic Lights Player Light Module:1.1.4, Dynamic Lights:1.3.8, EnderStorage:1.4.7.37, Farseek:1.0.11, Forge Microblocks:1.2.0.345, Forge Mod Loader:7.10.99.99, Forge Multipart:1.2.0.345, GraveStone:2.16.0, Infernal Mobs:1.6.0, Inventory Tweaks:1.59-dev-152-cf6e263, JourneyMap:5.1.4, Mantle:1.7.10-0.3.2.jenkins191, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Minecraft Multipart Plugin:1.2.0.345, Mod Support:0.31.3_build.unknown, NEI Addons: Applied Energistics 2:1.12.14.40, NEI Addons: Botany:1.12.14.40, NEI Addons: Crafting Tables:1.12.14.40, NEI Addons: Developer Tools:1.12.14.40, NEI Addons: Ex Nihilo:1.12.14.40, NEI Addons: Forestry:1.12.14.40, NEI Addons:1.12.14.40, NEI Integration:1.1.2, Neat:GRADLE:VERSION-GRADLE:BUILD, Not Enough Items:1.0.5.118, Ore Dictionary Converter:1.6.1, Pet Bat:1.3.8, Realistic Terrain Generation:0.6.2, Streams:0.2, TiC Tooltips:1.2.5, Tinkers\u0027 Construct:1.7.10-1.8.8.build988, Tinkers\u0027 Mechworks:0.2.15.106, Vein Miner:0.31.3_build.unknown, Veinminer Mod Integration:1.7.10-0.2.0, WR-CBE Addons:1.4.1.9, WR-CBE Core:1.4.1.9, WR-CBE Logic:1.4.1.9, Waila Harvestability:1.1.6, Waila:1.5.10, WorldEdit:6.0-beta-01",
   "basicColors": [
     {
       "name": "Acacia Leaves",
@@ -79,6 +79,12 @@ var colorpalette={
       "uid": "minecraft:red_flower",
       "meta": 2,
       "color": "#8549b6"
+    },
+    {
+      "name": "Altar",
+      "uid": "GraveStone:GSAltar",
+      "meta": 0,
+      "color": "#345f3c"
     },
     {
       "name": "Aluminum Gravel Ore",
@@ -157,6 +163,12 @@ var colorpalette={
       "uid": "BiomesOPlenty:ashStone",
       "meta": 0,
       "color": "#555555"
+    },
+    {
+      "name": "Automatic Ore Converter",
+      "uid": "fodc:oreAutoconverter",
+      "meta": 0,
+      "color": "#887d74"
     },
     {
       "name": "Azure Bluet",
@@ -599,10 +611,46 @@ var colorpalette={
       "color": "#486d7b"
     },
     {
+      "name": "Bone Block",
+      "uid": "GraveStone:GSBoneBlock",
+      "meta": 0,
+      "color": "#ccccca"
+    },
+    {
+      "name": "Bone Block",
+      "uid": "GraveStone:GSBoneBlock",
+      "meta": 2,
+      "color": "#ccccca"
+    },
+    {
+      "name": "Bone Block with Skull",
+      "uid": "GraveStone:GSBoneBlock",
+      "meta": 1,
+      "color": "#c5c5c3"
+    },
+    {
+      "name": "Bone Block with Skull",
+      "uid": "GraveStone:GSBoneBlock",
+      "meta": 3,
+      "color": "#c5c5c3"
+    },
+    {
       "name": "Bone Brick",
       "uid": "TConstruct:decoration.multibrick",
       "meta": 9,
       "color": "#bbad66"
+    },
+    {
+      "name": "Bone Slab",
+      "uid": "GraveStone:GSBoneSlab",
+      "meta": 0,
+      "color": "#ccccca"
+    },
+    {
+      "name": "Bone Stairs",
+      "uid": "GraveStone:GSBoneStairs",
+      "meta": 0,
+      "color": "#ccccca"
     },
     {
       "name": "Bookshelf",
@@ -771,6 +819,12 @@ var colorpalette={
       "color": "#0d6618"
     },
     {
+      "name": "Candle",
+      "uid": "GraveStone:GSCandle",
+      "meta": 0,
+      "color": "#effbfb"
+    },
+    {
       "name": "Carpet",
       "uid": "minecraft:carpet",
       "meta": 0,
@@ -864,6 +918,12 @@ var colorpalette={
     {
       "name": "Chest",
       "uid": "minecraft:chest",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Chest with Bats",
+      "uid": "GraveStone:GSHauntedChest",
       "meta": 0,
       "color": "#9c7f4e"
     },
@@ -1126,6 +1186,12 @@ var colorpalette={
       "uid": "BiomesOPlenty:cragRock",
       "meta": 0,
       "color": "#44695f"
+    },
+    {
+      "name": "Cross Memorial",
+      "uid": "GraveStone:GSMemorial",
+      "meta": 0,
+      "color": "#7d7d7d"
     },
     {
       "name": "Cyan Carpet",
@@ -2016,6 +2082,12 @@ var colorpalette={
       "color": "#686868"
     },
     {
+      "name": "Gravestone",
+      "uid": "GraveStone:GSGraveStone",
+      "meta": 0,
+      "color": "#7d7d7d"
+    },
+    {
       "name": "Graveyard Soil",
       "uid": "TConstruct:CraftedSoil",
       "meta": 3,
@@ -2291,6 +2363,125 @@ var colorpalette={
       "alpha": 0.8
     },
     {
+      "name": "Ice",
+      "uid": "streams:river/ice/-1/-2",
+      "meta": 0,
+      "color": "#7dadff",
+      "alpha": 0.8
+    },
+    {
+      "name": "Ice",
+      "uid": "streams:river/ice/-1/2",
+      "meta": 0,
+      "color": "#7dadff",
+      "alpha": 0.8
+    },
+    {
+      "name": "Ice",
+      "uid": "streams:river/ice/-2/-1",
+      "meta": 0,
+      "color": "#7dadff",
+      "alpha": 0.8
+    },
+    {
+      "name": "Ice",
+      "uid": "streams:river/ice/-2/-2",
+      "meta": 0,
+      "color": "#7dadff",
+      "alpha": 0.8
+    },
+    {
+      "name": "Ice",
+      "uid": "streams:river/ice/-2/0",
+      "meta": 0,
+      "color": "#7dadff",
+      "alpha": 0.8
+    },
+    {
+      "name": "Ice",
+      "uid": "streams:river/ice/-2/1",
+      "meta": 0,
+      "color": "#7dadff",
+      "alpha": 0.8
+    },
+    {
+      "name": "Ice",
+      "uid": "streams:river/ice/-2/2",
+      "meta": 0,
+      "color": "#7dadff",
+      "alpha": 0.8
+    },
+    {
+      "name": "Ice",
+      "uid": "streams:river/ice/0/-2",
+      "meta": 0,
+      "color": "#7dadff",
+      "alpha": 0.8
+    },
+    {
+      "name": "Ice",
+      "uid": "streams:river/ice/0/0",
+      "meta": 0,
+      "color": "#7dadff",
+      "alpha": 0.8
+    },
+    {
+      "name": "Ice",
+      "uid": "streams:river/ice/0/2",
+      "meta": 0,
+      "color": "#7dadff",
+      "alpha": 0.8
+    },
+    {
+      "name": "Ice",
+      "uid": "streams:river/ice/1/-2",
+      "meta": 0,
+      "color": "#7dadff",
+      "alpha": 0.8
+    },
+    {
+      "name": "Ice",
+      "uid": "streams:river/ice/1/2",
+      "meta": 0,
+      "color": "#7dadff",
+      "alpha": 0.8
+    },
+    {
+      "name": "Ice",
+      "uid": "streams:river/ice/2/-1",
+      "meta": 0,
+      "color": "#7dadff",
+      "alpha": 0.8
+    },
+    {
+      "name": "Ice",
+      "uid": "streams:river/ice/2/-2",
+      "meta": 0,
+      "color": "#7dadff",
+      "alpha": 0.8
+    },
+    {
+      "name": "Ice",
+      "uid": "streams:river/ice/2/0",
+      "meta": 0,
+      "color": "#7dadff",
+      "alpha": 0.8
+    },
+    {
+      "name": "Ice",
+      "uid": "streams:river/ice/2/1",
+      "meta": 0,
+      "color": "#7dadff",
+      "alpha": 0.8
+    },
+    {
+      "name": "Ice",
+      "uid": "streams:river/ice/2/2",
+      "meta": 0,
+      "color": "#7dadff",
+      "alpha": 0.8
+    },
+    {
       "name": "Icy Iris",
       "uid": "BiomesOPlenty:flowers2",
       "meta": 7,
@@ -2524,6 +2715,108 @@ var colorpalette={
     {
       "name": "Lava",
       "uid": "minecraft:lava",
+      "meta": 0,
+      "color": "#d1530f"
+    },
+    {
+      "name": "Lava",
+      "uid": "streams:river/tile.lava/-1/-2",
+      "meta": 0,
+      "color": "#d1530f"
+    },
+    {
+      "name": "Lava",
+      "uid": "streams:river/tile.lava/-1/2",
+      "meta": 0,
+      "color": "#d1530f"
+    },
+    {
+      "name": "Lava",
+      "uid": "streams:river/tile.lava/-2/-1",
+      "meta": 0,
+      "color": "#d1530f"
+    },
+    {
+      "name": "Lava",
+      "uid": "streams:river/tile.lava/-2/-2",
+      "meta": 0,
+      "color": "#d1530f"
+    },
+    {
+      "name": "Lava",
+      "uid": "streams:river/tile.lava/-2/0",
+      "meta": 0,
+      "color": "#d1530f"
+    },
+    {
+      "name": "Lava",
+      "uid": "streams:river/tile.lava/-2/1",
+      "meta": 0,
+      "color": "#d1530f"
+    },
+    {
+      "name": "Lava",
+      "uid": "streams:river/tile.lava/-2/2",
+      "meta": 0,
+      "color": "#d1530f"
+    },
+    {
+      "name": "Lava",
+      "uid": "streams:river/tile.lava/0/-2",
+      "meta": 0,
+      "color": "#d1530f"
+    },
+    {
+      "name": "Lava",
+      "uid": "streams:river/tile.lava/0/0",
+      "meta": 0,
+      "color": "#d1530f"
+    },
+    {
+      "name": "Lava",
+      "uid": "streams:river/tile.lava/0/2",
+      "meta": 0,
+      "color": "#d1530f"
+    },
+    {
+      "name": "Lava",
+      "uid": "streams:river/tile.lava/1/-2",
+      "meta": 0,
+      "color": "#d1530f"
+    },
+    {
+      "name": "Lava",
+      "uid": "streams:river/tile.lava/1/2",
+      "meta": 0,
+      "color": "#d1530f"
+    },
+    {
+      "name": "Lava",
+      "uid": "streams:river/tile.lava/2/-1",
+      "meta": 0,
+      "color": "#d1530f"
+    },
+    {
+      "name": "Lava",
+      "uid": "streams:river/tile.lava/2/-2",
+      "meta": 0,
+      "color": "#d1530f"
+    },
+    {
+      "name": "Lava",
+      "uid": "streams:river/tile.lava/2/0",
+      "meta": 0,
+      "color": "#d1530f"
+    },
+    {
+      "name": "Lava",
+      "uid": "streams:river/tile.lava/2/1",
+      "meta": 0,
+      "color": "#d1530f"
+    },
+    {
+      "name": "Lava",
+      "uid": "streams:river/tile.lava/2/2",
       "meta": 0,
       "color": "#d1530f"
     },
@@ -3270,6 +3563,12 @@ var colorpalette={
       "color": "#743f3b"
     },
     {
+      "name": "Night Stone",
+      "uid": "GraveStone:GSTrap",
+      "meta": 0,
+      "color": "#2c161a"
+    },
+    {
       "name": "Note Block",
       "uid": "minecraft:noteblock",
       "meta": 0,
@@ -3455,6 +3754,12 @@ var colorpalette={
       "color": "#db7d3e"
     },
     {
+      "name": "Ore Conversion Table",
+      "uid": "fodc:oreConvTable",
+      "meta": 0,
+      "color": "#6e543e"
+    },
+    {
       "name": "Origin Grass Block",
       "uid": "BiomesOPlenty:originGrass",
       "meta": 0,
@@ -3599,6 +3904,18 @@ var colorpalette={
       "uid": "BiomesOPlenty:saplings",
       "meta": 15,
       "color": "#7f6730"
+    },
+    {
+      "name": "Pile of Bones",
+      "uid": "GraveStone:GSPileOfBones",
+      "meta": 0,
+      "color": "#effbfb"
+    },
+    {
+      "name": "Pile of Bones with Skull",
+      "uid": "GraveStone:GSPileOfBones",
+      "meta": 1,
+      "color": "#effbfb"
     },
     {
       "name": "Pillar Quartz Block",
@@ -4449,6 +4766,12 @@ var colorpalette={
       "color": "#544033"
     },
     {
+      "name": "Skull Candle",
+      "uid": "GraveStone:GSSkullCandle",
+      "meta": 0,
+      "color": "#effbfb"
+    },
+    {
       "name": "Slab Furnace",
       "uid": "TConstruct:FurnaceSlab",
       "meta": 0,
@@ -4817,6 +5140,12 @@ var colorpalette={
       "color": "#655a4e"
     },
     {
+      "name": "Thunder Stone",
+      "uid": "GraveStone:GSTrap",
+      "meta": 1,
+      "color": "#7a7a7a"
+    },
+    {
       "name": "Tin Gravel Ore",
       "uid": "TConstruct:GravelOre",
       "meta": 3,
@@ -5031,6 +5360,125 @@ var colorpalette={
       "alpha": 0.3
     },
     {
+      "name": "Water",
+      "uid": "streams:river/tile.water/-1/-2",
+      "meta": 0,
+      "color": "#2e43f4",
+      "alpha": 0.3
+    },
+    {
+      "name": "Water",
+      "uid": "streams:river/tile.water/-1/2",
+      "meta": 0,
+      "color": "#2e43f4",
+      "alpha": 0.3
+    },
+    {
+      "name": "Water",
+      "uid": "streams:river/tile.water/-2/-1",
+      "meta": 0,
+      "color": "#2e43f4",
+      "alpha": 0.3
+    },
+    {
+      "name": "Water",
+      "uid": "streams:river/tile.water/-2/-2",
+      "meta": 0,
+      "color": "#2e43f4",
+      "alpha": 0.3
+    },
+    {
+      "name": "Water",
+      "uid": "streams:river/tile.water/-2/0",
+      "meta": 0,
+      "color": "#2e43f4",
+      "alpha": 0.3
+    },
+    {
+      "name": "Water",
+      "uid": "streams:river/tile.water/-2/1",
+      "meta": 0,
+      "color": "#2e43f4",
+      "alpha": 0.3
+    },
+    {
+      "name": "Water",
+      "uid": "streams:river/tile.water/-2/2",
+      "meta": 0,
+      "color": "#2e43f4",
+      "alpha": 0.3
+    },
+    {
+      "name": "Water",
+      "uid": "streams:river/tile.water/0/-2",
+      "meta": 0,
+      "color": "#2e43f4",
+      "alpha": 0.3
+    },
+    {
+      "name": "Water",
+      "uid": "streams:river/tile.water/0/0",
+      "meta": 0,
+      "color": "#2e43f4",
+      "alpha": 0.3
+    },
+    {
+      "name": "Water",
+      "uid": "streams:river/tile.water/0/2",
+      "meta": 0,
+      "color": "#2e43f4",
+      "alpha": 0.3
+    },
+    {
+      "name": "Water",
+      "uid": "streams:river/tile.water/1/-2",
+      "meta": 0,
+      "color": "#2e43f4",
+      "alpha": 0.3
+    },
+    {
+      "name": "Water",
+      "uid": "streams:river/tile.water/1/2",
+      "meta": 0,
+      "color": "#2e43f4",
+      "alpha": 0.3
+    },
+    {
+      "name": "Water",
+      "uid": "streams:river/tile.water/2/-1",
+      "meta": 0,
+      "color": "#2e43f4",
+      "alpha": 0.3
+    },
+    {
+      "name": "Water",
+      "uid": "streams:river/tile.water/2/-2",
+      "meta": 0,
+      "color": "#2e43f4",
+      "alpha": 0.3
+    },
+    {
+      "name": "Water",
+      "uid": "streams:river/tile.water/2/0",
+      "meta": 0,
+      "color": "#2e43f4",
+      "alpha": 0.3
+    },
+    {
+      "name": "Water",
+      "uid": "streams:river/tile.water/2/1",
+      "meta": 0,
+      "color": "#2e43f4",
+      "alpha": 0.3
+    },
+    {
+      "name": "Water",
+      "uid": "streams:river/tile.water/2/2",
+      "meta": 0,
+      "color": "#2e43f4",
+      "alpha": 0.3
+    },
+    {
       "name": "Waterlily",
       "uid": "BiomesOPlenty:flowers",
       "meta": 10,
@@ -5181,6 +5629,33 @@ var colorpalette={
       "alpha": 0.2
     },
     {
+      "name": "Wither Skull Candle",
+      "uid": "GraveStone:GSSkullCandle",
+      "meta": 1,
+      "color": "#effbfb"
+    },
+    {
+      "name": "Wither Spawner",
+      "uid": "GraveStone:GSSpawner",
+      "meta": 0,
+      "color": "#ffffff",
+      "alpha": 0.5019608
+    },
+    {
+      "name": "Wither Spawner",
+      "uid": "GraveStone:GSSpawner",
+      "meta": 1,
+      "color": "#ffffff",
+      "alpha": 0.5019608
+    },
+    {
+      "name": "Wither Spawner",
+      "uid": "GraveStone:GSSpawner",
+      "meta": 2,
+      "color": "#ffffff",
+      "alpha": 0.5019608
+    },
+    {
       "name": "Wither Wart",
       "uid": "BiomesOPlenty:plants",
       "meta": 13,
@@ -5306,6 +5781,12 @@ var colorpalette={
       "color": "#b1a627"
     },
     {
+      "name": "Zombie Skull Candle",
+      "uid": "GraveStone:GSSkullCandle",
+      "meta": 2,
+      "color": "#effbfb"
+    },
+    {
       "name": "cake",
       "uid": "minecraft:cake",
       "meta": 0,
@@ -5352,6 +5833,12 @@ var colorpalette={
       "uid": "BiomesOPlenty:leaves4",
       "meta": 1,
       "color": "#3e3151"
+    },
+    {
+      "name": "tile.null.name",
+      "uid": "GraveStone:GSInvisibleWall",
+      "meta": 0,
+      "color": "#7c007c"
     },
     {
       "name": "tile.null.name",
