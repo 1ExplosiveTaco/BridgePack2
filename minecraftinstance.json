@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2016-02-27T18:50:28.0842474Z",
+  "lastPlayed": "2016-02-27T19:34:55.0931628Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -6193,7 +6193,7 @@
       "installedFile": {
         "Id": 2248949,
         "FileName": "Smart Render version 2.1 for Minecraft 1.7.10",
-        "FileNameOnDisk": "SmartRender-1.7.10-2.1.jar",
+        "FileNameOnDisk": "SmartRender-1.7.10-2.1.jar.disabled",
         "FileDate": "2015-07-25T21:22:24",
         "ReleaseType": 1,
         "FileStatus": 2,
@@ -6257,7 +6257,7 @@
       "installedFile": {
         "Id": 2248946,
         "FileName": "Smart Moving version 15.6 for Minecraft 1.7.10",
-        "FileNameOnDisk": "SmartMoving-1.7.10-15.6.jar",
+        "FileNameOnDisk": "SmartMoving-1.7.10-15.6.jar.disabled",
         "FileDate": "2015-07-25T21:19:11",
         "ReleaseType": 1,
         "FileStatus": 2,

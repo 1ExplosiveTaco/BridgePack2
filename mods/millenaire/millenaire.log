@@ -59,3 +59,22 @@ Caused by: java.lang.NullPointerException
 6.0.0 27-02-2016 13:37:02 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
 6.0.0 27-02-2016 13:37:08 MAJOR: null: Loading language: en_US
 6.0.0 27-02-2016 13:37:08 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 27-02-2016 13:51:17 Starting new session. Mods: examplemod 
+6.0.0 27-02-2016 13:51:34 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 27-02-2016 13:51:44 MAJOR: null: Loading language: en_US
+6.0.0 27-02-2016 13:51:47 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 27-02-2016 14:05:13 Starting new session. Mods: examplemod 
+6.0.0 27-02-2016 14:05:32 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 27-02-2016 14:05:37 MAJOR: null: Loading language: en_US
+6.0.0 27-02-2016 14:05:37 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 27-02-2016 14:35:46 Starting new session. Mods: examplemod 
+6.0.0 27-02-2016 14:36:05 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 27-02-2016 14:36:15 MAJOR: null: Loading language: en_US
+6.0.0 27-02-2016 14:36:18 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 27-02-2016 16:27:45 Exception, printing stack:
+6.0.0 27-02-2016 16:27:45 java.io.FileNotFoundException: C:\Users\joebr\Documents\Curse\Minecraft\Instances\BridgePack2\saves\BendOverTrio\millenaire\buildings\-174_67_-189_temp.gz (The process cannot access the file because it is being used by another process)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at org.millenaire.common.building.Building$SaveWorker.run(Building.java:320)
+
