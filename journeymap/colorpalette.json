@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 5.1.4 Unlimited for 1.7.10 on Sat Feb 27 13:37:31 EST 2016",
+  "generated": "Generated using JourneyMap 5.1.4 Unlimited for 1.7.10 on Sat Feb 27 13:52:12 EST 2016",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -11,7 +11,7 @@ var colorpalette={
   ],
   "permanent": false,
   "resourcePacks": "Default",
-  "modNames": "Alternate Terrain Generation:0.10.0, Antique Atlas:1.7.10-4.2.10, Archimedes\u0027 Ships Plus:1.7.10-1.8.1, BC Builders:7.1.14, BC Energy:7.1.14, BC Factory:7.1.14, BC Robotics:7.1.14, BC Silicon:7.1.14, BC Transport:7.1.14, Backpack:2.0.1, Battle Towers:1.5.1, Binnie Core:2.0-pre14, Binnie Patcher:1.5, Biomes O\u0027 Plenty:2.1.0, Botany:2.0-pre14, Build Mod:v1.0, BuildCraft Compat:7.1.3, BuildCraft:7.1.14, ChickenChunks:1.3.4.19, Chocolate Quest:1.0, CoFH ASM:000, CoFH Core:1.7.10R3.1.2, CodeChicken Core:1.0.7.47, CompactStorage:v2.0.0a, ComputerCraft:1.75, CoroAI:v1.0, CoroPets:v1.0, Cuchaz Interactive:1.7.10-1.0, Dense Ores:1.0, DrZhark\u0027s CustomSpawner:3.3.0, DrZhark\u0027s Mo\u0027Creatures Mod:6.3.1, Dynamic Lights Burning Entity Module:1.0.4, Dynamic Lights Creeper Module:1.0.4, Dynamic Lights Entity Light Module:1.0.1, Dynamic Lights EntityItem Module:1.0.8, Dynamic Lights Fiery Arrows Light Module:1.0.0, Dynamic Lights Flood Light:1.0.2, Dynamic Lights Mob Equipment Light Module:1.0.8, Dynamic Lights OtherPlayers Light Module:1.0.8, Dynamic Lights Player Light Module:1.1.4, Dynamic Lights:1.3.8, Enchanting Plus:3.0.2-d, EnderStorage:1.4.7.37, Extended Mod Config:v1.0, Extended Renderer:v1.0, Extra Bees:2.0-pre14, Extra Trees:2.0-pre14, Extra Utilities:1.2.12, ExtraTiC:1.4.5, Farseek:1.0.11, FastCraft:1.21, Forestry for Minecraft:4.2.9.57, Forge Microblocks:1.2.0.345, Forge Mod Loader:7.10.99.99, Forge Multipart:1.2.0.345, Genetics:2.0-pre14, GraveStone:2.16.0, Infernal Mobs:1.6.0, Inventory Tweaks:1.59-dev-152-cf6e263, Iron Backpacks:1.7.10-1.2.15, Iron Chest Minecarts:1.0.4, Iron Chest:6.0.60.741, JourneyMap:5.1.4, Mantle:1.7.10-0.3.2.jenkins191, MillÃ©naire:6.0.0, Mine \u0026 Blade Battlegear 2 - Bullseye:1.7.10, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Minecraft Multipart Plugin:1.2.0.345, Mod Support:0.31.3_build.unknown, Mouse Tweaks:2.4.4, Moving World:1.7.10-1.8.1, NEI Addons: Applied Energistics 2:1.12.14.40, NEI Addons: Botany:1.12.14.40, NEI Addons: Crafting Tables:1.12.14.40, NEI Addons: Developer Tools:1.12.14.40, NEI Addons: Ex Nihilo:1.12.14.40, NEI Addons: Forestry:1.12.14.40, NEI Addons:1.12.14.40, NEI Integration:1.1.2, Natura:2.2.0, Neat:GRADLE:VERSION-GRADLE:BUILD, Not Enough Items:1.0.5.118, NotEnoughKeys:@MOD_VERSION@, OpenBlocks:1.5.1, OpenMods:0.9.1, OpenModsCore:0.9.1, OpenPeripheralAddons:0.5.1, OpenPeripheralCore:1.3, OpenPeripheralIntegration:0.5, Ore Dictionary Converter:1.6.1, Pet Bat:1.3.8, Railcraft:9.8.0.0, Realistic Terrain Generation:0.6.2, Roguelike Dungeons:1.4.4, Ships Mod Core:1.7.10-1.0.3, Ships Mod:1.7.10-1.0.3, Streams:0.2, Thermal Dynamics:1.7.10R1.1.0, Thermal Expansion:1.7.10R4.1.2, Thermal Foundation:1.7.10R1.2.3, TiC Tooltips:1.2.5, Tinkers\u0027 Construct:1.7.10-1.8.8.build988, Tinkers\u0027 Defense:1.2, Tinkers\u0027 Mechworks:0.2.15.106, Vein Miner:0.31.3_build.unknown, Veinminer Mod Integration:1.7.10-0.2.0, WR-CBE Addons:1.4.1.9, WR-CBE Core:1.4.1.9, WR-CBE Logic:1.4.1.9, Waila Harvestability:1.1.6, Waila:1.5.10, WorldEdit:6.0-beta-01, Zombie Awareness:v1.9.5, debug:1.0",
+  "modNames": "Alternate Terrain Generation:0.10.0, Antique Atlas:1.7.10-4.2.10, Archimedes\u0027 Ships Plus:1.7.10-1.8.1, BC Builders:7.1.14, BC Energy:7.1.14, BC Factory:7.1.14, BC Robotics:7.1.14, BC Silicon:7.1.14, BC Transport:7.1.14, Backpack:2.0.1, Battle Towers:1.5.1, Binnie Core:2.0-pre14, Binnie Patcher:1.5, Biomes O\u0027 Plenty:2.1.0, Botany:2.0-pre14, Build Mod:v1.0, BuildCraft Compat:7.1.3, BuildCraft:7.1.14, ChickenChunks:1.3.4.19, Chocolate Quest:1.0, CoFH ASM:000, CoFH Core:1.7.10R3.1.2, CodeChicken Core:1.0.7.47, CompactStorage:v2.0.0a, ComputerCraft:1.75, CoroAI:v1.0, CoroPets:v1.0, Cuchaz Interactive:1.7.10-1.0, Dense Ores:1.0, DrZhark\u0027s CustomSpawner:3.3.0, DrZhark\u0027s Mo\u0027Creatures Mod:6.3.1, Dynamic Lights Burning Entity Module:1.0.4, Dynamic Lights Creeper Module:1.0.4, Dynamic Lights Entity Light Module:1.0.1, Dynamic Lights EntityItem Module:1.0.8, Dynamic Lights Fiery Arrows Light Module:1.0.0, Dynamic Lights Flood Light:1.0.2, Dynamic Lights Mob Equipment Light Module:1.0.8, Dynamic Lights OtherPlayers Light Module:1.0.8, Dynamic Lights Player Light Module:1.1.4, Dynamic Lights:1.3.8, Enchanting Plus:3.0.2-d, EnderStorage:1.4.7.37, Extended Mod Config:v1.0, Extended Renderer:v1.0, Extra Bees:2.0-pre14, Extra Trees:2.0-pre14, Extra Utilities:1.2.12, ExtraTiC:1.4.5, Farseek:1.0.11, FastCraft:1.21, Forestry for Minecraft:4.2.9.57, Forge Microblocks:1.2.0.345, Forge Mod Loader:7.10.99.99, Forge Multipart:1.2.0.345, Genetics:2.0-pre14, GraveStone:2.16.0, Infernal Mobs:1.6.0, Inventory Tweaks:1.59-dev-152-cf6e263, Iron Backpacks:1.7.10-1.2.15, Iron Chest Minecarts:1.0.4, Iron Chest:6.0.60.741, JourneyMap:5.1.4, Mantle:1.7.10-0.3.2.jenkins191, MillÃ©naire:6.0.0, Mine \u0026 Blade Battlegear 2 - Bullseye:1.7.10, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Minecraft Multipart Plugin:1.2.0.345, Mod Support:0.31.3_build.unknown, MorePlayerModels:1.7.10b, Mouse Tweaks:2.4.4, Moving World:1.7.10-1.8.1, NEI Addons: Applied Energistics 2:1.12.14.40, NEI Addons: Botany:1.12.14.40, NEI Addons: Crafting Tables:1.12.14.40, NEI Addons: Developer Tools:1.12.14.40, NEI Addons: Ex Nihilo:1.12.14.40, NEI Addons: Forestry:1.12.14.40, NEI Addons:1.12.14.40, NEI Integration:1.1.2, Natura:2.2.0, Neat:GRADLE:VERSION-GRADLE:BUILD, Not Enough Items:1.0.5.118, NotEnoughKeys:@MOD_VERSION@, Open Modular Turrets:2.1.9-211, OpenBlocks:1.5.1, OpenMods:0.9.1, OpenModsCore:0.9.1, OpenPeripheralAddons:0.5.1, OpenPeripheralCore:1.3, OpenPeripheralIntegration:0.5, Ore Dictionary Converter:1.6.1, Pet Bat:1.3.8, Player API:1.4, Railcraft:9.8.0.0, Realistic Terrain Generation:0.6.2, Roguelike Dungeons:1.4.4, Rotten Flesh to Leather:1.7.10-2.0, Ships Mod Core:1.7.10-1.0.3, Ships Mod:1.7.10-1.0.3, Smart Core:1.0.3, Smart Moving:15.6, Smart Render:2.1, Streams:0.2, Thermal Dynamics:1.7.10R1.1.0, Thermal Expansion:1.7.10R4.1.2, Thermal Foundation:1.7.10R1.2.3, TiC Tooltips:1.2.5, Tinkers\u0027 Construct:1.7.10-1.8.8.build988, Tinkers\u0027 Defense:1.2, Tinkers\u0027 Mechworks:0.2.15.106, Vein Miner:0.31.3_build.unknown, Veinminer Mod Integration:1.7.10-0.2.0, WR-CBE Addons:1.4.1.9, WR-CBE Core:1.4.1.9, WR-CBE Logic:1.4.1.9, Waila Harvestability:1.1.6, Waila:1.5.10, WorldEdit:6.0-beta-01, Zombie Awareness:v1.9.5, debug:1.0",
   "basicColors": [
     {
       "name": " Wood Slab",
@@ -2130,6 +2130,72 @@ var colorpalette={
       "uid": "Forestry:slabsFireproof",
       "meta": 22,
       "color": "#c38c7b"
+    },
+    {
+      "name": "Base Inventory Expander (Tier 1)",
+      "uid": "openmodularturrets:expanderInvTierOne",
+      "meta": 0,
+      "color": "#7c007c"
+    },
+    {
+      "name": "Base Inventory Expander (Tier 2)",
+      "uid": "openmodularturrets:expanderInvTierTwo",
+      "meta": 0,
+      "color": "#e4e3e2"
+    },
+    {
+      "name": "Base Inventory Expander (Tier 3)",
+      "uid": "openmodularturrets:expanderInvTierThree",
+      "meta": 0,
+      "color": "#e6e4e0"
+    },
+    {
+      "name": "Base Inventory Expander (Tier 4)",
+      "uid": "openmodularturrets:expanderInvTierFour",
+      "meta": 0,
+      "color": "#e3e6e6"
+    },
+    {
+      "name": "Base Inventory Expander (Tier 5)",
+      "uid": "openmodularturrets:expanderInvTierFive",
+      "meta": 0,
+      "color": "#e0dfdf"
+    },
+    {
+      "name": "Base Power Expander (Tier 1)",
+      "uid": "openmodularturrets:expanderPowerTierOne",
+      "meta": 0,
+      "color": "#e4e3e1"
+    },
+    {
+      "name": "Base Power Expander (Tier 2)",
+      "uid": "openmodularturrets:expanderPowerTierTwo",
+      "meta": 0,
+      "color": "#e4e4e4"
+    },
+    {
+      "name": "Base Power Expander (Tier 3)",
+      "uid": "openmodularturrets:expanderPowerTierThree",
+      "meta": 0,
+      "color": "#e8e6e1"
+    },
+    {
+      "name": "Base Power Expander (Tier 4)",
+      "uid": "openmodularturrets:expanderPowerTierFour",
+      "meta": 0,
+      "color": "#e4e9e8"
+    },
+    {
+      "name": "Base Power Expander (Tier 5)",
+      "uid": "openmodularturrets:expanderPowerTierFive",
+      "meta": 0,
+      "color": "#dededf"
+    },
+    {
+      "name": "Basic Turret Base Crank",
+      "uid": "openmodularturrets:leverBlock",
+      "meta": 0,
+      "color": "#525258"
     },
     {
       "name": "Beacon",
@@ -6324,6 +6390,12 @@ var colorpalette={
       "color": "#606060"
     },
     {
+      "name": "Disposable Item Turret",
+      "uid": "openmodularturrets:disposeItemTurret",
+      "meta": 0,
+      "color": "#cdcdcc"
+    },
+    {
       "name": "Distant Signal",
       "uid": "Railcraft:signal",
       "meta": 11,
@@ -7509,6 +7581,36 @@ var colorpalette={
       "meta": 0,
       "color": "#9c7f4e",
       "alpha": 0.4
+    },
+    {
+      "name": "Fence (Tier 1)",
+      "uid": "openmodularturrets:fenceTierOne",
+      "meta": 0,
+      "color": "#626262"
+    },
+    {
+      "name": "Fence (Tier 2)",
+      "uid": "openmodularturrets:fenceTierTwo",
+      "meta": 0,
+      "color": "#636363"
+    },
+    {
+      "name": "Fence (Tier 3)",
+      "uid": "openmodularturrets:fenceTierThree",
+      "meta": 0,
+      "color": "#766f58"
+    },
+    {
+      "name": "Fence (Tier 4)",
+      "uid": "openmodularturrets:fenceTierFour",
+      "meta": 0,
+      "color": "#596e77"
+    },
+    {
+      "name": "Fence (Tier 5)",
+      "uid": "openmodularturrets:fenceTierFive",
+      "meta": 0,
+      "color": "#605c61"
     },
     {
       "name": "Fence Gate",
@@ -8901,16 +9003,58 @@ var colorpalette={
       "color": "#41ae38"
     },
     {
+      "name": "Grenade Launcher Turret",
+      "uid": "openmodularturrets:grenadeTurret",
+      "meta": 0,
+      "color": "#b7b7b7"
+    },
+    {
       "name": "Grout",
       "uid": "TConstruct:CraftedSoil",
       "meta": 1,
       "color": "#9fa1ab"
     },
     {
+      "name": "Gun Turret",
+      "uid": "openmodularturrets:machineGunTurret",
+      "meta": 0,
+      "color": "#bebebe"
+    },
+    {
       "name": "Hambone",
       "uid": "TConstruct:MeatBlock",
       "meta": 0,
       "color": "#e39b80"
+    },
+    {
+      "name": "Hard Wall (Tier 1)",
+      "uid": "openmodularturrets:hardWallTierOne",
+      "meta": 0,
+      "color": "#878b8f"
+    },
+    {
+      "name": "Hard Wall (Tier 2)",
+      "uid": "openmodularturrets:hardWallTierTwo",
+      "meta": 0,
+      "color": "#6e7275"
+    },
+    {
+      "name": "Hard Wall (Tier 3)",
+      "uid": "openmodularturrets:hardWallTierThree",
+      "meta": 0,
+      "color": "#5e6164"
+    },
+    {
+      "name": "Hard Wall (Tier 4)",
+      "uid": "openmodularturrets:hardWallTierFour",
+      "meta": 0,
+      "color": "#3c3f41"
+    },
+    {
+      "name": "Hard Wall (Tier 5)",
+      "uid": "openmodularturrets:hardWallTierFive",
+      "meta": 0,
+      "color": "#282a2b"
     },
     {
       "name": "Hardened Cache",
@@ -9544,6 +9688,12 @@ var colorpalette={
       "uid": "ThermalExpansion:Plate",
       "meta": 2,
       "color": "#4f5667"
+    },
+    {
+      "name": "Incendiary Turret",
+      "uid": "openmodularturrets:incendiaryTurret",
+      "meta": 0,
+      "color": "#d1d0d0"
     },
     {
       "name": "Induction Smelter (Basic)",
@@ -11559,6 +11709,12 @@ var colorpalette={
       "uid": "BuildCraft|Silicon:laserBlock",
       "meta": 0,
       "color": "#221e24"
+    },
+    {
+      "name": "Laser Turret",
+      "uid": "openmodularturrets:laserTurret",
+      "meta": 0,
+      "color": "#c3c3c3"
     },
     {
       "name": "Lava",
@@ -15247,6 +15403,12 @@ var colorpalette={
       "color": "#c5c0b0"
     },
     {
+      "name": "Potato Cannon Turret",
+      "uid": "openmodularturrets:potatoCannonTurret",
+      "meta": 0,
+      "color": "#dbdad9"
+    },
+    {
       "name": "Potatoes",
       "uid": "minecraft:potatoes",
       "meta": 0,
@@ -15427,7 +15589,7 @@ var colorpalette={
       "color": "#511427"
     },
     {
-      "name": "QED (Quark/Electron Director)",
+      "name": "QED (Quantum Ender Diviner)",
       "uid": "ExtraUtilities:endConstructor",
       "meta": 0,
       "color": "#3d5a45"
@@ -15527,6 +15689,12 @@ var colorpalette={
       "uid": "ThermalExpansion:Light",
       "meta": 1,
       "color": "#4f5667"
+    },
+    {
+      "name": "Rail Gun Turret",
+      "uid": "openmodularturrets:railGunTurret",
+      "meta": 0,
+      "color": "#cfcfd0"
     },
     {
       "name": "Rain Muffler",
@@ -15970,6 +16138,12 @@ var colorpalette={
       "color": "#4f5667"
     },
     {
+      "name": "Relativistic Turret",
+      "uid": "openmodularturrets:relativisticTurret",
+      "meta": 0,
+      "color": "#ebebe8"
+    },
+    {
       "name": "Requester",
       "uid": "BuildCraft|Robotics:requester",
       "meta": 0,
@@ -16068,6 +16242,12 @@ var colorpalette={
       "uid": "Railcraft:machine.alpha",
       "meta": 15,
       "color": "#383838"
+    },
+    {
+      "name": "Rocket Launcher Turret",
+      "uid": "openmodularturrets:rocketTurret",
+      "meta": 0,
+      "color": "#cbcbcb"
     },
     {
       "name": "Rolling Machine",
@@ -18450,6 +18630,12 @@ var colorpalette={
       "color": "#4f5667"
     },
     {
+      "name": "Teleporter Turret",
+      "uid": "openmodularturrets:teleporterTurret",
+      "meta": 0,
+      "color": "#cbcdcd"
+    },
+    {
       "name": "Temperate Fluiduct",
       "uid": "ThermalDynamics:ThermalDynamics_16",
       "meta": 0,
@@ -18947,6 +19133,36 @@ var colorpalette={
       "uid": "BiomesOPlenty:turnip",
       "meta": 0,
       "color": "#02b410"
+    },
+    {
+      "name": "Turret Base (Tier 1)",
+      "uid": "openmodularturrets:baseTierWood",
+      "meta": 0,
+      "color": "#615540"
+    },
+    {
+      "name": "Turret Base (Tier 2)",
+      "uid": "openmodularturrets:baseTierOneBlock",
+      "meta": 0,
+      "color": "#525258"
+    },
+    {
+      "name": "Turret Base (Tier 3)",
+      "uid": "openmodularturrets:baseTierTwoBlock",
+      "meta": 0,
+      "color": "#6a6030"
+    },
+    {
+      "name": "Turret Base (Tier 4)",
+      "uid": "openmodularturrets:baseTierThreeBlock",
+      "meta": 0,
+      "color": "#4f7176"
+    },
+    {
+      "name": "Turret Base (Tier 5)",
+      "uid": "openmodularturrets:baseTierFourBlock",
+      "meta": 0,
+      "color": "#30303b"
     },
     {
       "name": "Turtle",

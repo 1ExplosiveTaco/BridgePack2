@@ -1,1 +1,0 @@
-quest:architectwife;step:0;startTime:2000;currentStepStartTime:2000;villager:startvillager,3570609476576677928,81/68/-352;villager:architect,1919338816228816903,81/68/-352
