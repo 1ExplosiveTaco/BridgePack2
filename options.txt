@@ -88,6 +88,25 @@ key_key.hotbar.9:10
 key_MoCreatures Dive:0
 key_MoCreatures GUI:64
 key_Dynamic Lights toggle:0
+key_invtweaks.key.sort:19
+key_waila.keybind.wailaconfig:82
+key_waila.keybind.wailadisplay:79
+key_waila.keybind.liquid:80
+key_waila.keybind.recipe:81
+key_waila.keybind.usage:75
+key_key.tarmor:24
+key_key.tgoggles:34
+key_key.tbelt:48
+key_key.tzoom:44
+key_WorldEdit Reference:38
+key_key.journeymap.map_toggle:199
+key_key.journeymap.zoom_in:201
+key_key.journeymap.zoom_out:209
+key_key.journeymap.minimap_type:211
+key_key.journeymap.minimap_type:207
+key_key.journeymap.minimap_preset:43
+key_key.journeymap.create_waypoint:210
+key_key.control:0
 soundCategory_master:1.0
 soundCategory_music:1.0
 soundCategory_record:1.0

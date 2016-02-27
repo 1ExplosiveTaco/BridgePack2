@@ -1,0 +1,5363 @@
+var colorpalette={
+  "version": 3,
+  "name": "JourneyMap Color Palette",
+  "generated": "Generated using JourneyMap 5.1.4 Unlimited for 1.7.10 on Sat Feb 27 10:02:08 EST 2016",
+  "description": [
+    "This file can be used to keep map colors consistent when changing resource packs.",
+    "Edit at your own risk. You can view it using the colorpalette.html file.",
+    "To use this palette with a single world, place colorpalette.json in: .minecraft/journeymap/data/*/worldname/",
+    "To use this palette with all worlds, edit and set \"permanent\": true, then place colorpalette.json in: .minecraft/journeymap/",
+    "For more information, go to: http://journeymap.info/help/wiki/Color_Palette"
+  ],
+  "permanent": false,
+  "resourcePacks": "Default",
+  "modNames": "Battle Towers:1.5.1, Biomes O\u0027 Plenty:2.1.0, ChickenChunks:1.3.4.19, CodeChicken Core:1.0.7.47, DrZhark\u0027s CustomSpawner:3.3.0, DrZhark\u0027s Mo\u0027Creatures Mod:6.3.1, Dynamic Lights Burning Entity Module:1.0.4, Dynamic Lights Creeper Module:1.0.4, Dynamic Lights Entity Light Module:1.0.1, Dynamic Lights EntityItem Module:1.0.8, Dynamic Lights Fiery Arrows Light Module:1.0.0, Dynamic Lights Flood Light:1.0.2, Dynamic Lights Mob Equipment Light Module:1.0.8, Dynamic Lights OtherPlayers Light Module:1.0.8, Dynamic Lights Player Light Module:1.1.4, Dynamic Lights:1.3.8, EnderStorage:1.4.7.37, Forge Microblocks:1.2.0.345, Forge Mod Loader:7.10.99.99, Forge Multipart:1.2.0.345, Infernal Mobs:1.6.0, Inventory Tweaks:1.59-dev-152-cf6e263, JourneyMap:5.1.4, Mantle:1.7.10-0.3.2.jenkins191, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Minecraft Multipart Plugin:1.2.0.345, NEI Addons: Applied Energistics 2:1.12.14.40, NEI Addons: Botany:1.12.14.40, NEI Addons: Crafting Tables:1.12.14.40, NEI Addons: Developer Tools:1.12.14.40, NEI Addons: Ex Nihilo:1.12.14.40, NEI Addons: Forestry:1.12.14.40, NEI Addons:1.12.14.40, NEI Integration:1.1.2, Neat:GRADLE:VERSION-GRADLE:BUILD, Not Enough Items:1.0.5.118, Pet Bat:1.3.8, TiC Tooltips:1.2.5, Tinkers\u0027 Construct:1.7.10-1.8.8.build988, Tinkers\u0027 Mechworks:0.2.15.106, WR-CBE Addons:1.4.1.9, WR-CBE Core:1.4.1.9, WR-CBE Logic:1.4.1.9, Waila Harvestability:1.1.6, Waila:1.5.10, WorldEdit:6.0-beta-01",
+  "basicColors": [
+    {
+      "name": "Acacia Leaves",
+      "uid": "minecraft:leaves2",
+      "meta": 0,
+      "color": "#878787"
+    },
+    {
+      "name": "Acacia Leaves",
+      "uid": "minecraft:leaves2",
+      "meta": 1,
+      "color": "#878787"
+    },
+    {
+      "name": "Acacia Sapling",
+      "uid": "minecraft:sapling",
+      "meta": 4,
+      "color": "#727314"
+    },
+    {
+      "name": "Acacia Wood",
+      "uid": "minecraft:log2",
+      "meta": 0,
+      "color": "#9a5b40"
+    },
+    {
+      "name": "Acacia Wood Planks",
+      "uid": "minecraft:planks",
+      "meta": 4,
+      "color": "#a95b33"
+    },
+    {
+      "name": "Acacia Wood Slab",
+      "uid": "minecraft:wooden_slab",
+      "meta": 4,
+      "color": "#a95b33"
+    },
+    {
+      "name": "Acacia Wood Stairs",
+      "uid": "minecraft:acacia_stairs",
+      "meta": 0,
+      "color": "#a95b33"
+    },
+    {
+      "name": "Activator Rail",
+      "uid": "minecraft:activator_rail",
+      "meta": 0,
+      "color": "#685347"
+    },
+    {
+      "name": "Advanced Drawbridge",
+      "uid": "TMechworks:RedstoneMachine",
+      "meta": 2,
+      "color": "#ae8631"
+    },
+    {
+      "name": "Algae",
+      "uid": "BiomesOPlenty:coral2",
+      "meta": 8,
+      "color": "#508e42",
+      "alpha": 0.3
+    },
+    {
+      "name": "Allium",
+      "uid": "minecraft:red_flower",
+      "meta": 2,
+      "color": "#8549b6"
+    },
+    {
+      "name": "Aluminum Gravel Ore",
+      "uid": "TConstruct:GravelOre",
+      "meta": 4,
+      "color": "#918f8d"
+    },
+    {
+      "name": "Aluminum Ore",
+      "uid": "TConstruct:SearedBrick",
+      "meta": 5,
+      "color": "#919191"
+    },
+    {
+      "name": "Aluminum Oreberry Bush",
+      "uid": "TConstruct:ore.berries.two",
+      "meta": 8,
+      "color": "#64747b"
+    },
+    {
+      "name": "Alumite Brick",
+      "uid": "TConstruct:decoration.multibrickmetal",
+      "meta": 0,
+      "color": "#ef98b6"
+    },
+    {
+      "name": "Anvil",
+      "uid": "minecraft:anvil",
+      "meta": 0,
+      "color": "#404040"
+    },
+    {
+      "name": "Anvil",
+      "uid": "minecraft:anvil",
+      "meta": 1,
+      "color": "#404040"
+    },
+    {
+      "name": "Anvil",
+      "uid": "minecraft:anvil",
+      "meta": 2,
+      "color": "#404040"
+    },
+    {
+      "name": "Apple Leaves",
+      "uid": "BiomesOPlenty:appleLeaves",
+      "meta": 0,
+      "color": "#586319"
+    },
+    {
+      "name": "Apple Sapling",
+      "uid": "BiomesOPlenty:saplings",
+      "meta": 0,
+      "color": "#725821"
+    },
+    {
+      "name": "Ardite Brick",
+      "uid": "TConstruct:decoration.multibrickmetal",
+      "meta": 1,
+      "color": "#e68108"
+    },
+    {
+      "name": "Ardite Ore",
+      "uid": "TConstruct:SearedBrick",
+      "meta": 2,
+      "color": "#805831"
+    },
+    {
+      "name": "Ash Block",
+      "uid": "BiomesOPlenty:ash",
+      "meta": 0,
+      "color": "#2c2c2c"
+    },
+    {
+      "name": "Ash Stone",
+      "uid": "BiomesOPlenty:ashStone",
+      "meta": 0,
+      "color": "#555555"
+    },
+    {
+      "name": "Azure Bluet",
+      "uid": "minecraft:red_flower",
+      "meta": 3,
+      "color": "#9da1a7"
+    },
+    {
+      "name": "Bamboo",
+      "uid": "BiomesOPlenty:bamboo",
+      "meta": 0,
+      "color": "#c6d487"
+    },
+    {
+      "name": "Bamboo Leaves",
+      "uid": "BiomesOPlenty:leaves1",
+      "meta": 0,
+      "color": "#604b14"
+    },
+    {
+      "name": "Bamboo Sapling",
+      "uid": "BiomesOPlenty:saplings",
+      "meta": 2,
+      "color": "#796229"
+    },
+    {
+      "name": "Bamboo Thatching",
+      "uid": "BiomesOPlenty:planks",
+      "meta": 10,
+      "color": "#a9b868"
+    },
+    {
+      "name": "Beacon",
+      "uid": "minecraft:beacon",
+      "meta": 0,
+      "color": "#74ddd7",
+      "alpha": 0.4
+    },
+    {
+      "name": "Bed",
+      "uid": "minecraft:bed",
+      "meta": 0,
+      "color": "#8e1616"
+    },
+    {
+      "name": "Bedrock",
+      "uid": "minecraft:bedrock",
+      "meta": 0,
+      "color": "#535353"
+    },
+    {
+      "name": "Biome Essence Ore",
+      "uid": "BiomesOPlenty:biomeBlock",
+      "meta": 0,
+      "color": "#c2c495",
+      "alpha": 0.4
+    },
+    {
+      "name": "Birch Barricade",
+      "uid": "TConstruct:trap.barricade.birch",
+      "meta": 0,
+      "color": "#cecec9"
+    },
+    {
+      "name": "Birch Leaves",
+      "uid": "minecraft:leaves",
+      "meta": 2,
+      "color": "#878787"
+    },
+    {
+      "name": "Birch Sapling",
+      "uid": "minecraft:sapling",
+      "meta": 2,
+      "color": "#769654"
+    },
+    {
+      "name": "Birch Wood",
+      "uid": "minecraft:log",
+      "meta": 2,
+      "color": "#b8a679"
+    },
+    {
+      "name": "Birch Wood Planks",
+      "uid": "minecraft:planks",
+      "meta": 2,
+      "color": "#c3b37b"
+    },
+    {
+      "name": "Birch Wood Slab",
+      "uid": "minecraft:wooden_slab",
+      "meta": 2,
+      "color": "#c3b37b"
+    },
+    {
+      "name": "Birch Wood Stairs",
+      "uid": "minecraft:birch_stairs",
+      "meta": 0,
+      "color": "#c3b37b"
+    },
+    {
+      "name": "Black Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 15,
+      "color": "#191616"
+    },
+    {
+      "name": "Black Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 15,
+      "color": "#251610"
+    },
+    {
+      "name": "Black Stained Glass",
+      "uid": "TConstruct:GlassBlock.StainedClear",
+      "meta": 15,
+      "color": "#4f4f4f",
+      "alpha": 0.4
+    },
+    {
+      "name": "Black Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 15,
+      "color": "#191919",
+      "alpha": 0.4
+    },
+    {
+      "name": "Black Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 15,
+      "color": "#191919",
+      "alpha": 0.4
+    },
+    {
+      "name": "Black Stained Pane",
+      "uid": "TConstruct:GlassPaneClearStained",
+      "meta": 15,
+      "color": "#4f4f4f",
+      "alpha": 0.4
+    },
+    {
+      "name": "Black Wool",
+      "uid": "minecraft:wool",
+      "meta": 15,
+      "color": "#191616"
+    },
+    {
+      "name": "Black Wool Slab",
+      "uid": "TConstruct:WoolSlab1",
+      "meta": 7,
+      "color": "#404040"
+    },
+    {
+      "name": "Block of Aluminum",
+      "uid": "TConstruct:MetalBlock",
+      "meta": 6,
+      "color": "#d9d9d9"
+    },
+    {
+      "name": "Block of Aluminum Brass",
+      "uid": "TConstruct:MetalBlock",
+      "meta": 7,
+      "color": "#d4ae43"
+    },
+    {
+      "name": "Block of Alumite",
+      "uid": "TConstruct:MetalBlock",
+      "meta": 8,
+      "color": "#ee86a9"
+    },
+    {
+      "name": "Block of Amber",
+      "uid": "BiomesOPlenty:gemOre",
+      "meta": 15,
+      "color": "#de8e21"
+    },
+    {
+      "name": "Block of Amethyst",
+      "uid": "BiomesOPlenty:gemOre",
+      "meta": 1,
+      "color": "#ed70ff"
+    },
+    {
+      "name": "Block of Amethyst",
+      "uid": "BiomesOPlenty:gemOre",
+      "meta": 2,
+      "color": "#896d77"
+    },
+    {
+      "name": "Block of Ardite",
+      "uid": "TConstruct:MetalBlock",
+      "meta": 1,
+      "color": "#e06702"
+    },
+    {
+      "name": "Block of Bronze",
+      "uid": "TConstruct:MetalBlock",
+      "meta": 4,
+      "color": "#8b6422"
+    },
+    {
+      "name": "Block of Coal",
+      "uid": "minecraft:coal_block",
+      "meta": 0,
+      "color": "#121212"
+    },
+    {
+      "name": "Block of Cobalt",
+      "uid": "TConstruct:MetalBlock",
+      "meta": 0,
+      "color": "#277be1"
+    },
+    {
+      "name": "Block of Copper",
+      "uid": "TConstruct:MetalBlock",
+      "meta": 3,
+      "color": "#ca580f"
+    },
+    {
+      "name": "Block of Diamond",
+      "uid": "minecraft:diamond_block",
+      "meta": 0,
+      "color": "#61dbd5"
+    },
+    {
+      "name": "Block of Emerald",
+      "uid": "minecraft:emerald_block",
+      "meta": 0,
+      "color": "#51d975"
+    },
+    {
+      "name": "Block of Gold",
+      "uid": "minecraft:gold_block",
+      "meta": 0,
+      "color": "#f9ec4e"
+    },
+    {
+      "name": "Block of Iron",
+      "uid": "minecraft:iron_block",
+      "meta": 0,
+      "color": "#dbdbdb"
+    },
+    {
+      "name": "Block of Malachite",
+      "uid": "BiomesOPlenty:gemOre",
+      "meta": 11,
+      "color": "#26896b"
+    },
+    {
+      "name": "Block of Manyullyn",
+      "uid": "TConstruct:MetalBlock",
+      "meta": 2,
+      "color": "#9255bc"
+    },
+    {
+      "name": "Block of Peridot",
+      "uid": "BiomesOPlenty:gemOre",
+      "meta": 5,
+      "color": "#9cbc5e"
+    },
+    {
+      "name": "Block of Peridot",
+      "uid": "BiomesOPlenty:gemOre",
+      "meta": 10,
+      "color": "#6c8580"
+    },
+    {
+      "name": "Block of Quartz",
+      "uid": "minecraft:quartz_block",
+      "meta": 0,
+      "color": "#ece9e2"
+    },
+    {
+      "name": "Block of Redstone",
+      "uid": "minecraft:redstone_block",
+      "meta": 0,
+      "color": "#ab1b09"
+    },
+    {
+      "name": "Block of Ruby",
+      "uid": "BiomesOPlenty:gemOre",
+      "meta": 3,
+      "color": "#d04d68"
+    },
+    {
+      "name": "Block of Ruby",
+      "uid": "BiomesOPlenty:gemOre",
+      "meta": 6,
+      "color": "#89786b"
+    },
+    {
+      "name": "Block of Sapphire",
+      "uid": "BiomesOPlenty:gemOre",
+      "meta": 13,
+      "color": "#4d96d1"
+    },
+    {
+      "name": "Block of Solid Ender",
+      "uid": "TConstruct:MetalBlock",
+      "meta": 10,
+      "color": "#00826b"
+    },
+    {
+      "name": "Block of Steel",
+      "uid": "TConstruct:MetalBlock",
+      "meta": 9,
+      "color": "#a7a7a7"
+    },
+    {
+      "name": "Block of Tanzanite",
+      "uid": "BiomesOPlenty:gemOre",
+      "meta": 9,
+      "color": "#8250e4"
+    },
+    {
+      "name": "Block of Tin",
+      "uid": "TConstruct:MetalBlock",
+      "meta": 5,
+      "color": "#d7b389"
+    },
+    {
+      "name": "Block of Topaz",
+      "uid": "BiomesOPlenty:gemOre",
+      "meta": 7,
+      "color": "#d26d1e"
+    },
+    {
+      "name": "Block of Topaz",
+      "uid": "BiomesOPlenty:gemOre",
+      "meta": 14,
+      "color": "#917c5b"
+    },
+    {
+      "name": "Blood",
+      "uid": "BiomesOPlenty:hell_blood",
+      "meta": 0,
+      "color": "#b62613",
+      "alpha": 0.3
+    },
+    {
+      "name": "Blood",
+      "uid": "TConstruct:liquid.blood",
+      "meta": 0,
+      "color": "#620000",
+      "alpha": 0.3
+    },
+    {
+      "name": "Blood Channel",
+      "uid": "TConstruct:blood.channel",
+      "meta": 0,
+      "color": "#6c0000",
+      "alpha": 0.3
+    },
+    {
+      "name": "Blue Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 11,
+      "color": "#2e388d"
+    },
+    {
+      "name": "Blue Coral",
+      "uid": "BiomesOPlenty:coral1",
+      "meta": 14,
+      "color": "#79a0dd",
+      "alpha": 0.3
+    },
+    {
+      "name": "Blue Hydrangea",
+      "uid": "BiomesOPlenty:flowers",
+      "meta": 4,
+      "color": "#519ea9"
+    },
+    {
+      "name": "Blue Milk Cap",
+      "uid": "BiomesOPlenty:mushrooms",
+      "meta": 2,
+      "color": "#516fa4"
+    },
+    {
+      "name": "Blue Orchid",
+      "uid": "minecraft:red_flower",
+      "meta": 1,
+      "color": "#1e7eb6"
+    },
+    {
+      "name": "Blue Slimedirt",
+      "uid": "TConstruct:CraftedSoil",
+      "meta": 5,
+      "color": "#629298"
+    },
+    {
+      "name": "Blue Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 11,
+      "color": "#4a3b5b"
+    },
+    {
+      "name": "Blue Stained Glass",
+      "uid": "TConstruct:GlassBlock.StainedClear",
+      "meta": 11,
+      "color": "#7092de",
+      "alpha": 0.4
+    },
+    {
+      "name": "Blue Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 11,
+      "color": "#334cb2",
+      "alpha": 0.4
+    },
+    {
+      "name": "Blue Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 11,
+      "color": "#334cb2",
+      "alpha": 0.4
+    },
+    {
+      "name": "Blue Stained Pane",
+      "uid": "TConstruct:GlassPaneClearStained",
+      "meta": 11,
+      "color": "#7092de",
+      "alpha": 0.4
+    },
+    {
+      "name": "Blue Wool",
+      "uid": "minecraft:wool",
+      "meta": 11,
+      "color": "#2e388d"
+    },
+    {
+      "name": "Blue Wool Slab",
+      "uid": "TConstruct:WoolSlab1",
+      "meta": 3,
+      "color": "#6a8ac9"
+    },
+    {
+      "name": "Bluebells",
+      "uid": "BiomesOPlenty:flowers2",
+      "meta": 5,
+      "color": "#486d7b"
+    },
+    {
+      "name": "Bone Brick",
+      "uid": "TConstruct:decoration.multibrick",
+      "meta": 9,
+      "color": "#bbad66"
+    },
+    {
+      "name": "Bookshelf",
+      "uid": "minecraft:bookshelf",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Bounce Pad",
+      "uid": "TConstruct:slime.pad",
+      "meta": 0,
+      "color": "#00c74c"
+    },
+    {
+      "name": "Brewing Stand",
+      "uid": "minecraft:brewing_stand",
+      "meta": 0,
+      "color": "#7c6751"
+    },
+    {
+      "name": "Brick Stairs",
+      "uid": "minecraft:brick_stairs",
+      "meta": 0,
+      "color": "#926356"
+    },
+    {
+      "name": "Bricks",
+      "uid": "minecraft:brick_block",
+      "meta": 0,
+      "color": "#926356"
+    },
+    {
+      "name": "Bricks Slab",
+      "uid": "minecraft:stone_slab",
+      "meta": 4,
+      "color": "#926356"
+    },
+    {
+      "name": "Bromeliad",
+      "uid": "BiomesOPlenty:flowers",
+      "meta": 12,
+      "color": "#a28253"
+    },
+    {
+      "name": "Brown Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 12,
+      "color": "#4f321f"
+    },
+    {
+      "name": "Brown Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 12,
+      "color": "#4d3323"
+    },
+    {
+      "name": "Brown Stained Glass",
+      "uid": "TConstruct:GlassBlock.StainedClear",
+      "meta": 12,
+      "color": "#81461e",
+      "alpha": 0.4
+    },
+    {
+      "name": "Brown Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 12,
+      "color": "#664c33",
+      "alpha": 0.4
+    },
+    {
+      "name": "Brown Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 12,
+      "color": "#664c33",
+      "alpha": 0.4
+    },
+    {
+      "name": "Brown Stained Pane",
+      "uid": "TConstruct:GlassPaneClearStained",
+      "meta": 12,
+      "color": "#81461e",
+      "alpha": 0.4
+    },
+    {
+      "name": "Brown Wool",
+      "uid": "minecraft:wool",
+      "meta": 12,
+      "color": "#4f321f"
+    },
+    {
+      "name": "Brown Wool Slab",
+      "uid": "TConstruct:WoolSlab1",
+      "meta": 4,
+      "color": "#b1a627"
+    },
+    {
+      "name": "Brownstone",
+      "uid": "TConstruct:SpeedBlock",
+      "meta": 2,
+      "color": "#938c64"
+    },
+    {
+      "name": "Brownstone Brick",
+      "uid": "TConstruct:SpeedBlock",
+      "meta": 3,
+      "color": "#847e58"
+    },
+    {
+      "name": "Brownstone Brick Slab",
+      "uid": "TConstruct:SpeedSlab",
+      "meta": 3,
+      "color": "#847e58"
+    },
+    {
+      "name": "Brownstone Road",
+      "uid": "TConstruct:SpeedBlock",
+      "meta": 1,
+      "color": "#79776a"
+    },
+    {
+      "name": "Brownstone Road",
+      "uid": "TConstruct:SpeedBlock",
+      "meta": 4,
+      "color": "#807a54"
+    },
+    {
+      "name": "Brownstone Road Slab",
+      "uid": "TConstruct:SpeedSlab",
+      "meta": 1,
+      "color": "#79776a"
+    },
+    {
+      "name": "Brownstone Road Slab",
+      "uid": "TConstruct:SpeedSlab",
+      "meta": 4,
+      "color": "#807a54"
+    },
+    {
+      "name": "Brownstone Slab",
+      "uid": "TConstruct:SpeedSlab",
+      "meta": 2,
+      "color": "#938c64"
+    },
+    {
+      "name": "Burning Blossom",
+      "uid": "BiomesOPlenty:flowers2",
+      "meta": 2,
+      "color": "#b18120"
+    },
+    {
+      "name": "Button",
+      "uid": "minecraft:stone_button",
+      "meta": 0,
+      "color": "#7d7d7d"
+    },
+    {
+      "name": "Button",
+      "uid": "minecraft:wooden_button",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Cactus",
+      "uid": "minecraft:cactus",
+      "meta": 0,
+      "color": "#0d6618"
+    },
+    {
+      "name": "Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 0,
+      "color": "#dddddd"
+    },
+    {
+      "name": "Carrots",
+      "uid": "minecraft:carrots",
+      "meta": 0,
+      "color": "#01ab10"
+    },
+    {
+      "name": "Casting Basin",
+      "uid": "TConstruct:SearedBlock",
+      "meta": 2,
+      "color": "#3d3d3d"
+    },
+    {
+      "name": "Casting Basin",
+      "uid": "TConstruct:SearedBlockNether",
+      "meta": 2,
+      "color": "#27190b"
+    },
+    {
+      "name": "Casting Channel",
+      "uid": "TConstruct:CastingChannel",
+      "meta": 0,
+      "color": "#3b3b3b"
+    },
+    {
+      "name": "Casting Table",
+      "uid": "TConstruct:SearedBlock",
+      "meta": 0,
+      "color": "#414141"
+    },
+    {
+      "name": "Casting Table",
+      "uid": "TConstruct:SearedBlockNether",
+      "meta": 0,
+      "color": "#281a0b"
+    },
+    {
+      "name": "Cattail",
+      "uid": "BiomesOPlenty:plants",
+      "meta": 7,
+      "color": "#4c492a"
+    },
+    {
+      "name": "Cauldron",
+      "uid": "minecraft:cauldron",
+      "meta": 0,
+      "color": "#454545"
+    },
+    {
+      "name": "Celestial Crystal",
+      "uid": "BiomesOPlenty:crystal",
+      "meta": 0,
+      "color": "#633a83",
+      "alpha": 0.4
+    },
+    {
+      "name": "Cherry Wood",
+      "uid": "BiomesOPlenty:logs1",
+      "meta": 1,
+      "color": "#81312a"
+    },
+    {
+      "name": "Cherry Wood Planks",
+      "uid": "BiomesOPlenty:planks",
+      "meta": 1,
+      "color": "#7a2824"
+    },
+    {
+      "name": "Cherry Wood Slab",
+      "uid": "BiomesOPlenty:woodenDoubleSlab1",
+      "meta": 1,
+      "color": "#7a2824"
+    },
+    {
+      "name": "Cherry Wood Slab",
+      "uid": "BiomesOPlenty:woodenSingleSlab1",
+      "meta": 1,
+      "color": "#7a2824"
+    },
+    {
+      "name": "Cherry Wood Stairs",
+      "uid": "BiomesOPlenty:cherryStairs",
+      "meta": 0,
+      "color": "#7a2824"
+    },
+    {
+      "name": "Chest",
+      "uid": "minecraft:chest",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Chiseled Brownstone",
+      "uid": "TConstruct:SpeedBlock",
+      "meta": 6,
+      "color": "#7d7750"
+    },
+    {
+      "name": "Chiseled Brownstone Slab",
+      "uid": "TConstruct:SpeedSlab",
+      "meta": 6,
+      "color": "#7d7750"
+    },
+    {
+      "name": "Chiseled Quartz Block",
+      "uid": "minecraft:quartz_block",
+      "meta": 1,
+      "color": "#e7e4db"
+    },
+    {
+      "name": "Chiseled Sandstone",
+      "uid": "minecraft:sandstone",
+      "meta": 1,
+      "color": "#dad29e"
+    },
+    {
+      "name": "Chiseled Seared Bricks",
+      "uid": "TConstruct:Smeltery",
+      "meta": 10,
+      "color": "#333333"
+    },
+    {
+      "name": "Chiseled Seared Bricks",
+      "uid": "TConstruct:Smeltery",
+      "meta": 11,
+      "color": "#3a3a3a"
+    },
+    {
+      "name": "Chiseled Seared Bricks",
+      "uid": "TConstruct:SmelteryNether",
+      "meta": 10,
+      "color": "#201509"
+    },
+    {
+      "name": "Chiseled Seared Bricks",
+      "uid": "TConstruct:SmelteryNether",
+      "meta": 11,
+      "color": "#25180c"
+    },
+    {
+      "name": "Chiseled Seared Slab",
+      "uid": "TConstruct:SearedSlab",
+      "meta": 6,
+      "color": "#333333"
+    },
+    {
+      "name": "Chiseled Seared Slab",
+      "uid": "TConstruct:SearedSlab",
+      "meta": 7,
+      "color": "#3a3a3a"
+    },
+    {
+      "name": "Chiseled Stone Bricks",
+      "uid": "minecraft:stonebrick",
+      "meta": 3,
+      "color": "#767676"
+    },
+    {
+      "name": "Chunk Loader",
+      "uid": "ChickenChunks:chickenChunkLoader",
+      "meta": 0,
+      "color": "#bfd658"
+    },
+    {
+      "name": "Clay",
+      "uid": "minecraft:clay",
+      "meta": 0,
+      "color": "#9ea4b0"
+    },
+    {
+      "name": "Clear Glass",
+      "uid": "TConstruct:GlassBlock",
+      "meta": 0,
+      "color": "#d7ebee",
+      "alpha": 0.4
+    },
+    {
+      "name": "Clear Glass Pane",
+      "uid": "TConstruct:GlassPane",
+      "meta": 0,
+      "color": "#d7ebee",
+      "alpha": 0.4
+    },
+    {
+      "name": "Clover",
+      "uid": "BiomesOPlenty:flowers",
+      "meta": 0,
+      "color": "#d8d8ce"
+    },
+    {
+      "name": "Coal Ore",
+      "uid": "minecraft:coal_ore",
+      "meta": 0,
+      "color": "#737373"
+    },
+    {
+      "name": "Coarse Loamy Dirt",
+      "uid": "BiomesOPlenty:newBopDirt",
+      "meta": 1,
+      "color": "#4b3d37"
+    },
+    {
+      "name": "Coarse Sandy Dirt",
+      "uid": "BiomesOPlenty:newBopDirt",
+      "meta": 3,
+      "color": "#8a774e"
+    },
+    {
+      "name": "Coarse Silty Dirt",
+      "uid": "BiomesOPlenty:newBopDirt",
+      "meta": 5,
+      "color": "#7f7465"
+    },
+    {
+      "name": "Cobalt Brick",
+      "uid": "TConstruct:decoration.multibrickmetal",
+      "meta": 2,
+      "color": "#2b78d5"
+    },
+    {
+      "name": "Cobalt Gravel Ore",
+      "uid": "TConstruct:GravelOre",
+      "meta": 5,
+      "color": "#5c677d"
+    },
+    {
+      "name": "Cobalt Ore",
+      "uid": "TConstruct:SearedBrick",
+      "meta": 1,
+      "color": "#50344b"
+    },
+    {
+      "name": "Cobblestone",
+      "uid": "minecraft:cobblestone",
+      "meta": 0,
+      "color": "#7a7a7a"
+    },
+    {
+      "name": "Cobblestone Slab",
+      "uid": "minecraft:stone_slab",
+      "meta": 3,
+      "color": "#7a7a7a"
+    },
+    {
+      "name": "Cobblestone Wall",
+      "uid": "minecraft:cobblestone_wall",
+      "meta": 0,
+      "color": "#7a7a7a"
+    },
+    {
+      "name": "Cobweb",
+      "uid": "minecraft:web",
+      "meta": 0,
+      "color": "#dcdcdc"
+    },
+    {
+      "name": "Cocoa",
+      "uid": "minecraft:cocoa",
+      "meta": 0,
+      "color": "#91501e"
+    },
+    {
+      "name": "Command Block",
+      "uid": "minecraft:command_block",
+      "meta": 0,
+      "color": "#b2896f"
+    },
+    {
+      "name": "Congealed Blue Slime",
+      "uid": "TConstruct:slime.gel",
+      "meta": 0,
+      "color": "#00c3c6"
+    },
+    {
+      "name": "Congealed Green Slime",
+      "uid": "TConstruct:slime.gel",
+      "meta": 1,
+      "color": "#00c74c"
+    },
+    {
+      "name": "Congealed Purple Slime",
+      "uid": "TConstruct:slime.gel",
+      "meta": 2,
+      "color": "#aa45f3"
+    },
+    {
+      "name": "Consecrated Soil",
+      "uid": "TConstruct:CraftedSoil",
+      "meta": 4,
+      "color": "#684224"
+    },
+    {
+      "name": "Copper Gravel Ore",
+      "uid": "TConstruct:GravelOre",
+      "meta": 2,
+      "color": "#897c6e"
+    },
+    {
+      "name": "Copper Ore",
+      "uid": "TConstruct:SearedBrick",
+      "meta": 3,
+      "color": "#887e71"
+    },
+    {
+      "name": "Copper Oreberry Bush",
+      "uid": "TConstruct:ore.berries.one",
+      "meta": 10,
+      "color": "#835325"
+    },
+    {
+      "name": "Cracked Seared Bricks",
+      "uid": "TConstruct:Smeltery",
+      "meta": 7,
+      "color": "#333333"
+    },
+    {
+      "name": "Cracked Seared Bricks",
+      "uid": "TConstruct:SmelteryNether",
+      "meta": 7,
+      "color": "#21150a"
+    },
+    {
+      "name": "Cracked Stone Bricks",
+      "uid": "minecraft:stonebrick",
+      "meta": 2,
+      "color": "#767676"
+    },
+    {
+      "name": "Crafting Station",
+      "uid": "TConstruct:CraftingSlab",
+      "meta": 0,
+      "color": "#835835"
+    },
+    {
+      "name": "Crafting Station",
+      "uid": "TConstruct:CraftingStation",
+      "meta": 0,
+      "color": "#835835"
+    },
+    {
+      "name": "Crafting Table",
+      "uid": "minecraft:crafting_table",
+      "meta": 0,
+      "color": "#6b472a"
+    },
+    {
+      "name": "Crag Rock",
+      "uid": "BiomesOPlenty:cragRock",
+      "meta": 0,
+      "color": "#44695f"
+    },
+    {
+      "name": "Cyan Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 9,
+      "color": "#2e6e89"
+    },
+    {
+      "name": "Cyan Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 9,
+      "color": "#565b5b"
+    },
+    {
+      "name": "Cyan Stained Glass",
+      "uid": "TConstruct:GlassBlock.StainedClear",
+      "meta": 9,
+      "color": "#3698c1",
+      "alpha": 0.4
+    },
+    {
+      "name": "Cyan Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 9,
+      "color": "#4c7f99",
+      "alpha": 0.4
+    },
+    {
+      "name": "Cyan Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 9,
+      "color": "#4c7f99",
+      "alpha": 0.4
+    },
+    {
+      "name": "Cyan Stained Pane",
+      "uid": "TConstruct:GlassPaneClearStained",
+      "meta": 9,
+      "color": "#3698c1",
+      "alpha": 0.4
+    },
+    {
+      "name": "Cyan Wool",
+      "uid": "minecraft:wool",
+      "meta": 9,
+      "color": "#2e6e89"
+    },
+    {
+      "name": "Cyan Wool Slab",
+      "uid": "TConstruct:WoolSlab1",
+      "meta": 1,
+      "color": "#db7d3e"
+    },
+    {
+      "name": "Dandelion",
+      "uid": "minecraft:yellow_flower",
+      "meta": 0,
+      "color": "#afb401"
+    },
+    {
+      "name": "Dandelion Puff",
+      "uid": "BiomesOPlenty:flowers",
+      "meta": 15,
+      "color": "#75a36d"
+    },
+    {
+      "name": "Dark Leaves",
+      "uid": "BiomesOPlenty:leaves1",
+      "meta": 2,
+      "color": "#415d7b"
+    },
+    {
+      "name": "Dark Oak Sapling",
+      "uid": "minecraft:sapling",
+      "meta": 5,
+      "color": "#38561c"
+    },
+    {
+      "name": "Dark Oak Wood",
+      "uid": "minecraft:log2",
+      "meta": 1,
+      "color": "#4e3e29"
+    },
+    {
+      "name": "Dark Oak Wood Planks",
+      "uid": "minecraft:planks",
+      "meta": 5,
+      "color": "#3d2712"
+    },
+    {
+      "name": "Dark Oak Wood Slab",
+      "uid": "minecraft:wooden_slab",
+      "meta": 5,
+      "color": "#3d2712"
+    },
+    {
+      "name": "Dark Oak Wood Stairs",
+      "uid": "minecraft:dark_oak_stairs",
+      "meta": 0,
+      "color": "#3d2712"
+    },
+    {
+      "name": "Dark Sapling",
+      "uid": "BiomesOPlenty:saplings",
+      "meta": 4,
+      "color": "#3a313d"
+    },
+    {
+      "name": "Dark Wood",
+      "uid": "BiomesOPlenty:logs1",
+      "meta": 2,
+      "color": "#453c4a"
+    },
+    {
+      "name": "Dark Wood Planks",
+      "uid": "BiomesOPlenty:planks",
+      "meta": 2,
+      "color": "#342d36"
+    },
+    {
+      "name": "Dark Wood Slab",
+      "uid": "BiomesOPlenty:woodenDoubleSlab1",
+      "meta": 2,
+      "color": "#342d36"
+    },
+    {
+      "name": "Dark Wood Slab",
+      "uid": "BiomesOPlenty:woodenSingleSlab1",
+      "meta": 2,
+      "color": "#342d36"
+    },
+    {
+      "name": "Dark Wood Stairs",
+      "uid": "BiomesOPlenty:darkStairs",
+      "meta": 0,
+      "color": "#342d36"
+    },
+    {
+      "name": "Daylight Sensor",
+      "uid": "minecraft:daylight_detector",
+      "meta": 0,
+      "color": "#82745e"
+    },
+    {
+      "name": "Dead Bush",
+      "uid": "minecraft:deadbush",
+      "meta": 0,
+      "color": "#7b4f19"
+    },
+    {
+      "name": "Dead Grass",
+      "uid": "BiomesOPlenty:plants",
+      "meta": 0,
+      "color": "#5c523d"
+    },
+    {
+      "name": "Dead Wood",
+      "uid": "BiomesOPlenty:logs3",
+      "meta": 2,
+      "color": "#796c57"
+    },
+    {
+      "name": "Deathbloom",
+      "uid": "BiomesOPlenty:flowers",
+      "meta": 2,
+      "color": "#61677c"
+    },
+    {
+      "name": "Desert Grass",
+      "uid": "BiomesOPlenty:plants",
+      "meta": 1,
+      "color": "#936a47"
+    },
+    {
+      "name": "Desert Sprouts",
+      "uid": "BiomesOPlenty:plants",
+      "meta": 2,
+      "color": "#aae288"
+    },
+    {
+      "name": "Detector Rail",
+      "uid": "minecraft:detector_rail",
+      "meta": 0,
+      "color": "#786559"
+    },
+    {
+      "name": "Diamond Brick",
+      "uid": "TConstruct:decoration.multibrick",
+      "meta": 7,
+      "color": "#3bbfb8"
+    },
+    {
+      "name": "Diamond Ore",
+      "uid": "minecraft:diamond_ore",
+      "meta": 0,
+      "color": "#818c8f"
+    },
+    {
+      "name": "Dirt",
+      "uid": "minecraft:dirt",
+      "meta": 0,
+      "color": "#866043"
+    },
+    {
+      "name": "Dirt",
+      "uid": "minecraft:dirt",
+      "meta": 2,
+      "color": "#5a3f1c"
+    },
+    {
+      "name": "Dispenser",
+      "uid": "minecraft:dispenser",
+      "meta": 0,
+      "color": "#606060"
+    },
+    {
+      "name": "Double Tallgrass",
+      "uid": "minecraft:double_plant",
+      "meta": 2,
+      "color": "#818181"
+    },
+    {
+      "name": "Dragon Egg",
+      "uid": "minecraft:dragon_egg",
+      "meta": 0,
+      "color": "#0c090f"
+    },
+    {
+      "name": "Drawbridge",
+      "uid": "TMechworks:RedstoneMachine",
+      "meta": 0,
+      "color": "#ae8631"
+    },
+    {
+      "name": "Dried Dirt",
+      "uid": "BiomesOPlenty:driedDirt",
+      "meta": 0,
+      "color": "#67624e"
+    },
+    {
+      "name": "Dropper",
+      "uid": "minecraft:dropper",
+      "meta": 0,
+      "color": "#606060"
+    },
+    {
+      "name": "Drying Rack",
+      "uid": "TConstruct:Armor.DryingRack",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Duckweed",
+      "uid": "BiomesOPlenty:foliage",
+      "meta": 0,
+      "color": "#767655"
+    },
+    {
+      "name": "Duckweed",
+      "uid": "BiomesOPlenty:foliage",
+      "meta": 1,
+      "color": "#898989"
+    },
+    {
+      "name": "Duckweed",
+      "uid": "BiomesOPlenty:foliage",
+      "meta": 2,
+      "color": "#888888"
+    },
+    {
+      "name": "Duckweed",
+      "uid": "BiomesOPlenty:foliage",
+      "meta": 3,
+      "color": "#818181"
+    },
+    {
+      "name": "Duckweed",
+      "uid": "BiomesOPlenty:foliage",
+      "meta": 4,
+      "color": "#969696"
+    },
+    {
+      "name": "Duckweed",
+      "uid": "BiomesOPlenty:foliage",
+      "meta": 5,
+      "color": "#7f827a"
+    },
+    {
+      "name": "Duckweed",
+      "uid": "BiomesOPlenty:foliage",
+      "meta": 7,
+      "color": "#acacac"
+    },
+    {
+      "name": "Duckweed",
+      "uid": "BiomesOPlenty:foliage",
+      "meta": 8,
+      "color": "#8e8e8e"
+    },
+    {
+      "name": "Duckweed",
+      "uid": "BiomesOPlenty:foliage",
+      "meta": 9,
+      "color": "#959595"
+    },
+    {
+      "name": "Duckweed",
+      "uid": "BiomesOPlenty:foliage",
+      "meta": 10,
+      "color": "#afaa91"
+    },
+    {
+      "name": "Duckweed",
+      "uid": "BiomesOPlenty:foliage",
+      "meta": 11,
+      "color": "#7f8f78"
+    },
+    {
+      "name": "Duckweed",
+      "uid": "BiomesOPlenty:foliage",
+      "meta": 12,
+      "color": "#988fa1"
+    },
+    {
+      "name": "Duckweed",
+      "uid": "BiomesOPlenty:foliage",
+      "meta": 13,
+      "color": "#adadad"
+    },
+    {
+      "name": "Duckweed",
+      "uid": "BiomesOPlenty:foliage",
+      "meta": 14,
+      "color": "#919191"
+    },
+    {
+      "name": "Duckweed",
+      "uid": "BiomesOPlenty:foliage",
+      "meta": 15,
+      "color": "#7f603d"
+    },
+    {
+      "name": "Dune Grass",
+      "uid": "BiomesOPlenty:plants",
+      "meta": 3,
+      "color": "#91a36f"
+    },
+    {
+      "name": "Dying Leaves",
+      "uid": "BiomesOPlenty:leaves2",
+      "meta": 3,
+      "color": "#4f2a16"
+    },
+    {
+      "name": "Dying Sapling",
+      "uid": "BiomesOPlenty:saplings",
+      "meta": 5,
+      "color": "#6a5832"
+    },
+    {
+      "name": "Dynamo",
+      "uid": "TMechworks:Dynamo",
+      "meta": 0,
+      "color": "#d4ae43"
+    },
+    {
+      "name": "Emerald Ore",
+      "uid": "minecraft:emerald_ore",
+      "meta": 0,
+      "color": "#6d8074"
+    },
+    {
+      "name": "Empty Honeycomb Block",
+      "uid": "BiomesOPlenty:hive",
+      "meta": 0,
+      "color": "#a57b3e"
+    },
+    {
+      "name": "Empty Mesh Filter",
+      "uid": "TMechworks:MeshFilter",
+      "meta": 0,
+      "color": "#976f24"
+    },
+    {
+      "name": "Enchantment Table",
+      "uid": "minecraft:enchanting_table",
+      "meta": 0,
+      "color": "#67403b"
+    },
+    {
+      "name": "End Portal",
+      "uid": "minecraft:end_portal_frame",
+      "meta": 0,
+      "color": "#597560"
+    },
+    {
+      "name": "End Stone",
+      "uid": "minecraft:end_stone",
+      "meta": 0,
+      "color": "#dddfa5"
+    },
+    {
+      "name": "Ender Amethyst Ore",
+      "uid": "BiomesOPlenty:gemOre",
+      "meta": 0,
+      "color": "#d1b6b3"
+    },
+    {
+      "name": "Ender Chest",
+      "uid": "EnderStorage:enderChest",
+      "meta": 0,
+      "color": "#14121d"
+    },
+    {
+      "name": "Ender Chest",
+      "uid": "EnderStorage:enderChest",
+      "meta": 4096,
+      "color": "#14121d"
+    },
+    {
+      "name": "Ender Chest",
+      "uid": "minecraft:ender_chest",
+      "meta": 0,
+      "color": "#14121d"
+    },
+    {
+      "name": "Enderlotus",
+      "uid": "BiomesOPlenty:flowers",
+      "meta": 11,
+      "color": "#533a3b"
+    },
+    {
+      "name": "Endstone Brick",
+      "uid": "TConstruct:decoration.multibrick",
+      "meta": 12,
+      "color": "#cbcd98"
+    },
+    {
+      "name": "Essence Berry Bush",
+      "uid": "TConstruct:ore.berries.two",
+      "meta": 9,
+      "color": "#a3c549"
+    },
+    {
+      "name": "Ethereal Leaves",
+      "uid": "BiomesOPlenty:leaves2",
+      "meta": 1,
+      "color": "#314e38"
+    },
+    {
+      "name": "Ethereal Sapling",
+      "uid": "BiomesOPlenty:saplings",
+      "meta": 7,
+      "color": "#547c4f"
+    },
+    {
+      "name": "Ethereal Wood",
+      "uid": "BiomesOPlenty:logs2",
+      "meta": 0,
+      "color": "#4c8766"
+    },
+    {
+      "name": "Ethereal Wood Planks",
+      "uid": "BiomesOPlenty:planks",
+      "meta": 4,
+      "color": "#428365"
+    },
+    {
+      "name": "Ethereal Wood Slab",
+      "uid": "BiomesOPlenty:woodenDoubleSlab1",
+      "meta": 4,
+      "color": "#428365"
+    },
+    {
+      "name": "Ethereal Wood Slab",
+      "uid": "BiomesOPlenty:woodenSingleSlab1",
+      "meta": 4,
+      "color": "#428365"
+    },
+    {
+      "name": "Ethereal Wood Stairs",
+      "uid": "BiomesOPlenty:etherealStairs",
+      "meta": 0,
+      "color": "#428365"
+    },
+    {
+      "name": "Extended Drawbridge",
+      "uid": "TMechworks:RedstoneMachine",
+      "meta": 3,
+      "color": "#5f89a6"
+    },
+    {
+      "name": "Eyebulb",
+      "uid": "BiomesOPlenty:flowers",
+      "meta": 13,
+      "color": "#794545"
+    },
+    {
+      "name": "Fancy Alumite Brick",
+      "uid": "TConstruct:decoration.multibrickmetal",
+      "meta": 4,
+      "color": "#c97691"
+    },
+    {
+      "name": "Fancy Ardite Brick",
+      "uid": "TConstruct:decoration.multibrickmetal",
+      "meta": 5,
+      "color": "#c56614"
+    },
+    {
+      "name": "Fancy Bone Brick",
+      "uid": "TConstruct:decoration.multibrickfancy",
+      "meta": 9,
+      "color": "#b8aa60"
+    },
+    {
+      "name": "Fancy Brownstone",
+      "uid": "TConstruct:SpeedBlock",
+      "meta": 5,
+      "color": "#807a55"
+    },
+    {
+      "name": "Fancy Brownstone Slab",
+      "uid": "TConstruct:SpeedSlab",
+      "meta": 5,
+      "color": "#807a55"
+    },
+    {
+      "name": "Fancy Cobalt Brick",
+      "uid": "TConstruct:decoration.multibrickmetal",
+      "meta": 6,
+      "color": "#1c60b5"
+    },
+    {
+      "name": "Fancy Diamond Brick",
+      "uid": "TConstruct:decoration.multibrickfancy",
+      "meta": 7,
+      "color": "#24b2ad"
+    },
+    {
+      "name": "Fancy Endstone Brick",
+      "uid": "TConstruct:decoration.multibrickfancy",
+      "meta": 12,
+      "color": "#b3b575"
+    },
+    {
+      "name": "Fancy Gold Brick",
+      "uid": "TConstruct:decoration.multibrickfancy",
+      "meta": 5,
+      "color": "#c7c41d"
+    },
+    {
+      "name": "Fancy Iron Brick",
+      "uid": "TConstruct:decoration.multibrickfancy",
+      "meta": 4,
+      "color": "#d5d5d5"
+    },
+    {
+      "name": "Fancy Lapis Brick",
+      "uid": "TConstruct:decoration.multibrickfancy",
+      "meta": 6,
+      "color": "#274b90"
+    },
+    {
+      "name": "Fancy Manyullyn Brick",
+      "uid": "TConstruct:decoration.multibrickmetal",
+      "meta": 7,
+      "color": "#7d49aa"
+    },
+    {
+      "name": "Fancy Netherrack Brick",
+      "uid": "TConstruct:decoration.multibrickfancy",
+      "meta": 2,
+      "color": "#703d3a"
+    },
+    {
+      "name": "Fancy Obsidian Brick",
+      "uid": "TConstruct:decoration.multibrickfancy",
+      "meta": 0,
+      "color": "#2d2542"
+    },
+    {
+      "name": "Fancy Obsidian Brick",
+      "uid": "TConstruct:decoration.multibrickfancy",
+      "meta": 13,
+      "color": "#1a194f"
+    },
+    {
+      "name": "Fancy Polished Stone Brick",
+      "uid": "TConstruct:decoration.multibrickfancy",
+      "meta": 3,
+      "color": "#9e9e9e"
+    },
+    {
+      "name": "Fancy Redstone Brick",
+      "uid": "TConstruct:decoration.multibrickfancy",
+      "meta": 8,
+      "color": "#b70000"
+    },
+    {
+      "name": "Fancy Sandstone Brick",
+      "uid": "TConstruct:decoration.multibrickfancy",
+      "meta": 1,
+      "color": "#d8d099"
+    },
+    {
+      "name": "Fancy Seared Bricks",
+      "uid": "TConstruct:Smeltery",
+      "meta": 9,
+      "color": "#363636"
+    },
+    {
+      "name": "Fancy Seared Bricks",
+      "uid": "TConstruct:SmelteryNether",
+      "meta": 9,
+      "color": "#22160b"
+    },
+    {
+      "name": "Fancy Seared Slab",
+      "uid": "TConstruct:SearedSlab",
+      "meta": 5,
+      "color": "#363636"
+    },
+    {
+      "name": "Fancy Slime Brick",
+      "uid": "TConstruct:decoration.multibrickfancy",
+      "meta": 10,
+      "color": "#67c000"
+    },
+    {
+      "name": "Fancy Slime Brick",
+      "uid": "TConstruct:decoration.multibrickfancy",
+      "meta": 11,
+      "color": "#07b4b7"
+    },
+    {
+      "name": "Fancy Stone Brick",
+      "uid": "TConstruct:decoration.multibrickfancy",
+      "meta": 14,
+      "color": "#797979"
+    },
+    {
+      "name": "Farmland",
+      "uid": "minecraft:farmland",
+      "meta": 0,
+      "color": "#734b2d"
+    },
+    {
+      "name": "Fence",
+      "uid": "minecraft:fence",
+      "meta": 0,
+      "color": "#9c7f4e",
+      "alpha": 0.4
+    },
+    {
+      "name": "Fence Gate",
+      "uid": "minecraft:fence_gate",
+      "meta": 0,
+      "color": "#9c7f4e",
+      "alpha": 0.4
+    },
+    {
+      "name": "Fine Mesh Filter",
+      "uid": "TMechworks:MeshFilter",
+      "meta": 4,
+      "color": "#976f24"
+    },
+    {
+      "name": "Fir Leaves",
+      "uid": "BiomesOPlenty:leaves2",
+      "meta": 0,
+      "color": "#48391f"
+    },
+    {
+      "name": "Fir Sapling",
+      "uid": "BiomesOPlenty:saplings",
+      "meta": 6,
+      "color": "#404a3b"
+    },
+    {
+      "name": "Fir Wood",
+      "uid": "BiomesOPlenty:logs1",
+      "meta": 3,
+      "color": "#968269"
+    },
+    {
+      "name": "Fir Wood Planks",
+      "uid": "BiomesOPlenty:planks",
+      "meta": 3,
+      "color": "#8e8069"
+    },
+    {
+      "name": "Fir Wood Slab",
+      "uid": "BiomesOPlenty:woodenDoubleSlab1",
+      "meta": 3,
+      "color": "#8e8069"
+    },
+    {
+      "name": "Fir Wood Slab",
+      "uid": "BiomesOPlenty:woodenSingleSlab1",
+      "meta": 3,
+      "color": "#8e8069"
+    },
+    {
+      "name": "Fir Wood Stairs",
+      "uid": "BiomesOPlenty:firStairs",
+      "meta": 0,
+      "color": "#8e8069"
+    },
+    {
+      "name": "Fire",
+      "uid": "minecraft:fire",
+      "meta": 0,
+      "color": "#d18629"
+    },
+    {
+      "name": "Flat Mushroom",
+      "uid": "BiomesOPlenty:mushrooms",
+      "meta": 4,
+      "color": "#7e5940"
+    },
+    {
+      "name": "Flesh",
+      "uid": "BiomesOPlenty:flesh",
+      "meta": 0,
+      "color": "#a73e3c"
+    },
+    {
+      "name": "Flower Pot",
+      "uid": "minecraft:flower_pot",
+      "meta": 0,
+      "color": "#764133"
+    },
+    {
+      "name": "Flowering Oak Leaves",
+      "uid": "BiomesOPlenty:colorizedLeaves2",
+      "meta": 3,
+      "color": "#646464"
+    },
+    {
+      "name": "Flowering Oak Sapling",
+      "uid": "BiomesOPlenty:colorizedSaplings",
+      "meta": 7,
+      "color": "#5f7b42"
+    },
+    {
+      "name": "Flowering Vines",
+      "uid": "BiomesOPlenty:flowerVine",
+      "meta": 0,
+      "color": "#537d5e",
+      "alpha": 0.2
+    },
+    {
+      "name": "Frying Pan",
+      "uid": "TConstruct:HeldItemBlock",
+      "meta": 0,
+      "color": "#dbdbdb"
+    },
+    {
+      "name": "Furnace",
+      "uid": "minecraft:furnace",
+      "meta": 0,
+      "color": "#606060"
+    },
+    {
+      "name": "Furnace",
+      "uid": "minecraft:lit_furnace",
+      "meta": 0,
+      "color": "#606060"
+    },
+    {
+      "name": "Giant Flower Stem",
+      "uid": "BiomesOPlenty:logs3",
+      "meta": 3,
+      "color": "#58874f"
+    },
+    {
+      "name": "Giant Red Flower",
+      "uid": "BiomesOPlenty:petals",
+      "meta": 0,
+      "color": "#ce4a4b"
+    },
+    {
+      "name": "Giant Red Flower",
+      "uid": "BiomesOPlenty:petals",
+      "meta": 1,
+      "color": "#f7b21f"
+    },
+    {
+      "name": "Glass",
+      "uid": "minecraft:glass",
+      "meta": 0,
+      "color": "#daf0f4",
+      "alpha": 0.4
+    },
+    {
+      "name": "Glass Pane",
+      "uid": "minecraft:glass_pane",
+      "meta": 0,
+      "color": "#daf0f4",
+      "alpha": 0.4
+    },
+    {
+      "name": "Glowflower",
+      "uid": "BiomesOPlenty:flowers",
+      "meta": 3,
+      "color": "#78ab94"
+    },
+    {
+      "name": "Glowing Coral",
+      "uid": "BiomesOPlenty:coral1",
+      "meta": 15,
+      "color": "#a468ed",
+      "alpha": 0.3
+    },
+    {
+      "name": "Glowshroom",
+      "uid": "BiomesOPlenty:mushrooms",
+      "meta": 3,
+      "color": "#51b63e"
+    },
+    {
+      "name": "Glowstone",
+      "uid": "minecraft:glowstone",
+      "meta": 0,
+      "color": "#8f7645",
+      "alpha": 0.4
+    },
+    {
+      "name": "Glue",
+      "uid": "TConstruct:liquid.glue",
+      "meta": 0,
+      "color": "#d6d0d1",
+      "alpha": 0.3
+    },
+    {
+      "name": "Glue Block",
+      "uid": "TConstruct:GlueBlock",
+      "meta": 0,
+      "color": "#e5dede"
+    },
+    {
+      "name": "Gold Brick",
+      "uid": "TConstruct:decoration.multibrick",
+      "meta": 5,
+      "color": "#cecb42"
+    },
+    {
+      "name": "Gold Gravel Ore",
+      "uid": "TConstruct:GravelOre",
+      "meta": 1,
+      "color": "#908a7a"
+    },
+    {
+      "name": "Gold Ore",
+      "uid": "minecraft:gold_ore",
+      "meta": 0,
+      "color": "#8f8b7c"
+    },
+    {
+      "name": "Gold Oreberry Bush",
+      "uid": "TConstruct:ore.berries.one",
+      "meta": 9,
+      "color": "#95834b"
+    },
+    {
+      "name": "Goldenrod",
+      "uid": "BiomesOPlenty:flowers2",
+      "meta": 4,
+      "color": "#bfa338"
+    },
+    {
+      "name": "Grass Block",
+      "uid": "minecraft:grass",
+      "meta": 0,
+      "color": "#939393"
+    },
+    {
+      "name": "Gravel",
+      "uid": "minecraft:gravel",
+      "meta": 0,
+      "color": "#7e7c7a"
+    },
+    {
+      "name": "Gravestone",
+      "uid": "BiomesOPlenty:grave",
+      "meta": 0,
+      "color": "#686868"
+    },
+    {
+      "name": "Graveyard Soil",
+      "uid": "TConstruct:CraftedSoil",
+      "meta": 3,
+      "color": "#392a10"
+    },
+    {
+      "name": "Gray Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 7,
+      "color": "#404040"
+    },
+    {
+      "name": "Gray Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 7,
+      "color": "#392a23"
+    },
+    {
+      "name": "Gray Stained Glass",
+      "uid": "TConstruct:GlassBlock.StainedClear",
+      "meta": 7,
+      "color": "#99989a",
+      "alpha": 0.4
+    },
+    {
+      "name": "Gray Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 7,
+      "color": "#4c4c4c",
+      "alpha": 0.4
+    },
+    {
+      "name": "Gray Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 7,
+      "color": "#4c4c4c",
+      "alpha": 0.4
+    },
+    {
+      "name": "Gray Stained Pane",
+      "uid": "TConstruct:GlassPaneClearStained",
+      "meta": 7,
+      "color": "#99989a",
+      "alpha": 0.4
+    },
+    {
+      "name": "Gray Wool",
+      "uid": "minecraft:wool",
+      "meta": 7,
+      "color": "#404040"
+    },
+    {
+      "name": "Gray Wool Slab",
+      "uid": "TConstruct:WoolSlab2",
+      "meta": 0,
+      "color": "#9aa1a1"
+    },
+    {
+      "name": "Gray Wool Slab",
+      "uid": "TConstruct:WoolSlab2",
+      "meta": 1,
+      "color": "#2e6e89"
+    },
+    {
+      "name": "Gray Wool Slab",
+      "uid": "TConstruct:WoolSlab2",
+      "meta": 2,
+      "color": "#7e3db5"
+    },
+    {
+      "name": "Gray Wool Slab",
+      "uid": "TConstruct:WoolSlab2",
+      "meta": 3,
+      "color": "#2e388d"
+    },
+    {
+      "name": "Gray Wool Slab",
+      "uid": "TConstruct:WoolSlab2",
+      "meta": 4,
+      "color": "#4f321f"
+    },
+    {
+      "name": "Gray Wool Slab",
+      "uid": "TConstruct:WoolSlab2",
+      "meta": 5,
+      "color": "#35461b"
+    },
+    {
+      "name": "Gray Wool Slab",
+      "uid": "TConstruct:WoolSlab2",
+      "meta": 6,
+      "color": "#963430"
+    },
+    {
+      "name": "Gray Wool Slab",
+      "uid": "TConstruct:WoolSlab2",
+      "meta": 7,
+      "color": "#191616"
+    },
+    {
+      "name": "Green Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 13,
+      "color": "#35461b"
+    },
+    {
+      "name": "Green Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 13,
+      "color": "#4c532a"
+    },
+    {
+      "name": "Green Stained Glass",
+      "uid": "TConstruct:GlassBlock.StainedClear",
+      "meta": 13,
+      "color": "#678a37",
+      "alpha": 0.4
+    },
+    {
+      "name": "Green Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 13,
+      "color": "#667f33",
+      "alpha": 0.4
+    },
+    {
+      "name": "Green Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 13,
+      "color": "#667f33",
+      "alpha": 0.4
+    },
+    {
+      "name": "Green Stained Pane",
+      "uid": "TConstruct:GlassPaneClearStained",
+      "meta": 13,
+      "color": "#678a37",
+      "alpha": 0.4
+    },
+    {
+      "name": "Green Wool",
+      "uid": "minecraft:wool",
+      "meta": 13,
+      "color": "#35461b"
+    },
+    {
+      "name": "Green Wool Slab",
+      "uid": "TConstruct:WoolSlab1",
+      "meta": 5,
+      "color": "#41ae38"
+    },
+    {
+      "name": "Grout",
+      "uid": "TConstruct:CraftedSoil",
+      "meta": 1,
+      "color": "#9fa1ab"
+    },
+    {
+      "name": "Hambone",
+      "uid": "TConstruct:MeatBlock",
+      "meta": 0,
+      "color": "#e39b80"
+    },
+    {
+      "name": "Hardened Clay",
+      "uid": "minecraft:hardened_clay",
+      "meta": 0,
+      "color": "#965c42"
+    },
+    {
+      "name": "Hardened Dirt",
+      "uid": "BiomesOPlenty:hardDirt",
+      "meta": 0,
+      "color": "#ae966a"
+    },
+    {
+      "name": "Hardened Ice",
+      "uid": "BiomesOPlenty:hardIce",
+      "meta": 0,
+      "color": "#afbad6"
+    },
+    {
+      "name": "Hardened Sand",
+      "uid": "BiomesOPlenty:hardSand",
+      "meta": 0,
+      "color": "#90673b"
+    },
+    {
+      "name": "Hay Bale",
+      "uid": "minecraft:hay_block",
+      "meta": 0,
+      "color": "#a88b10"
+    },
+    {
+      "name": "Hellbark Sapling",
+      "uid": "BiomesOPlenty:saplings",
+      "meta": 13,
+      "color": "#585b24"
+    },
+    {
+      "name": "Hellbark Wood",
+      "uid": "BiomesOPlenty:logs4",
+      "meta": 1,
+      "color": "#b18760"
+    },
+    {
+      "name": "Hellbark Wood Planks",
+      "uid": "BiomesOPlenty:planks",
+      "meta": 12,
+      "color": "#9f7c56"
+    },
+    {
+      "name": "Hellbark Wood Slab",
+      "uid": "BiomesOPlenty:woodenDoubleSlab2",
+      "meta": 3,
+      "color": "#9f7c56"
+    },
+    {
+      "name": "Hellbark Wood Slab",
+      "uid": "BiomesOPlenty:woodenSingleSlab2",
+      "meta": 3,
+      "color": "#9f7c56"
+    },
+    {
+      "name": "Hellbark Wood Stairs",
+      "uid": "BiomesOPlenty:hellBarkStairs",
+      "meta": 0,
+      "color": "#9f7c56"
+    },
+    {
+      "name": "Hive Block",
+      "uid": "BiomesOPlenty:hive",
+      "meta": 1,
+      "color": "#c8ae68"
+    },
+    {
+      "name": "Honey",
+      "uid": "BiomesOPlenty:honey",
+      "meta": 0,
+      "color": "#f9bb4f",
+      "alpha": 0.3
+    },
+    {
+      "name": "Honey Block",
+      "uid": "BiomesOPlenty:honeyBlock",
+      "meta": 0,
+      "color": "#fdaf35",
+      "alpha": 0.4
+    },
+    {
+      "name": "Honeycomb Block",
+      "uid": "BiomesOPlenty:hive",
+      "meta": 2,
+      "color": "#94703a"
+    },
+    {
+      "name": "Honeycomb Block",
+      "uid": "BiomesOPlenty:hive",
+      "meta": 3,
+      "color": "#be8d42"
+    },
+    {
+      "name": "Hopper",
+      "uid": "minecraft:hopper",
+      "meta": 0,
+      "color": "#454545"
+    },
+    {
+      "name": "Ice",
+      "uid": "minecraft:ice",
+      "meta": 0,
+      "color": "#7dadff",
+      "alpha": 0.8
+    },
+    {
+      "name": "Icy Iris",
+      "uid": "BiomesOPlenty:flowers2",
+      "meta": 7,
+      "color": "#96acb7"
+    },
+    {
+      "name": "Igniter",
+      "uid": "TMechworks:RedstoneMachine",
+      "meta": 1,
+      "color": "#753f3b"
+    },
+    {
+      "name": "Iron Bars",
+      "uid": "minecraft:iron_bars",
+      "meta": 0,
+      "color": "#6d6c6a",
+      "alpha": 0.4
+    },
+    {
+      "name": "Iron Brick",
+      "uid": "TConstruct:decoration.multibrick",
+      "meta": 4,
+      "color": "#dadada"
+    },
+    {
+      "name": "Iron Door",
+      "uid": "minecraft:iron_door",
+      "meta": 0,
+      "color": "#a3a3a3"
+    },
+    {
+      "name": "Iron Gravel Ore",
+      "uid": "TConstruct:GravelOre",
+      "meta": 0,
+      "color": "#8c827c"
+    },
+    {
+      "name": "Iron Ore",
+      "uid": "minecraft:iron_ore",
+      "meta": 0,
+      "color": "#87827e"
+    },
+    {
+      "name": "Iron Oreberry Bush",
+      "uid": "TConstruct:ore.berries.one",
+      "meta": 8,
+      "color": "#956b4b"
+    },
+    {
+      "name": "Ivy",
+      "uid": "BiomesOPlenty:ivy",
+      "meta": 0,
+      "color": "#838383",
+      "alpha": 0.2
+    },
+    {
+      "name": "Jacaranda Leaves",
+      "uid": "BiomesOPlenty:leaves4",
+      "meta": 0,
+      "color": "#443610"
+    },
+    {
+      "name": "Jacaranda Sapling",
+      "uid": "BiomesOPlenty:saplings",
+      "meta": 14,
+      "color": "#655258"
+    },
+    {
+      "name": "Jacaranda Wood",
+      "uid": "BiomesOPlenty:logs4",
+      "meta": 2,
+      "color": "#c0a89f"
+    },
+    {
+      "name": "Jacaranda Wood Planks",
+      "uid": "BiomesOPlenty:planks",
+      "meta": 13,
+      "color": "#ad958c"
+    },
+    {
+      "name": "Jacaranda Wood Slab",
+      "uid": "BiomesOPlenty:woodenDoubleSlab2",
+      "meta": 4,
+      "color": "#ad958c"
+    },
+    {
+      "name": "Jacaranda Wood Slab",
+      "uid": "BiomesOPlenty:woodenSingleSlab2",
+      "meta": 4,
+      "color": "#ad958c"
+    },
+    {
+      "name": "Jacaranda Wood Stairs",
+      "uid": "BiomesOPlenty:jacarandaStairs",
+      "meta": 0,
+      "color": "#ad958c"
+    },
+    {
+      "name": "Jack o\u0027Lantern",
+      "uid": "minecraft:lit_pumpkin",
+      "meta": 0,
+      "color": "#c07615"
+    },
+    {
+      "name": "Jukebox",
+      "uid": "minecraft:jukebox",
+      "meta": 0,
+      "color": "#6b4937"
+    },
+    {
+      "name": "Jungle Barricade",
+      "uid": "TConstruct:trap.barricade.jungle",
+      "meta": 0,
+      "color": "#57431a"
+    },
+    {
+      "name": "Jungle Leaves",
+      "uid": "minecraft:leaves",
+      "meta": 3,
+      "color": "#918e86"
+    },
+    {
+      "name": "Jungle Sapling",
+      "uid": "minecraft:sapling",
+      "meta": 3,
+      "color": "#305612"
+    },
+    {
+      "name": "Jungle Wood",
+      "uid": "minecraft:log",
+      "meta": 3,
+      "color": "#997649"
+    },
+    {
+      "name": "Jungle Wood Planks",
+      "uid": "minecraft:planks",
+      "meta": 3,
+      "color": "#9a6e4d"
+    },
+    {
+      "name": "Jungle Wood Slab",
+      "uid": "minecraft:wooden_slab",
+      "meta": 3,
+      "color": "#9a6e4d"
+    },
+    {
+      "name": "Jungle Wood Stairs",
+      "uid": "minecraft:jungle_stairs",
+      "meta": 0,
+      "color": "#9a6e4d"
+    },
+    {
+      "name": "Kelp",
+      "uid": "BiomesOPlenty:coral1",
+      "meta": 11,
+      "color": "#909644",
+      "alpha": 0.3
+    },
+    {
+      "name": "Ladder",
+      "uid": "TConstruct:decoration.stoneladder",
+      "meta": 0,
+      "color": "#4c4c4c"
+    },
+    {
+      "name": "Ladder",
+      "uid": "minecraft:ladder",
+      "meta": 0,
+      "color": "#795f34"
+    },
+    {
+      "name": "Landmine",
+      "uid": "TConstruct:Redstone.Landmine",
+      "meta": 0,
+      "color": "#ecc050"
+    },
+    {
+      "name": "Landmine",
+      "uid": "TConstruct:Redstone.Landmine",
+      "meta": 1,
+      "color": "#ecc050"
+    },
+    {
+      "name": "Landmine",
+      "uid": "TConstruct:Redstone.Landmine",
+      "meta": 2,
+      "color": "#ecc050"
+    },
+    {
+      "name": "Landmine",
+      "uid": "TConstruct:Redstone.Landmine",
+      "meta": 3,
+      "color": "#ecc050"
+    },
+    {
+      "name": "Lapis Brick",
+      "uid": "TConstruct:decoration.multibrick",
+      "meta": 6,
+      "color": "#254a98"
+    },
+    {
+      "name": "Lapis Lazuli Block",
+      "uid": "minecraft:lapis_block",
+      "meta": 0,
+      "color": "#264389"
+    },
+    {
+      "name": "Lapis Lazuli Ore",
+      "uid": "minecraft:lapis_ore",
+      "meta": 0,
+      "color": "#667086"
+    },
+    {
+      "name": "Large Bone Segment",
+      "uid": "BiomesOPlenty:bones",
+      "meta": 2,
+      "color": "#edebc9"
+    },
+    {
+      "name": "Large Fern",
+      "uid": "minecraft:double_plant",
+      "meta": 3,
+      "color": "#7d7d7d"
+    },
+    {
+      "name": "Lava",
+      "uid": "minecraft:flowing_lava",
+      "meta": 0,
+      "color": "#d1530f"
+    },
+    {
+      "name": "Lava",
+      "uid": "minecraft:lava",
+      "meta": 0,
+      "color": "#d1530f"
+    },
+    {
+      "name": "Lavender",
+      "uid": "BiomesOPlenty:flowers2",
+      "meta": 3,
+      "color": "#755b7c"
+    },
+    {
+      "name": "Lever",
+      "uid": "minecraft:lever",
+      "meta": 0,
+      "color": "#6a5940"
+    },
+    {
+      "name": "Light Blue Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 3,
+      "color": "#6a8ac9"
+    },
+    {
+      "name": "Light Blue Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 3,
+      "color": "#716c89"
+    },
+    {
+      "name": "Light Blue Stained Glass",
+      "uid": "TConstruct:GlassBlock.StainedClear",
+      "meta": 3,
+      "color": "#9fb7f4",
+      "alpha": 0.4
+    },
+    {
+      "name": "Light Blue Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 3,
+      "color": "#6699d8",
+      "alpha": 0.4
+    },
+    {
+      "name": "Light Blue Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 3,
+      "color": "#6699d8",
+      "alpha": 0.4
+    },
+    {
+      "name": "Light Blue Stained Pane",
+      "uid": "TConstruct:GlassPaneClearStained",
+      "meta": 3,
+      "color": "#9fb7f4",
+      "alpha": 0.4
+    },
+    {
+      "name": "Light Blue Wool",
+      "uid": "minecraft:wool",
+      "meta": 3,
+      "color": "#6a8ac9"
+    },
+    {
+      "name": "Light Gray Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 8,
+      "color": "#9aa1a1"
+    },
+    {
+      "name": "Light Gray Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 8,
+      "color": "#876a61"
+    },
+    {
+      "name": "Light Gray Stained Glass",
+      "uid": "TConstruct:GlassBlock.StainedClear",
+      "meta": 8,
+      "color": "#c4c3c2",
+      "alpha": 0.4
+    },
+    {
+      "name": "Light Gray Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 8,
+      "color": "#999999",
+      "alpha": 0.4
+    },
+    {
+      "name": "Light Gray Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 8,
+      "color": "#999999",
+      "alpha": 0.4
+    },
+    {
+      "name": "Light Gray Stained Pane",
+      "uid": "TConstruct:GlassPaneClearStained",
+      "meta": 8,
+      "color": "#c4c3c2",
+      "alpha": 0.4
+    },
+    {
+      "name": "Light Gray Wool",
+      "uid": "minecraft:wool",
+      "meta": 8,
+      "color": "#9aa1a1"
+    },
+    {
+      "name": "Light Gray Wool Slab",
+      "uid": "TConstruct:WoolSlab1",
+      "meta": 0,
+      "color": "#dddddd"
+    },
+    {
+      "name": "Lilac",
+      "uid": "minecraft:double_plant",
+      "meta": 1,
+      "color": "#94948c"
+    },
+    {
+      "name": "Lily Pad",
+      "uid": "minecraft:waterlily",
+      "meta": 0,
+      "color": "#767676"
+    },
+    {
+      "name": "Lily of the Valley",
+      "uid": "BiomesOPlenty:flowers2",
+      "meta": 1,
+      "color": "#87957d"
+    },
+    {
+      "name": "Lime Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 5,
+      "color": "#41ae38"
+    },
+    {
+      "name": "Lime Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 5,
+      "color": "#677534"
+    },
+    {
+      "name": "Lime Stained Glass",
+      "uid": "TConstruct:GlassBlock.StainedClear",
+      "meta": 5,
+      "color": "#99be61",
+      "alpha": 0.4
+    },
+    {
+      "name": "Lime Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 5,
+      "color": "#7fcc19",
+      "alpha": 0.4
+    },
+    {
+      "name": "Lime Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 5,
+      "color": "#7fcc19",
+      "alpha": 0.4
+    },
+    {
+      "name": "Lime Stained Pane",
+      "uid": "TConstruct:GlassPaneClearStained",
+      "meta": 5,
+      "color": "#99be61",
+      "alpha": 0.4
+    },
+    {
+      "name": "Lime Wool",
+      "uid": "minecraft:wool",
+      "meta": 5,
+      "color": "#41ae38"
+    },
+    {
+      "name": "Liquid Tin",
+      "uid": "TConstruct:fluid.molten.tin",
+      "meta": 0,
+      "color": "#c1c1c1"
+    },
+    {
+      "name": "Liquified Emerald",
+      "uid": "TConstruct:molten.emerald",
+      "meta": 0,
+      "color": "#4fb939"
+    },
+    {
+      "name": "Liquified Ender",
+      "uid": "TConstruct:fluid.ender",
+      "meta": 0,
+      "color": "#003920",
+      "alpha": 0.3
+    },
+    {
+      "name": "Liquified Slime",
+      "uid": "TConstruct:liquid.slime",
+      "meta": 0,
+      "color": "#30d3f3",
+      "alpha": 0.3
+    },
+    {
+      "name": "Loamy Dirt",
+      "uid": "BiomesOPlenty:newBopDirt",
+      "meta": 0,
+      "color": "#54453f"
+    },
+    {
+      "name": "Loamy Farmland",
+      "uid": "BiomesOPlenty:newBopFarmland",
+      "meta": 0,
+      "color": "#463630"
+    },
+    {
+      "name": "Loamy Farmland",
+      "uid": "BiomesOPlenty:newBopFarmland",
+      "meta": 1,
+      "color": "#2a1d17"
+    },
+    {
+      "name": "Loamy Farmland",
+      "uid": "BiomesOPlenty:newBopFarmland",
+      "meta": 2,
+      "color": "#856e3f"
+    },
+    {
+      "name": "Loamy Farmland",
+      "uid": "BiomesOPlenty:newBopFarmland",
+      "meta": 3,
+      "color": "#58441b"
+    },
+    {
+      "name": "Loamy Farmland",
+      "uid": "BiomesOPlenty:newBopFarmland",
+      "meta": 4,
+      "color": "#776a59"
+    },
+    {
+      "name": "Loamy Farmland",
+      "uid": "BiomesOPlenty:newBopFarmland",
+      "meta": 5,
+      "color": "#4a3f30"
+    },
+    {
+      "name": "Loamy Grass Block",
+      "uid": "BiomesOPlenty:newBopGrass",
+      "meta": 0,
+      "color": "#939393"
+    },
+    {
+      "name": "Long Grass Block",
+      "uid": "BiomesOPlenty:longGrass",
+      "meta": 0,
+      "color": "#4a7c49"
+    },
+    {
+      "name": "Magenta Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 2,
+      "color": "#b350bc"
+    },
+    {
+      "name": "Magenta Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 2,
+      "color": "#95586c"
+    },
+    {
+      "name": "Magenta Stained Glass",
+      "uid": "TConstruct:GlassBlock.StainedClear",
+      "meta": 2,
+      "color": "#cc7ef6",
+      "alpha": 0.4
+    },
+    {
+      "name": "Magenta Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 2,
+      "color": "#b24cd8",
+      "alpha": 0.4
+    },
+    {
+      "name": "Magenta Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 2,
+      "color": "#b24cd8",
+      "alpha": 0.4
+    },
+    {
+      "name": "Magenta Stained Pane",
+      "uid": "TConstruct:GlassPaneClearStained",
+      "meta": 2,
+      "color": "#cc7ef6",
+      "alpha": 0.4
+    },
+    {
+      "name": "Magenta Wool",
+      "uid": "minecraft:wool",
+      "meta": 2,
+      "color": "#b350bc"
+    },
+    {
+      "name": "Magic Leaves",
+      "uid": "BiomesOPlenty:leaves1",
+      "meta": 1,
+      "color": "#647b21"
+    },
+    {
+      "name": "Magic Sapling",
+      "uid": "BiomesOPlenty:saplings",
+      "meta": 3,
+      "color": "#3c6072"
+    },
+    {
+      "name": "Magic Wood",
+      "uid": "BiomesOPlenty:logs2",
+      "meta": 1,
+      "color": "#5b689b"
+    },
+    {
+      "name": "Magic Wood Planks",
+      "uid": "BiomesOPlenty:planks",
+      "meta": 5,
+      "color": "#4d61a0"
+    },
+    {
+      "name": "Magic Wood Slab",
+      "uid": "BiomesOPlenty:woodenDoubleSlab1",
+      "meta": 5,
+      "color": "#4d61a0"
+    },
+    {
+      "name": "Magic Wood Slab",
+      "uid": "BiomesOPlenty:woodenSingleSlab1",
+      "meta": 5,
+      "color": "#4d61a0"
+    },
+    {
+      "name": "Magic Wood Stairs",
+      "uid": "BiomesOPlenty:magicStairs",
+      "meta": 0,
+      "color": "#4d61a0"
+    },
+    {
+      "name": "Mahogany Leaves",
+      "uid": "BiomesOPlenty:colorizedLeaves2",
+      "meta": 2,
+      "color": "#797979"
+    },
+    {
+      "name": "Mahogany Sapling",
+      "uid": "BiomesOPlenty:colorizedSaplings",
+      "meta": 6,
+      "color": "#506a1c"
+    },
+    {
+      "name": "Mahogany Wood",
+      "uid": "BiomesOPlenty:logs4",
+      "meta": 3,
+      "color": "#a27367"
+    },
+    {
+      "name": "Mahogany Wood Planks",
+      "uid": "BiomesOPlenty:planks",
+      "meta": 14,
+      "color": "#9a6661"
+    },
+    {
+      "name": "Mahogany Wood Stairs",
+      "uid": "BiomesOPlenty:mahoganyStairs",
+      "meta": 0,
+      "color": "#9a6661"
+    },
+    {
+      "name": "Mangrove Leaves",
+      "uid": "BiomesOPlenty:colorizedLeaves1",
+      "meta": 1,
+      "color": "#545454"
+    },
+    {
+      "name": "Mangrove Sapling",
+      "uid": "BiomesOPlenty:colorizedSaplings",
+      "meta": 1,
+      "color": "#77896d"
+    },
+    {
+      "name": "Mangrove Wood",
+      "uid": "BiomesOPlenty:logs2",
+      "meta": 2,
+      "color": "#e0d5bf"
+    },
+    {
+      "name": "Mangrove Wood Planks",
+      "uid": "BiomesOPlenty:planks",
+      "meta": 6,
+      "color": "#ded3c4"
+    },
+    {
+      "name": "Mangrove Wood Slab",
+      "uid": "BiomesOPlenty:woodenDoubleSlab1",
+      "meta": 6,
+      "color": "#ded3c4"
+    },
+    {
+      "name": "Mangrove Wood Slab",
+      "uid": "BiomesOPlenty:woodenSingleSlab1",
+      "meta": 6,
+      "color": "#ded3c4"
+    },
+    {
+      "name": "Mangrove Wood Stairs",
+      "uid": "BiomesOPlenty:mangroveStairs",
+      "meta": 0,
+      "color": "#ded3c4"
+    },
+    {
+      "name": "Manyullyn Brick",
+      "uid": "TConstruct:decoration.multibrickmetal",
+      "meta": 3,
+      "color": "#985ebf"
+    },
+    {
+      "name": "Maple Leaves",
+      "uid": "BiomesOPlenty:leaves3",
+      "meta": 1,
+      "color": "#b16c92"
+    },
+    {
+      "name": "Maple Sapling",
+      "uid": "BiomesOPlenty:saplings",
+      "meta": 11,
+      "color": "#683f28"
+    },
+    {
+      "name": "Medium Bone Segment",
+      "uid": "BiomesOPlenty:bones",
+      "meta": 1,
+      "color": "#edebc9"
+    },
+    {
+      "name": "Medium Lily Pad",
+      "uid": "BiomesOPlenty:lilyBop",
+      "meta": 0,
+      "color": "#15370e"
+    },
+    {
+      "name": "Melon",
+      "uid": "minecraft:melon_block",
+      "meta": 0,
+      "color": "#979924"
+    },
+    {
+      "name": "Mesh Filter",
+      "uid": "TMechworks:MeshFilter",
+      "meta": 3,
+      "color": "#976f24"
+    },
+    {
+      "name": "Miner\u0027s Delight",
+      "uid": "BiomesOPlenty:flowers2",
+      "meta": 6,
+      "color": "#837f63"
+    },
+    {
+      "name": "Molten Aluminum",
+      "uid": "TConstruct:fluid.molten.aluminum",
+      "meta": 0,
+      "color": "#ed9696"
+    },
+    {
+      "name": "Molten Aluminum Brass",
+      "uid": "TConstruct:fluid.molten.alubrass",
+      "meta": 0,
+      "color": "#ebe241"
+    },
+    {
+      "name": "Molten Alumite",
+      "uid": "TConstruct:fluid.molten.alumite",
+      "meta": 0,
+      "color": "#dfb9cd"
+    },
+    {
+      "name": "Molten Ardite",
+      "uid": "TConstruct:fluid.molten.ardite",
+      "meta": 0,
+      "color": "#a27143"
+    },
+    {
+      "name": "Molten Bronze",
+      "uid": "TConstruct:fluid.molten.bronze",
+      "meta": 0,
+      "color": "#8d5e22"
+    },
+    {
+      "name": "Molten Cobalt",
+      "uid": "TConstruct:fluid.molten.cobalt",
+      "meta": 0,
+      "color": "#354a99"
+    },
+    {
+      "name": "Molten Copper",
+      "uid": "TConstruct:fluid.molten.copper",
+      "meta": 0,
+      "color": "#f9ac39"
+    },
+    {
+      "name": "Molten Electrum",
+      "uid": "TConstruct:fluid.molten.electrum",
+      "meta": 0,
+      "color": "#edce2e"
+    },
+    {
+      "name": "Molten Enderium",
+      "uid": "TConstruct:fluid.molten.enderium",
+      "meta": 0,
+      "color": "#0a524b"
+    },
+    {
+      "name": "Molten Glass",
+      "uid": "TConstruct:fluid.molten.glass",
+      "meta": 0,
+      "color": "#9feefd",
+      "alpha": 0.7019608
+    },
+    {
+      "name": "Molten Gold",
+      "uid": "TConstruct:fluid.molten.gold",
+      "meta": 0,
+      "color": "#c4ab0a"
+    },
+    {
+      "name": "Molten Invar",
+      "uid": "TConstruct:fluid.molten.invar",
+      "meta": 0,
+      "color": "#cbcbcb"
+    },
+    {
+      "name": "Molten Iron",
+      "uid": "TConstruct:fluid.molten.iron",
+      "meta": 0,
+      "color": "#710d0d"
+    },
+    {
+      "name": "Molten Lead",
+      "uid": "TConstruct:fluid.molten.lead",
+      "meta": 0,
+      "color": "#5e588d"
+    },
+    {
+      "name": "Molten Lumium",
+      "uid": "TConstruct:fluid.molten.lumium",
+      "meta": 0,
+      "color": "#e3d58f"
+    },
+    {
+      "name": "Molten Mana Infused Metal",
+      "uid": "TConstruct:fluid.molten.mithril",
+      "meta": 0,
+      "color": "#85b5d4"
+    },
+    {
+      "name": "Molten Manyullyn",
+      "uid": "TConstruct:fluid.molten.manyullyn",
+      "meta": 0,
+      "color": "#84409e"
+    },
+    {
+      "name": "Molten Nickel",
+      "uid": "TConstruct:fluid.molten.nickel",
+      "meta": 0,
+      "color": "#decd76"
+    },
+    {
+      "name": "Molten Obsidian",
+      "uid": "TConstruct:fluid.molten.obsidian",
+      "meta": 0,
+      "color": "#893b4a"
+    },
+    {
+      "name": "Molten Pig Iron",
+      "uid": "TConstruct:fluid.molten.pigiron",
+      "meta": 0,
+      "color": "#cc6f6c",
+      "alpha": 0.3
+    },
+    {
+      "name": "Molten Shiny",
+      "uid": "TConstruct:fluid.molten.shiny",
+      "meta": 0,
+      "color": "#86ccd3"
+    },
+    {
+      "name": "Molten Signalum",
+      "uid": "TConstruct:fluid.molten.signalum",
+      "meta": 0,
+      "color": "#d35c22"
+    },
+    {
+      "name": "Molten Silver",
+      "uid": "TConstruct:fluid.molten.silver",
+      "meta": 0,
+      "color": "#8cb9be"
+    },
+    {
+      "name": "Molten Steel",
+      "uid": "TConstruct:fluid.molten.steel",
+      "meta": 0,
+      "color": "#696969"
+    },
+    {
+      "name": "Monster Spawner",
+      "uid": "minecraft:mob_spawner",
+      "meta": 0,
+      "color": "#1a2731"
+    },
+    {
+      "name": "Moss",
+      "uid": "BiomesOPlenty:moss",
+      "meta": 0,
+      "color": "#858571",
+      "alpha": 0.2
+    },
+    {
+      "name": "Moss Stone",
+      "uid": "minecraft:mossy_cobblestone",
+      "meta": 0,
+      "color": "#677967"
+    },
+    {
+      "name": "Mossy Cobblestone Wall",
+      "uid": "minecraft:cobblestone_wall",
+      "meta": 1,
+      "color": "#677967"
+    },
+    {
+      "name": "Mossy Stone Bricks",
+      "uid": "minecraft:stonebrick",
+      "meta": 1,
+      "color": "#72776a"
+    },
+    {
+      "name": "Mud",
+      "uid": "BiomesOPlenty:mud",
+      "meta": 0,
+      "color": "#493527"
+    },
+    {
+      "name": "Mud Bricks",
+      "uid": "BiomesOPlenty:mudBricks",
+      "meta": 0,
+      "color": "#655647"
+    },
+    {
+      "name": "Mud Bricks Slab",
+      "uid": "BiomesOPlenty:stoneDoubleSlab",
+      "meta": 0,
+      "color": "#655647"
+    },
+    {
+      "name": "Mud Bricks Slab",
+      "uid": "BiomesOPlenty:stoneSingleSlab",
+      "meta": 0,
+      "color": "#655647"
+    },
+    {
+      "name": "Mud Bricks Stairs",
+      "uid": "BiomesOPlenty:mudBricksStairs",
+      "meta": 0,
+      "color": "#655647"
+    },
+    {
+      "name": "Mushroom",
+      "uid": "minecraft:brown_mushroom",
+      "meta": 0,
+      "color": "#8a6953"
+    },
+    {
+      "name": "Mushroom",
+      "uid": "minecraft:brown_mushroom_block",
+      "meta": 0,
+      "color": "#8d6a53"
+    },
+    {
+      "name": "Mushroom",
+      "uid": "minecraft:red_mushroom",
+      "meta": 0,
+      "color": "#c33538"
+    },
+    {
+      "name": "Mushroom",
+      "uid": "minecraft:red_mushroom_block",
+      "meta": 0,
+      "color": "#b62524"
+    },
+    {
+      "name": "Mycelium",
+      "uid": "minecraft:mycelium",
+      "meta": 0,
+      "color": "#6f6369"
+    },
+    {
+      "name": "Nether Brick",
+      "uid": "minecraft:nether_brick",
+      "meta": 0,
+      "color": "#2c161a"
+    },
+    {
+      "name": "Nether Brick Fence",
+      "uid": "minecraft:nether_brick_fence",
+      "meta": 0,
+      "color": "#2c161a",
+      "alpha": 0.4
+    },
+    {
+      "name": "Nether Brick Slab",
+      "uid": "minecraft:stone_slab",
+      "meta": 6,
+      "color": "#2c161a"
+    },
+    {
+      "name": "Nether Brick Stairs",
+      "uid": "minecraft:nether_brick_stairs",
+      "meta": 0,
+      "color": "#2c161a"
+    },
+    {
+      "name": "Nether Quartz Ore",
+      "uid": "minecraft:quartz_ore",
+      "meta": 0,
+      "color": "#7d544f"
+    },
+    {
+      "name": "Netherrack",
+      "uid": "minecraft:netherrack",
+      "meta": 0,
+      "color": "#6f3634"
+    },
+    {
+      "name": "Netherrack Brick",
+      "uid": "TConstruct:decoration.multibrick",
+      "meta": 2,
+      "color": "#743f3b"
+    },
+    {
+      "name": "Note Block",
+      "uid": "minecraft:noteblock",
+      "meta": 0,
+      "color": "#644332"
+    },
+    {
+      "name": "Oak Barricade",
+      "uid": "TConstruct:trap.barricade.oak",
+      "meta": 0,
+      "color": "#665131"
+    },
+    {
+      "name": "Oak Leaves",
+      "uid": "minecraft:leaves",
+      "meta": 0,
+      "color": "#878787"
+    },
+    {
+      "name": "Oak Sapling",
+      "uid": "minecraft:sapling",
+      "meta": 0,
+      "color": "#476625"
+    },
+    {
+      "name": "Oak Wood",
+      "uid": "minecraft:log",
+      "meta": 0,
+      "color": "#9a7d4d"
+    },
+    {
+      "name": "Oak Wood Planks",
+      "uid": "minecraft:planks",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Oak Wood Slab",
+      "uid": "minecraft:wooden_slab",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Oak Wood Stairs",
+      "uid": "minecraft:oak_stairs",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Obsidian",
+      "uid": "minecraft:obsidian",
+      "meta": 0,
+      "color": "#14121d"
+    },
+    {
+      "name": "Obsidian Brick",
+      "uid": "TConstruct:decoration.multibrick",
+      "meta": 0,
+      "color": "#231d34"
+    },
+    {
+      "name": "Obsidian Brick",
+      "uid": "TConstruct:decoration.multibrick",
+      "meta": 13,
+      "color": "#232159"
+    },
+    {
+      "name": "OgreLair Dirt",
+      "uid": "MoCreatures:MoCDirt",
+      "meta": 1,
+      "color": "#867c43"
+    },
+    {
+      "name": "OgreLair Grass",
+      "uid": "MoCreatures:MoCGrass",
+      "meta": 1,
+      "color": "#378e53"
+    },
+    {
+      "name": "OgreLair Leaves",
+      "uid": "MoCreatures:MoCLeaves",
+      "meta": 1,
+      "color": "#974400"
+    },
+    {
+      "name": "OgreLair Log",
+      "uid": "MoCreatures:MoCLog",
+      "meta": 1,
+      "color": "#947f5e"
+    },
+    {
+      "name": "OgreLair Stone",
+      "uid": "MoCreatures:MoCStone",
+      "meta": 1,
+      "color": "#6e797d"
+    },
+    {
+      "name": "OgreLair Tall Grass",
+      "uid": "MoCreatures:MoCTallGrass",
+      "meta": 1,
+      "color": "#467464"
+    },
+    {
+      "name": "OgreLair Wood Plank",
+      "uid": "MoCreatures:MoCWoodPlank",
+      "meta": 1,
+      "color": "#9c4e5a"
+    },
+    {
+      "name": "Orange Autumn Leaves",
+      "uid": "BiomesOPlenty:leaves2",
+      "meta": 2,
+      "color": "#284a33"
+    },
+    {
+      "name": "Orange Autumn Sapling",
+      "uid": "BiomesOPlenty:saplings",
+      "meta": 8,
+      "color": "#633c1a"
+    },
+    {
+      "name": "Orange Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 1,
+      "color": "#db7d3e"
+    },
+    {
+      "name": "Orange Coral",
+      "uid": "BiomesOPlenty:coral1",
+      "meta": 13,
+      "color": "#eba74f",
+      "alpha": 0.3
+    },
+    {
+      "name": "Orange Cosmos",
+      "uid": "BiomesOPlenty:flowers",
+      "meta": 5,
+      "color": "#916918"
+    },
+    {
+      "name": "Orange Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 1,
+      "color": "#a15325"
+    },
+    {
+      "name": "Orange Stained Glass",
+      "uid": "TConstruct:GlassBlock.StainedClear",
+      "meta": 1,
+      "color": "#e9aa46",
+      "alpha": 0.4
+    },
+    {
+      "name": "Orange Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 1,
+      "color": "#d87f33",
+      "alpha": 0.4
+    },
+    {
+      "name": "Orange Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 1,
+      "color": "#d87f33",
+      "alpha": 0.4
+    },
+    {
+      "name": "Orange Stained Pane",
+      "uid": "TConstruct:GlassPaneClearStained",
+      "meta": 1,
+      "color": "#e9aa46",
+      "alpha": 0.4
+    },
+    {
+      "name": "Orange Tulip",
+      "uid": "minecraft:red_flower",
+      "meta": 5,
+      "color": "#a3581a"
+    },
+    {
+      "name": "Orange Wool",
+      "uid": "minecraft:wool",
+      "meta": 1,
+      "color": "#db7d3e"
+    },
+    {
+      "name": "Origin Grass Block",
+      "uid": "BiomesOPlenty:originGrass",
+      "meta": 0,
+      "color": "#75b049"
+    },
+    {
+      "name": "Origin Leaves",
+      "uid": "BiomesOPlenty:leaves3",
+      "meta": 3,
+      "color": "#a48a99"
+    },
+    {
+      "name": "Origin Sapling",
+      "uid": "BiomesOPlenty:saplings",
+      "meta": 9,
+      "color": "#436e12"
+    },
+    {
+      "name": "Overgrown Netherrack",
+      "uid": "BiomesOPlenty:overgrownNetherrack",
+      "meta": 0,
+      "color": "#6e6931"
+    },
+    {
+      "name": "Oxeye Daisy",
+      "uid": "minecraft:red_flower",
+      "meta": 8,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Packed Ice",
+      "uid": "minecraft:packed_ice",
+      "meta": 0,
+      "color": "#a5c2f5",
+      "alpha": 0.8
+    },
+    {
+      "name": "Palm Leaves",
+      "uid": "BiomesOPlenty:colorizedLeaves1",
+      "meta": 2,
+      "color": "#696969"
+    },
+    {
+      "name": "Palm Sapling",
+      "uid": "BiomesOPlenty:colorizedSaplings",
+      "meta": 2,
+      "color": "#6d673c"
+    },
+    {
+      "name": "Palm Wood",
+      "uid": "BiomesOPlenty:logs2",
+      "meta": 3,
+      "color": "#a8723a"
+    },
+    {
+      "name": "Palm Wood Planks",
+      "uid": "BiomesOPlenty:planks",
+      "meta": 7,
+      "color": "#a7743b"
+    },
+    {
+      "name": "Palm Wood Slab",
+      "uid": "BiomesOPlenty:woodenDoubleSlab1",
+      "meta": 7,
+      "color": "#a7743b"
+    },
+    {
+      "name": "Palm Wood Slab",
+      "uid": "BiomesOPlenty:woodenSingleSlab1",
+      "meta": 7,
+      "color": "#a7743b"
+    },
+    {
+      "name": "Palm Wood Stairs",
+      "uid": "BiomesOPlenty:palmStairs",
+      "meta": 0,
+      "color": "#a7743b"
+    },
+    {
+      "name": "Part Builder",
+      "uid": "TConstruct:CraftingSlab",
+      "meta": 2,
+      "color": "#8f7345"
+    },
+    {
+      "name": "Part Builder",
+      "uid": "TConstruct:ToolStationBlock",
+      "meta": 1,
+      "color": "#8f7345"
+    },
+    {
+      "name": "Part Builder",
+      "uid": "TConstruct:ToolStationBlock",
+      "meta": 2,
+      "color": "#8f7345"
+    },
+    {
+      "name": "Part Builder",
+      "uid": "TConstruct:ToolStationBlock",
+      "meta": 3,
+      "color": "#8f7345"
+    },
+    {
+      "name": "Part Builder",
+      "uid": "TConstruct:ToolStationBlock",
+      "meta": 4,
+      "color": "#8f7345"
+    },
+    {
+      "name": "Pattern Chest",
+      "uid": "TConstruct:CraftingSlab",
+      "meta": 4,
+      "color": "#76442c"
+    },
+    {
+      "name": "Pattern Chest",
+      "uid": "TConstruct:ToolStationBlock",
+      "meta": 5,
+      "color": "#76442c"
+    },
+    {
+      "name": "Peony",
+      "uid": "minecraft:double_plant",
+      "meta": 5,
+      "color": "#85868e",
+      "alpha": 0.9882353
+    },
+    {
+      "name": "Peridot Ore",
+      "uid": "BiomesOPlenty:gemOre",
+      "meta": 8,
+      "color": "#786b85"
+    },
+    {
+      "name": "Persimmon Leaves",
+      "uid": "BiomesOPlenty:persimmonLeaves",
+      "meta": 0,
+      "color": "#474320"
+    },
+    {
+      "name": "Persimmon Sapling",
+      "uid": "BiomesOPlenty:saplings",
+      "meta": 15,
+      "color": "#7f6730"
+    },
+    {
+      "name": "Pillar Quartz Block",
+      "uid": "minecraft:quartz_block",
+      "meta": 2,
+      "color": "#e8e5dd"
+    },
+    {
+      "name": "Pine Leaves",
+      "uid": "BiomesOPlenty:colorizedLeaves2",
+      "meta": 1,
+      "color": "#4d4d4d"
+    },
+    {
+      "name": "Pine Sapling",
+      "uid": "BiomesOPlenty:colorizedSaplings",
+      "meta": 5,
+      "color": "#526133"
+    },
+    {
+      "name": "Pine Wood",
+      "uid": "BiomesOPlenty:logs4",
+      "meta": 0,
+      "color": "#957457"
+    },
+    {
+      "name": "Pine Wood Planks",
+      "uid": "BiomesOPlenty:planks",
+      "meta": 11,
+      "color": "#92775a"
+    },
+    {
+      "name": "Pine Wood Slab",
+      "uid": "BiomesOPlenty:woodenDoubleSlab2",
+      "meta": 2,
+      "color": "#92775a"
+    },
+    {
+      "name": "Pine Wood Slab",
+      "uid": "BiomesOPlenty:woodenSingleSlab2",
+      "meta": 2,
+      "color": "#92775a"
+    },
+    {
+      "name": "Pine Wood Stairs",
+      "uid": "BiomesOPlenty:pineStairs",
+      "meta": 0,
+      "color": "#92775a"
+    },
+    {
+      "name": "Pink Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 6,
+      "color": "#d08499"
+    },
+    {
+      "name": "Pink Cherry Leaves",
+      "uid": "BiomesOPlenty:leaves3",
+      "meta": 0,
+      "color": "#2e8a23"
+    },
+    {
+      "name": "Pink Cherry Sapling",
+      "uid": "BiomesOPlenty:saplings",
+      "meta": 10,
+      "color": "#6e3c40"
+    },
+    {
+      "name": "Pink Coral",
+      "uid": "BiomesOPlenty:coral1",
+      "meta": 12,
+      "color": "#ff8a8d",
+      "alpha": 0.3
+    },
+    {
+      "name": "Pink Daffodil",
+      "uid": "BiomesOPlenty:flowers",
+      "meta": 6,
+      "color": "#aa9fa9"
+    },
+    {
+      "name": "Pink Hibiscus",
+      "uid": "BiomesOPlenty:flowers2",
+      "meta": 0,
+      "color": "#777b39"
+    },
+    {
+      "name": "Pink Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 6,
+      "color": "#a14e4e"
+    },
+    {
+      "name": "Pink Stained Glass",
+      "uid": "TConstruct:GlassBlock.StainedClear",
+      "meta": 6,
+      "color": "#e4a2b5",
+      "alpha": 0.4
+    },
+    {
+      "name": "Pink Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 6,
+      "color": "#f27fa5",
+      "alpha": 0.4
+    },
+    {
+      "name": "Pink Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 6,
+      "color": "#f27fa5",
+      "alpha": 0.4
+    },
+    {
+      "name": "Pink Stained Pane",
+      "uid": "TConstruct:GlassPaneClearStained",
+      "meta": 6,
+      "color": "#e4a2b5",
+      "alpha": 0.4
+    },
+    {
+      "name": "Pink Tulip",
+      "uid": "minecraft:red_flower",
+      "meta": 7,
+      "color": "#b09ab0"
+    },
+    {
+      "name": "Pink Wool",
+      "uid": "minecraft:wool",
+      "meta": 6,
+      "color": "#d08499"
+    },
+    {
+      "name": "Piston",
+      "uid": "minecraft:piston",
+      "meta": 0,
+      "color": "#606060"
+    },
+    {
+      "name": "Poison",
+      "uid": "BiomesOPlenty:poison",
+      "meta": 0,
+      "color": "#312b65",
+      "alpha": 0.3
+    },
+    {
+      "name": "Polished Limestone",
+      "uid": "BiomesOPlenty:rocks",
+      "meta": 0,
+      "color": "#a4ba8a"
+    },
+    {
+      "name": "Polished Limestone",
+      "uid": "BiomesOPlenty:rocks",
+      "meta": 1,
+      "color": "#adc591"
+    },
+    {
+      "name": "Polished Shale",
+      "uid": "BiomesOPlenty:rocks",
+      "meta": 5,
+      "color": "#373737"
+    },
+    {
+      "name": "Polished Siltstone",
+      "uid": "BiomesOPlenty:rocks",
+      "meta": 3,
+      "color": "#a48b60"
+    },
+    {
+      "name": "Polished Stone Brick",
+      "uid": "TConstruct:decoration.multibrick",
+      "meta": 3,
+      "color": "#a6a6a6"
+    },
+    {
+      "name": "Poppy",
+      "uid": "minecraft:red_flower",
+      "meta": 0,
+      "color": "#980406"
+    },
+    {
+      "name": "Portal",
+      "uid": "minecraft:portal",
+      "meta": 0,
+      "color": "#560abe"
+    },
+    {
+      "name": "Portobello",
+      "uid": "BiomesOPlenty:mushrooms",
+      "meta": 1,
+      "color": "#c5c0b0"
+    },
+    {
+      "name": "Potatoes",
+      "uid": "minecraft:potatoes",
+      "meta": 0,
+      "color": "#01ab10"
+    },
+    {
+      "name": "Powered Rail",
+      "uid": "minecraft:golden_rail",
+      "meta": 0,
+      "color": "#846c48"
+    },
+    {
+      "name": "Pressure Plate",
+      "uid": "minecraft:stone_pressure_plate",
+      "meta": 0,
+      "color": "#7d7d7d"
+    },
+    {
+      "name": "Pressure Plate",
+      "uid": "minecraft:wooden_pressure_plate",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Pumpkin",
+      "uid": "minecraft:pumpkin",
+      "meta": 0,
+      "color": "#c07615"
+    },
+    {
+      "name": "Punji Stick",
+      "uid": "TConstruct:trap.punji",
+      "meta": 0,
+      "color": "#96bf6a"
+    },
+    {
+      "name": "Purple Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 10,
+      "color": "#7e3db5"
+    },
+    {
+      "name": "Purple Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 10,
+      "color": "#764656"
+    },
+    {
+      "name": "Purple Stained Glass",
+      "uid": "TConstruct:GlassBlock.StainedClear",
+      "meta": 10,
+      "color": "#a961d0",
+      "alpha": 0.4
+    },
+    {
+      "name": "Purple Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 10,
+      "color": "#7f3fb2",
+      "alpha": 0.4
+    },
+    {
+      "name": "Purple Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 10,
+      "color": "#7f3fb2",
+      "alpha": 0.4
+    },
+    {
+      "name": "Purple Stained Pane",
+      "uid": "TConstruct:GlassPaneClearStained",
+      "meta": 10,
+      "color": "#a961d0",
+      "alpha": 0.4
+    },
+    {
+      "name": "Purple Wool",
+      "uid": "minecraft:wool",
+      "meta": 10,
+      "color": "#7e3db5"
+    },
+    {
+      "name": "Purple Wool Slab",
+      "uid": "TConstruct:WoolSlab1",
+      "meta": 2,
+      "color": "#b350bc"
+    },
+    {
+      "name": "Quartz Slab",
+      "uid": "minecraft:stone_slab",
+      "meta": 7,
+      "color": "#ece9e2"
+    },
+    {
+      "name": "Quartz Stairs",
+      "uid": "minecraft:quartz_stairs",
+      "meta": 0,
+      "color": "#ece9e2"
+    },
+    {
+      "name": "Quicksand",
+      "uid": "BiomesOPlenty:mud",
+      "meta": 1,
+      "color": "#e0c687"
+    },
+    {
+      "name": "Rail",
+      "uid": "minecraft:rail",
+      "meta": 0,
+      "color": "#796c58"
+    },
+    {
+      "name": "Red Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 14,
+      "color": "#963430"
+    },
+    {
+      "name": "Red Sand",
+      "uid": "minecraft:sand",
+      "meta": 1,
+      "color": "#a95821"
+    },
+    {
+      "name": "Red Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 14,
+      "color": "#8f3d2e"
+    },
+    {
+      "name": "Red Stained Glass",
+      "uid": "TConstruct:GlassBlock.StainedClear",
+      "meta": 14,
+      "color": "#bd3b3b",
+      "alpha": 0.4
+    },
+    {
+      "name": "Red Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 14,
+      "color": "#993333",
+      "alpha": 0.4
+    },
+    {
+      "name": "Red Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 14,
+      "color": "#993333",
+      "alpha": 0.4
+    },
+    {
+      "name": "Red Stained Pane",
+      "uid": "TConstruct:GlassPaneClearStained",
+      "meta": 14,
+      "color": "#bd3b3b",
+      "alpha": 0.4
+    },
+    {
+      "name": "Red Tulip",
+      "uid": "minecraft:red_flower",
+      "meta": 4,
+      "color": "#980406"
+    },
+    {
+      "name": "Red Wool",
+      "uid": "minecraft:wool",
+      "meta": 14,
+      "color": "#963430"
+    },
+    {
+      "name": "Red Wool Slab",
+      "uid": "TConstruct:WoolSlab1",
+      "meta": 6,
+      "color": "#d08499"
+    },
+    {
+      "name": "Redstone",
+      "uid": "minecraft:lit_redstone_ore",
+      "meta": 0,
+      "color": "#846b6b"
+    },
+    {
+      "name": "Redstone",
+      "uid": "minecraft:redstone_wire",
+      "meta": 0,
+      "color": "#efefef"
+    },
+    {
+      "name": "Redstone Brick",
+      "uid": "TConstruct:decoration.multibrick",
+      "meta": 8,
+      "color": "#b60101"
+    },
+    {
+      "name": "Redstone Comparator",
+      "uid": "minecraft:powered_comparator",
+      "meta": 0,
+      "color": "#a59594"
+    },
+    {
+      "name": "Redstone Comparator",
+      "uid": "minecraft:unpowered_comparator",
+      "meta": 0,
+      "color": "#9c9695"
+    },
+    {
+      "name": "Redstone Lamp",
+      "uid": "minecraft:lit_redstone_lamp",
+      "meta": 0,
+      "color": "#775937"
+    },
+    {
+      "name": "Redstone Lamp",
+      "uid": "minecraft:redstone_lamp",
+      "meta": 0,
+      "color": "#462b1a"
+    },
+    {
+      "name": "Redstone Ore",
+      "uid": "minecraft:redstone_ore",
+      "meta": 0,
+      "color": "#846b6b"
+    },
+    {
+      "name": "Redstone Repeater",
+      "uid": "minecraft:powered_repeater",
+      "meta": 0,
+      "color": "#a09393"
+    },
+    {
+      "name": "Redstone Repeater",
+      "uid": "minecraft:unpowered_repeater",
+      "meta": 0,
+      "color": "#979393"
+    },
+    {
+      "name": "Redstone Torch",
+      "uid": "minecraft:redstone_torch",
+      "meta": 0,
+      "color": "#a74b29"
+    },
+    {
+      "name": "Redstone Torch",
+      "uid": "minecraft:unlit_redstone_torch",
+      "meta": 0,
+      "color": "#5d3e26"
+    },
+    {
+      "name": "Redwood Leaves",
+      "uid": "BiomesOPlenty:colorizedLeaves1",
+      "meta": 3,
+      "color": "#565656"
+    },
+    {
+      "name": "Redwood Sapling",
+      "uid": "BiomesOPlenty:colorizedSaplings",
+      "meta": 3,
+      "color": "#607123"
+    },
+    {
+      "name": "Redwood Wood",
+      "uid": "BiomesOPlenty:logs3",
+      "meta": 0,
+      "color": "#9c583b"
+    },
+    {
+      "name": "Redwood Wood Planks",
+      "uid": "BiomesOPlenty:planks",
+      "meta": 8,
+      "color": "#84452e"
+    },
+    {
+      "name": "Redwood Wood Slab",
+      "uid": "BiomesOPlenty:woodenDoubleSlab2",
+      "meta": 0,
+      "color": "#84452e"
+    },
+    {
+      "name": "Redwood Wood Slab",
+      "uid": "BiomesOPlenty:woodenSingleSlab2",
+      "meta": 0,
+      "color": "#84452e"
+    },
+    {
+      "name": "Redwood Wood Stairs",
+      "uid": "BiomesOPlenty:redwoodStairs",
+      "meta": 0,
+      "color": "#84452e"
+    },
+    {
+      "name": "Reed",
+      "uid": "BiomesOPlenty:plants",
+      "meta": 14,
+      "color": "#885b3b"
+    },
+    {
+      "name": "River Cane",
+      "uid": "BiomesOPlenty:plants",
+      "meta": 8,
+      "color": "#545038"
+    },
+    {
+      "name": "Root",
+      "uid": "BiomesOPlenty:plants",
+      "meta": 15,
+      "color": "#80633f"
+    },
+    {
+      "name": "Rose",
+      "uid": "BiomesOPlenty:flowers2",
+      "meta": 8,
+      "color": "#8a2b0d"
+    },
+    {
+      "name": "Rose Bush",
+      "uid": "minecraft:double_plant",
+      "meta": 4,
+      "color": "#733d07"
+    },
+    {
+      "name": "Rough Brownstone",
+      "uid": "TConstruct:SpeedBlock",
+      "meta": 0,
+      "color": "#8c866e"
+    },
+    {
+      "name": "Rough Brownstone Slab",
+      "uid": "TConstruct:SpeedSlab",
+      "meta": 0,
+      "color": "#8c866e"
+    },
+    {
+      "name": "Ruby Ore",
+      "uid": "BiomesOPlenty:gemOre",
+      "meta": 4,
+      "color": "#7e8471"
+    },
+    {
+      "name": "SDX",
+      "uid": "TConstruct:explosive.slime",
+      "meta": 0,
+      "color": "#4caa33"
+    },
+    {
+      "name": "SDX",
+      "uid": "TConstruct:explosive.slime",
+      "meta": 2,
+      "color": "#338faa"
+    },
+    {
+      "name": "Sacred Oak Leaves",
+      "uid": "BiomesOPlenty:colorizedLeaves1",
+      "meta": 0,
+      "color": "#6e6e6e"
+    },
+    {
+      "name": "Sacred Oak Sapling",
+      "uid": "BiomesOPlenty:colorizedSaplings",
+      "meta": 0,
+      "color": "#276235"
+    },
+    {
+      "name": "Sacred Oak Wood",
+      "uid": "BiomesOPlenty:logs1",
+      "meta": 0,
+      "color": "#8a7b4a"
+    },
+    {
+      "name": "Sacred Oak Wood Planks",
+      "uid": "BiomesOPlenty:planks",
+      "meta": 0,
+      "color": "#90834e"
+    },
+    {
+      "name": "Sacred Oak Wood Slab",
+      "uid": "BiomesOPlenty:woodenDoubleSlab1",
+      "meta": 0,
+      "color": "#90834e"
+    },
+    {
+      "name": "Sacred Oak Wood Slab",
+      "uid": "BiomesOPlenty:woodenSingleSlab1",
+      "meta": 0,
+      "color": "#90834e"
+    },
+    {
+      "name": "Sacred Oak Wood Stairs",
+      "uid": "BiomesOPlenty:sacredoakStairs",
+      "meta": 0,
+      "color": "#90834e"
+    },
+    {
+      "name": "Sand",
+      "uid": "minecraft:sand",
+      "meta": 0,
+      "color": "#dbd3a0"
+    },
+    {
+      "name": "Sandstone",
+      "uid": "minecraft:sandstone",
+      "meta": 0,
+      "color": "#dad29e"
+    },
+    {
+      "name": "Sandstone Brick",
+      "uid": "TConstruct:decoration.multibrick",
+      "meta": 1,
+      "color": "#d8d19c"
+    },
+    {
+      "name": "Sandstone Slab",
+      "uid": "minecraft:stone_slab",
+      "meta": 1,
+      "color": "#dad29e"
+    },
+    {
+      "name": "Sandstone Stairs",
+      "uid": "minecraft:sandstone_stairs",
+      "meta": 0,
+      "color": "#dad29e"
+    },
+    {
+      "name": "Sandy Dirt",
+      "uid": "BiomesOPlenty:newBopDirt",
+      "meta": 2,
+      "color": "#9b8557"
+    },
+    {
+      "name": "Sandy Grass Block",
+      "uid": "BiomesOPlenty:newBopGrass",
+      "meta": 1,
+      "color": "#939393"
+    },
+    {
+      "name": "Seared Brick Slab",
+      "uid": "TConstruct:SearedSlab",
+      "meta": 0,
+      "color": "#353535"
+    },
+    {
+      "name": "Seared Bricks",
+      "uid": "TConstruct:Smeltery",
+      "meta": 2,
+      "color": "#353535"
+    },
+    {
+      "name": "Seared Bricks",
+      "uid": "TConstruct:SmelteryNether",
+      "meta": 2,
+      "color": "#1f140a"
+    },
+    {
+      "name": "Seared Cobblestone",
+      "uid": "TConstruct:Smeltery",
+      "meta": 5,
+      "color": "#383838"
+    },
+    {
+      "name": "Seared Cobblestone",
+      "uid": "TConstruct:SmelteryNether",
+      "meta": 5,
+      "color": "#22160b"
+    },
+    {
+      "name": "Seared Cobblestone Slab",
+      "uid": "TConstruct:SearedSlab",
+      "meta": 2,
+      "color": "#383838"
+    },
+    {
+      "name": "Seared Faucet",
+      "uid": "TConstruct:SearedBlock",
+      "meta": 1,
+      "color": "#363636"
+    },
+    {
+      "name": "Seared Faucet",
+      "uid": "TConstruct:SearedBlockNether",
+      "meta": 1,
+      "color": "#25180c"
+    },
+    {
+      "name": "Seared Glass",
+      "uid": "TConstruct:LavaTank",
+      "meta": 1,
+      "color": "#4a4a4a"
+    },
+    {
+      "name": "Seared Glass",
+      "uid": "TConstruct:LavaTankNether",
+      "meta": 1,
+      "color": "#2e1e0d"
+    },
+    {
+      "name": "Seared Paver",
+      "uid": "TConstruct:Smeltery",
+      "meta": 6,
+      "color": "#3a3a3a"
+    },
+    {
+      "name": "Seared Paver",
+      "uid": "TConstruct:SmelteryNether",
+      "meta": 6,
+      "color": "#25180c"
+    },
+    {
+      "name": "Seared Paver Slab",
+      "uid": "TConstruct:SearedSlab",
+      "meta": 3,
+      "color": "#3a3a3a"
+    },
+    {
+      "name": "Seared Road",
+      "uid": "TConstruct:Smeltery",
+      "meta": 8,
+      "color": "#363636"
+    },
+    {
+      "name": "Seared Road",
+      "uid": "TConstruct:SmelteryNether",
+      "meta": 8,
+      "color": "#23160b"
+    },
+    {
+      "name": "Seared Road Slab",
+      "uid": "TConstruct:SearedSlab",
+      "meta": 4,
+      "color": "#363636"
+    },
+    {
+      "name": "Seared Stone",
+      "uid": "TConstruct:Smeltery",
+      "meta": 4,
+      "color": "#3b3b3b"
+    },
+    {
+      "name": "Seared Stone",
+      "uid": "TConstruct:SmelteryNether",
+      "meta": 4,
+      "color": "#25170c"
+    },
+    {
+      "name": "Seared Stone",
+      "uid": "TConstruct:molten.stone",
+      "meta": 0,
+      "color": "#292929"
+    },
+    {
+      "name": "Seared Stone Slab",
+      "uid": "TConstruct:SearedSlab",
+      "meta": 1,
+      "color": "#3b3b3b"
+    },
+    {
+      "name": "Seared Tank",
+      "uid": "TConstruct:LavaTank",
+      "meta": 0,
+      "color": "#343434"
+    },
+    {
+      "name": "Seared Tank",
+      "uid": "TConstruct:LavaTankNether",
+      "meta": 0,
+      "color": "#201509"
+    },
+    {
+      "name": "Seared Window",
+      "uid": "TConstruct:LavaTank",
+      "meta": 2,
+      "color": "#484848"
+    },
+    {
+      "name": "Seared Window",
+      "uid": "TConstruct:LavaTankNether",
+      "meta": 2,
+      "color": "#2e1e0d"
+    },
+    {
+      "name": "Seeds",
+      "uid": "minecraft:wheat",
+      "meta": 0,
+      "color": "#00b312"
+    },
+    {
+      "name": "Shadow Shroom",
+      "uid": "BiomesOPlenty:mushrooms",
+      "meta": 5,
+      "color": "#6b576c"
+    },
+    {
+      "name": "Shale",
+      "uid": "BiomesOPlenty:rocks",
+      "meta": 4,
+      "color": "#363636"
+    },
+    {
+      "name": "Shrub",
+      "uid": "minecraft:tallgrass",
+      "meta": 1,
+      "color": "#747474"
+    },
+    {
+      "name": "Shrub",
+      "uid": "minecraft:tallgrass",
+      "meta": 2,
+      "color": "#787878"
+    },
+    {
+      "name": "Sign",
+      "uid": "minecraft:standing_sign",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Sign",
+      "uid": "minecraft:wall_sign",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Signal Bus",
+      "uid": "TMechworks:SignalBus",
+      "meta": 0,
+      "color": "#661106"
+    },
+    {
+      "name": "Signal Terminal",
+      "uid": "TMechworks:SignalTerminal",
+      "meta": 0,
+      "color": "#661106"
+    },
+    {
+      "name": "Siltstone",
+      "uid": "BiomesOPlenty:rocks",
+      "meta": 2,
+      "color": "#9f8a65"
+    },
+    {
+      "name": "Silty Dirt",
+      "uid": "BiomesOPlenty:newBopDirt",
+      "meta": 4,
+      "color": "#8e8271"
+    },
+    {
+      "name": "Silty Grass Block",
+      "uid": "BiomesOPlenty:newBopGrass",
+      "meta": 2,
+      "color": "#939393"
+    },
+    {
+      "name": "Skeleton Skull",
+      "uid": "minecraft:skull",
+      "meta": 0,
+      "color": "#544033"
+    },
+    {
+      "name": "Slab Furnace",
+      "uid": "TConstruct:FurnaceSlab",
+      "meta": 0,
+      "color": "#606060"
+    },
+    {
+      "name": "Slat Mesh Filter",
+      "uid": "TMechworks:MeshFilter",
+      "meta": 2,
+      "color": "#976f24"
+    },
+    {
+      "name": "Slime Brick",
+      "uid": "TConstruct:decoration.multibrick",
+      "meta": 10,
+      "color": "#59bf04"
+    },
+    {
+      "name": "Slime Brick",
+      "uid": "TConstruct:decoration.multibrick",
+      "meta": 11,
+      "color": "#04babf"
+    },
+    {
+      "name": "Slime Channel",
+      "uid": "TConstruct:slime.channel",
+      "meta": 0,
+      "color": "#17af58",
+      "alpha": 0.3
+    },
+    {
+      "name": "Slime Soil",
+      "uid": "TConstruct:CraftedSoil",
+      "meta": 6,
+      "color": "#773911"
+    },
+    {
+      "name": "Slimy Grass",
+      "uid": "TConstruct:slime.grass",
+      "meta": 0,
+      "color": "#3acc5d"
+    },
+    {
+      "name": "Slimy Grass",
+      "uid": "TConstruct:slime.grass.tall",
+      "meta": 0,
+      "color": "#359b9b"
+    },
+    {
+      "name": "Slimy Leaves",
+      "uid": "TConstruct:slime.leaves",
+      "meta": 0,
+      "color": "#67cfcc"
+    },
+    {
+      "name": "Slimy Mud",
+      "uid": "TConstruct:CraftedSoil",
+      "meta": 0,
+      "color": "#2c5805"
+    },
+    {
+      "name": "Slimy Mud",
+      "uid": "TConstruct:CraftedSoil",
+      "meta": 2,
+      "color": "#054f58"
+    },
+    {
+      "name": "Slimy Sapling",
+      "uid": "TConstruct:slime.sapling",
+      "meta": 0,
+      "color": "#4cc38b"
+    },
+    {
+      "name": "Small Bone Segment",
+      "uid": "BiomesOPlenty:bones",
+      "meta": 0,
+      "color": "#edebc9"
+    },
+    {
+      "name": "Small Lily Pad",
+      "uid": "BiomesOPlenty:lilyBop",
+      "meta": 1,
+      "color": "#0d3524"
+    },
+    {
+      "name": "Smeltery Controller",
+      "uid": "TConstruct:Smeltery",
+      "meta": 0,
+      "color": "#353535"
+    },
+    {
+      "name": "Smeltery Controller",
+      "uid": "TConstruct:SmelteryNether",
+      "meta": 0,
+      "color": "#1f140a"
+    },
+    {
+      "name": "Smeltery Drain",
+      "uid": "TConstruct:Smeltery",
+      "meta": 1,
+      "color": "#383838"
+    },
+    {
+      "name": "Smeltery Drain",
+      "uid": "TConstruct:SmelteryNether",
+      "meta": 1,
+      "color": "#20140a"
+    },
+    {
+      "name": "Smoldering Grass Block",
+      "uid": "BiomesOPlenty:bopGrass",
+      "meta": 1,
+      "color": "#614131"
+    },
+    {
+      "name": "Smooth Sandstone",
+      "uid": "minecraft:sandstone",
+      "meta": 2,
+      "color": "#dad29e"
+    },
+    {
+      "name": "Snow",
+      "uid": "minecraft:snow",
+      "meta": 0,
+      "color": "#effbfb"
+    },
+    {
+      "name": "Snow",
+      "uid": "minecraft:snow_layer",
+      "meta": 0,
+      "color": "#effbfb"
+    },
+    {
+      "name": "Soul Sand",
+      "uid": "minecraft:soul_sand",
+      "meta": 0,
+      "color": "#544033"
+    },
+    {
+      "name": "Spectral Fern",
+      "uid": "BiomesOPlenty:plants",
+      "meta": 4,
+      "color": "#743e36"
+    },
+    {
+      "name": "Spectral Moss",
+      "uid": "BiomesOPlenty:bopGrass",
+      "meta": 0,
+      "color": "#995247"
+    },
+    {
+      "name": "Sponge",
+      "uid": "minecraft:sponge",
+      "meta": 0,
+      "color": "#b6b639"
+    },
+    {
+      "name": "Spot Loader",
+      "uid": "ChickenChunks:chickenChunkLoader",
+      "meta": 1,
+      "color": "#55a676"
+    },
+    {
+      "name": "Spruce Barricade",
+      "uid": "TConstruct:trap.barricade.spruce",
+      "meta": 0,
+      "color": "#2d1c0c"
+    },
+    {
+      "name": "Spruce Leaves",
+      "uid": "minecraft:leaves",
+      "meta": 1,
+      "color": "#747474"
+    },
+    {
+      "name": "Spruce Sapling",
+      "uid": "minecraft:sapling",
+      "meta": 1,
+      "color": "#333a21"
+    },
+    {
+      "name": "Spruce Wood",
+      "uid": "minecraft:log",
+      "meta": 1,
+      "color": "#685130"
+    },
+    {
+      "name": "Spruce Wood Planks",
+      "uid": "minecraft:planks",
+      "meta": 1,
+      "color": "#674d2e"
+    },
+    {
+      "name": "Spruce Wood Slab",
+      "uid": "minecraft:wooden_slab",
+      "meta": 1,
+      "color": "#674d2e"
+    },
+    {
+      "name": "Spruce Wood Stairs",
+      "uid": "minecraft:spruce_stairs",
+      "meta": 0,
+      "color": "#674d2e"
+    },
+    {
+      "name": "Stalactite",
+      "uid": "BiomesOPlenty:stoneFormations",
+      "meta": 1,
+      "color": "#424242"
+    },
+    {
+      "name": "Stalagmite",
+      "uid": "BiomesOPlenty:stoneFormations",
+      "meta": 0,
+      "color": "#7f7f7f"
+    },
+    {
+      "name": "Stencil Table",
+      "uid": "TConstruct:CraftingSlab",
+      "meta": 3,
+      "color": "#8b7043"
+    },
+    {
+      "name": "Stencil Table",
+      "uid": "TConstruct:ToolStationBlock",
+      "meta": 10,
+      "color": "#8b7043"
+    },
+    {
+      "name": "Stencil Table",
+      "uid": "TConstruct:ToolStationBlock",
+      "meta": 11,
+      "color": "#8b7043"
+    },
+    {
+      "name": "Stencil Table",
+      "uid": "TConstruct:ToolStationBlock",
+      "meta": 12,
+      "color": "#8b7043"
+    },
+    {
+      "name": "Stencil Table",
+      "uid": "TConstruct:ToolStationBlock",
+      "meta": 13,
+      "color": "#8b7043"
+    },
+    {
+      "name": "Sticky Piston",
+      "uid": "minecraft:sticky_piston",
+      "meta": 0,
+      "color": "#606060"
+    },
+    {
+      "name": "Stone",
+      "uid": "minecraft:stone",
+      "meta": 0,
+      "color": "#7d7d7d"
+    },
+    {
+      "name": "Stone Brick Stairs",
+      "uid": "minecraft:stone_brick_stairs",
+      "meta": 0,
+      "color": "#7a7a7a"
+    },
+    {
+      "name": "Stone Bricks",
+      "uid": "minecraft:stonebrick",
+      "meta": 0,
+      "color": "#7a7a7a"
+    },
+    {
+      "name": "Stone Bricks Slab",
+      "uid": "minecraft:stone_slab",
+      "meta": 5,
+      "color": "#7a7a7a"
+    },
+    {
+      "name": "Stone Monster Egg",
+      "uid": "minecraft:monster_egg",
+      "meta": 0,
+      "color": "#7d7d7d"
+    },
+    {
+      "name": "Stone Monster Egg",
+      "uid": "minecraft:monster_egg",
+      "meta": 1,
+      "color": "#7a7a7a"
+    },
+    {
+      "name": "Stone Monster Egg",
+      "uid": "minecraft:monster_egg",
+      "meta": 2,
+      "color": "#7a7a7a"
+    },
+    {
+      "name": "Stone Monster Egg",
+      "uid": "minecraft:monster_egg",
+      "meta": 3,
+      "color": "#72776a"
+    },
+    {
+      "name": "Stone Monster Egg",
+      "uid": "minecraft:monster_egg",
+      "meta": 4,
+      "color": "#767676"
+    },
+    {
+      "name": "Stone Monster Egg",
+      "uid": "minecraft:monster_egg",
+      "meta": 5,
+      "color": "#767676"
+    },
+    {
+      "name": "Stone Road",
+      "uid": "TConstruct:decoration.multibrickfancy",
+      "meta": 15,
+      "color": "#797979"
+    },
+    {
+      "name": "Stone Slab",
+      "uid": "minecraft:stone_slab",
+      "meta": 0,
+      "color": "#9f9f9f"
+    },
+    {
+      "name": "Stone Stairs",
+      "uid": "minecraft:stone_stairs",
+      "meta": 0,
+      "color": "#7a7a7a"
+    },
+    {
+      "name": "String",
+      "uid": "minecraft:tripwire",
+      "meta": 0,
+      "color": "#818181",
+      "alpha": 0.41960785
+    },
+    {
+      "name": "Sugar Canes",
+      "uid": "minecraft:reeds",
+      "meta": 0,
+      "color": "#94c065"
+    },
+    {
+      "name": "Sunflower",
+      "uid": "minecraft:double_plant",
+      "meta": 0,
+      "color": "#436f2d"
+    },
+    {
+      "name": "Swampflower",
+      "uid": "BiomesOPlenty:flowers",
+      "meta": 1,
+      "color": "#1d6263"
+    },
+    {
+      "name": "TNT",
+      "uid": "minecraft:tnt",
+      "meta": 0,
+      "color": "#82412f"
+    },
+    {
+      "name": "Thorns",
+      "uid": "BiomesOPlenty:plants",
+      "meta": 5,
+      "color": "#655a4e"
+    },
+    {
+      "name": "Tin Gravel Ore",
+      "uid": "TConstruct:GravelOre",
+      "meta": 3,
+      "color": "#7c716c"
+    },
+    {
+      "name": "Tin Ore",
+      "uid": "TConstruct:SearedBrick",
+      "meta": 4,
+      "color": "#7b736e"
+    },
+    {
+      "name": "Tin Oreberry Bush",
+      "uid": "TConstruct:ore.berries.one",
+      "meta": 11,
+      "color": "#7d492a"
+    },
+    {
+      "name": "Tiny Cactus",
+      "uid": "BiomesOPlenty:plants",
+      "meta": 12,
+      "color": "#56701e"
+    },
+    {
+      "name": "Tiny Lily Pad",
+      "uid": "BiomesOPlenty:lilyBop",
+      "meta": 2,
+      "color": "#25320d"
+    },
+    {
+      "name": "Toadstool",
+      "uid": "BiomesOPlenty:mushrooms",
+      "meta": 0,
+      "color": "#8a5741"
+    },
+    {
+      "name": "Tool Forge",
+      "uid": "TConstruct:CraftingSlab",
+      "meta": 5,
+      "color": "#3c3c3c"
+    },
+    {
+      "name": "Tool Forge",
+      "uid": "TConstruct:ToolForgeBlock",
+      "meta": 0,
+      "color": "#3c3c3c"
+    },
+    {
+      "name": "Tool Forge",
+      "uid": "TConstruct:ToolForgeBlock",
+      "meta": 1,
+      "color": "#3c3c3c"
+    },
+    {
+      "name": "Tool Forge",
+      "uid": "TConstruct:ToolForgeBlock",
+      "meta": 2,
+      "color": "#3c3c3c"
+    },
+    {
+      "name": "Tool Forge",
+      "uid": "TConstruct:ToolForgeBlock",
+      "meta": 3,
+      "color": "#3c3c3c"
+    },
+    {
+      "name": "Tool Forge",
+      "uid": "TConstruct:ToolForgeBlock",
+      "meta": 4,
+      "color": "#3c3c3c"
+    },
+    {
+      "name": "Tool Forge",
+      "uid": "TConstruct:ToolForgeBlock",
+      "meta": 5,
+      "color": "#3c3c3c"
+    },
+    {
+      "name": "Tool Forge",
+      "uid": "TConstruct:ToolForgeBlock",
+      "meta": 6,
+      "color": "#3c3c3c"
+    },
+    {
+      "name": "Tool Forge",
+      "uid": "TConstruct:ToolForgeBlock",
+      "meta": 7,
+      "color": "#3c3c3c"
+    },
+    {
+      "name": "Tool Forge",
+      "uid": "TConstruct:ToolForgeBlock",
+      "meta": 8,
+      "color": "#3c3c3c"
+    },
+    {
+      "name": "Tool Forge",
+      "uid": "TConstruct:ToolForgeBlock",
+      "meta": 9,
+      "color": "#3c3c3c"
+    },
+    {
+      "name": "Tool Forge",
+      "uid": "TConstruct:ToolForgeBlock",
+      "meta": 10,
+      "color": "#3c3c3c"
+    },
+    {
+      "name": "Tool Forge",
+      "uid": "TConstruct:ToolForgeBlock",
+      "meta": 11,
+      "color": "#3c3c3c"
+    },
+    {
+      "name": "Tool Forge",
+      "uid": "TConstruct:ToolForgeBlock",
+      "meta": 12,
+      "color": "#3c3c3c"
+    },
+    {
+      "name": "Tool Forge",
+      "uid": "TConstruct:ToolForgeBlock",
+      "meta": 13,
+      "color": "#3c3c3c"
+    },
+    {
+      "name": "Tool Station",
+      "uid": "TConstruct:CraftingSlab",
+      "meta": 1,
+      "color": "#82683d"
+    },
+    {
+      "name": "Tool Station",
+      "uid": "TConstruct:ToolStationBlock",
+      "meta": 0,
+      "color": "#82683d"
+    },
+    {
+      "name": "Topaz Ore",
+      "uid": "BiomesOPlenty:gemOre",
+      "meta": 12,
+      "color": "#6e7c86"
+    },
+    {
+      "name": "Torch",
+      "uid": "TConstruct:decoration.stonetorch",
+      "meta": 0,
+      "color": "#817962"
+    },
+    {
+      "name": "Torch",
+      "uid": "minecraft:torch",
+      "meta": 0,
+      "color": "#826a3a"
+    },
+    {
+      "name": "Trapdoor",
+      "uid": "minecraft:trapdoor",
+      "meta": 0,
+      "color": "#7e5d2d"
+    },
+    {
+      "name": "Trapped Chest",
+      "uid": "minecraft:trapped_chest",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Tree Moss",
+      "uid": "BiomesOPlenty:treeMoss",
+      "meta": 0,
+      "color": "#232431",
+      "alpha": 0.2
+    },
+    {
+      "name": "Tripwire Hook",
+      "uid": "minecraft:tripwire_hook",
+      "meta": 0,
+      "color": "#8a8171"
+    },
+    {
+      "name": "Turnip",
+      "uid": "BiomesOPlenty:turnip",
+      "meta": 0,
+      "color": "#02b410"
+    },
+    {
+      "name": "Vines",
+      "uid": "minecraft:vine",
+      "meta": 0,
+      "color": "#6f6f6f",
+      "alpha": 0.2
+    },
+    {
+      "name": "Violet",
+      "uid": "BiomesOPlenty:flowers",
+      "meta": 8,
+      "color": "#656578"
+    },
+    {
+      "name": "Water",
+      "uid": "minecraft:flowing_water",
+      "meta": 0,
+      "color": "#2e43f4",
+      "alpha": 0.3
+    },
+    {
+      "name": "Water",
+      "uid": "minecraft:water",
+      "meta": 0,
+      "color": "#2e43f4",
+      "alpha": 0.3
+    },
+    {
+      "name": "Waterlily",
+      "uid": "BiomesOPlenty:flowers",
+      "meta": 10,
+      "color": "#bbbec5"
+    },
+    {
+      "name": "Weighted Pressure Plate (Heavy)",
+      "uid": "minecraft:heavy_weighted_pressure_plate",
+      "meta": 0,
+      "color": "#dbdbdb"
+    },
+    {
+      "name": "Weighted Pressure Plate (Light)",
+      "uid": "minecraft:light_weighted_pressure_plate",
+      "meta": 0,
+      "color": "#f9ec4e"
+    },
+    {
+      "name": "White Anemone",
+      "uid": "BiomesOPlenty:flowers",
+      "meta": 9,
+      "color": "#99b68b"
+    },
+    {
+      "name": "White Cherry Leaves",
+      "uid": "BiomesOPlenty:leaves3",
+      "meta": 2,
+      "color": "#451b1b"
+    },
+    {
+      "name": "White Cherry Sapling",
+      "uid": "BiomesOPlenty:saplings",
+      "meta": 12,
+      "color": "#7e5e5c"
+    },
+    {
+      "name": "White Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 0,
+      "color": "#d1b2a1"
+    },
+    {
+      "name": "White Stained Glass",
+      "uid": "TConstruct:GlassBlock.StainedClear",
+      "meta": 0,
+      "color": "#d8e9ec",
+      "alpha": 0.4
+    },
+    {
+      "name": "White Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 0,
+      "color": "#ffffff",
+      "alpha": 0.4
+    },
+    {
+      "name": "White Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 0,
+      "color": "#ffffff",
+      "alpha": 0.4
+    },
+    {
+      "name": "White Stained Pane",
+      "uid": "TConstruct:GlassPaneClearStained",
+      "meta": 0,
+      "color": "#d8e9ec",
+      "alpha": 0.4
+    },
+    {
+      "name": "White Tulip",
+      "uid": "minecraft:red_flower",
+      "meta": 6,
+      "color": "#b0b0b0"
+    },
+    {
+      "name": "Wide Mesh Filter",
+      "uid": "TMechworks:MeshFilter",
+      "meta": 1,
+      "color": "#976f24"
+    },
+    {
+      "name": "Wild Rice",
+      "uid": "BiomesOPlenty:plants",
+      "meta": 6,
+      "color": "#827e4b"
+    },
+    {
+      "name": "Wildflower",
+      "uid": "BiomesOPlenty:flowers",
+      "meta": 7,
+      "color": "#8c608a"
+    },
+    {
+      "name": "Willow",
+      "uid": "BiomesOPlenty:willow",
+      "meta": 0,
+      "color": "#757575",
+      "alpha": 0.2
+    },
+    {
+      "name": "Willow Leaves",
+      "uid": "BiomesOPlenty:colorizedLeaves2",
+      "meta": 0,
+      "color": "#515151"
+    },
+    {
+      "name": "Willow Sapling",
+      "uid": "BiomesOPlenty:colorizedSaplings",
+      "meta": 4,
+      "color": "#325634"
+    },
+    {
+      "name": "Willow Wood",
+      "uid": "BiomesOPlenty:logs3",
+      "meta": 1,
+      "color": "#808d5d"
+    },
+    {
+      "name": "Willow Wood Planks",
+      "uid": "BiomesOPlenty:planks",
+      "meta": 9,
+      "color": "#768052"
+    },
+    {
+      "name": "Willow Wood Slab",
+      "uid": "BiomesOPlenty:woodenDoubleSlab2",
+      "meta": 1,
+      "color": "#768052"
+    },
+    {
+      "name": "Willow Wood Slab",
+      "uid": "BiomesOPlenty:woodenSingleSlab2",
+      "meta": 1,
+      "color": "#768052"
+    },
+    {
+      "name": "Willow Wood Stairs",
+      "uid": "BiomesOPlenty:willowStairs",
+      "meta": 0,
+      "color": "#768052"
+    },
+    {
+      "name": "Wisteria",
+      "uid": "BiomesOPlenty:wisteria",
+      "meta": 0,
+      "color": "#b895b5",
+      "alpha": 0.2
+    },
+    {
+      "name": "Wither Wart",
+      "uid": "BiomesOPlenty:plants",
+      "meta": 13,
+      "color": "#5a1a1e"
+    },
+    {
+      "name": "Wooden Door",
+      "uid": "minecraft:wooden_door",
+      "meta": 0,
+      "color": "#866532"
+    },
+    {
+      "name": "Wooden Rail",
+      "uid": "TConstruct:rail.wood",
+      "meta": 0,
+      "color": "#7b6239"
+    },
+    {
+      "name": "Wool",
+      "uid": "minecraft:wool",
+      "meta": 0,
+      "color": "#dddddd"
+    },
+    {
+      "name": "WyvernLair Dirt",
+      "uid": "MoCreatures:MoCDirt",
+      "meta": 0,
+      "color": "#5b4d3c"
+    },
+    {
+      "name": "WyvernLair Grass",
+      "uid": "MoCreatures:MoCGrass",
+      "meta": 0,
+      "color": "#3a3054"
+    },
+    {
+      "name": "WyvernLair Leaves",
+      "uid": "MoCreatures:MoCLeaves",
+      "meta": 0,
+      "color": "#1d6568"
+    },
+    {
+      "name": "WyvernLair Log",
+      "uid": "MoCreatures:MoCLog",
+      "meta": 0,
+      "color": "#b6b2a9"
+    },
+    {
+      "name": "WyvernLair Stone",
+      "uid": "MoCreatures:MoCStone",
+      "meta": 0,
+      "color": "#7d7b6e"
+    },
+    {
+      "name": "WyvernLair Tall Grass",
+      "uid": "MoCreatures:MoCTallGrass",
+      "meta": 0,
+      "color": "#493c69",
+      "alpha": 0.99215686
+    },
+    {
+      "name": "WyvernLair Wood Plank",
+      "uid": "MoCreatures:MoCWoodPlank",
+      "meta": 0,
+      "color": "#4e9c98"
+    },
+    {
+      "name": "Yellow Autumn Leaves",
+      "uid": "BiomesOPlenty:leaves1",
+      "meta": 3,
+      "color": "#1b1c26"
+    },
+    {
+      "name": "Yellow Autumn Sapling",
+      "uid": "BiomesOPlenty:saplings",
+      "meta": 1,
+      "color": "#928858"
+    },
+    {
+      "name": "Yellow Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 4,
+      "color": "#b1a627"
+    },
+    {
+      "name": "Yellow Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 4,
+      "color": "#ba8523"
+    },
+    {
+      "name": "Yellow Stained Glass",
+      "uid": "TConstruct:GlassBlock.StainedClear",
+      "meta": 4,
+      "color": "#deda68",
+      "alpha": 0.4
+    },
+    {
+      "name": "Yellow Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 4,
+      "color": "#e5e533",
+      "alpha": 0.4
+    },
+    {
+      "name": "Yellow Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 4,
+      "color": "#e5e533",
+      "alpha": 0.4
+    },
+    {
+      "name": "Yellow Stained Pane",
+      "uid": "TConstruct:GlassPaneClearStained",
+      "meta": 4,
+      "color": "#deda68",
+      "alpha": 0.4
+    },
+    {
+      "name": "Yellow Wool",
+      "uid": "minecraft:wool",
+      "meta": 4,
+      "color": "#b1a627"
+    },
+    {
+      "name": "cake",
+      "uid": "minecraft:cake",
+      "meta": 0,
+      "color": "#e4cdce"
+    },
+    {
+      "name": "netherStalk",
+      "uid": "minecraft:nether_wart",
+      "meta": 0,
+      "color": "#6a0e1e"
+    },
+    {
+      "name": "null",
+      "uid": "minecraft:piston_extension",
+      "meta": 0,
+      "color": "#998159"
+    },
+    {
+      "name": "null",
+      "uid": "minecraft:piston_head",
+      "meta": 0,
+      "color": "#998159"
+    },
+    {
+      "name": "pumpkinStem",
+      "uid": "minecraft:melon_stem",
+      "meta": 0,
+      "color": "#999999"
+    },
+    {
+      "name": "pumpkinStem",
+      "uid": "minecraft:pumpkin_stem",
+      "meta": 0,
+      "color": "#999999"
+    },
+    {
+      "name": "tile.Battlesign.name",
+      "uid": "TConstruct:BattleSignBlock",
+      "meta": 0,
+      "color": "#dbdbdb"
+    },
+    {
+      "name": "tile.leaves4.yellowautumn.name",
+      "uid": "BiomesOPlenty:leaves4",
+      "meta": 1,
+      "color": "#3e3151"
+    },
+    {
+      "name": "tile.null.name",
+      "uid": "minecraft:end_portal",
+      "meta": 0,
+      "color": "#560abe"
+    }
+  ]
+}
