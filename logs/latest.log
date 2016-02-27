@@ -1,11 +1,71 @@
-[09:28:35] [main/INFO]: Setting user: 1ExplosiveTaco
-[09:28:36] [Client thread/INFO]: LWJGL Version: 2.9.1
-[09:28:45] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
-[09:28:46] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[09:28:46] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[09:28:46] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
-[09:28:46] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[09:28:46] [Sound Library Loader/INFO]: Sound engine started
-[09:28:46] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[09:28:48] [Sound Library Loader/INFO]: Sound engine started
-[09:28:52] [Client thread/INFO]: Stopping!
+[09:45:17] [main/INFO]: Setting user: 1ExplosiveTaco
+[09:45:18] [Client thread/INFO]: LWJGL Version: 2.9.1
+[09:45:28] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Battle Towers, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:DrZhark's CustomSpawner, FMLFileResourcePack:DrZhark's Mo'Creatures Mod, FMLFileResourcePack:Dynamic Lights, FMLFileResourcePack:Dynamic Lights Burning Entity Module, FMLFileResourcePack:Dynamic Lights Creeper Module, FMLFileResourcePack:Dynamic Lights EntityItem Module, FMLFileResourcePack:Dynamic Lights Entity Light Module, FMLFileResourcePack:Dynamic Lights Mob Equipment Light Module, FMLFileResourcePack:Dynamic Lights Fiery Arrows Light Module, FMLFileResourcePack:Dynamic Lights Flood Light, FMLFileResourcePack:Dynamic Lights OtherPlayers Light Module, FMLFileResourcePack:Dynamic Lights Player Light Module, FMLFileResourcePack:Infernal Mobs, FMLFileResourcePack:Pet Bat
+[09:45:31] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[09:45:31] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[09:45:32] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Battle Towers, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:DrZhark's CustomSpawner, FMLFileResourcePack:DrZhark's Mo'Creatures Mod, FMLFileResourcePack:Dynamic Lights, FMLFileResourcePack:Dynamic Lights Burning Entity Module, FMLFileResourcePack:Dynamic Lights Creeper Module, FMLFileResourcePack:Dynamic Lights EntityItem Module, FMLFileResourcePack:Dynamic Lights Entity Light Module, FMLFileResourcePack:Dynamic Lights Mob Equipment Light Module, FMLFileResourcePack:Dynamic Lights Fiery Arrows Light Module, FMLFileResourcePack:Dynamic Lights Flood Light, FMLFileResourcePack:Dynamic Lights OtherPlayers Light Module, FMLFileResourcePack:Dynamic Lights Player Light Module, FMLFileResourcePack:Infernal Mobs, FMLFileResourcePack:Pet Bat
+[09:45:32] [Sound Library Loader/INFO]: Sound engine started
+[09:45:32] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
+[09:45:33] [Client thread/INFO]: Created: 512x256 textures/items-atlas
+[09:45:34] [Sound Library Loader/INFO]: Sound engine started
+[09:45:36] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[09:45:36] [Server thread/INFO]: Generating keypair
+[09:45:42] [Server thread/INFO]: Preparing start region for level 0
+[09:45:43] [Server thread/INFO]: Preparing spawn area: 64%
+[09:45:44] [Server thread/INFO]: Changing view distance to 8, from 10
+[09:45:45] [Server thread/INFO]: 1ExplosiveTaco[local:E:c692cf18] logged in with entity id 1324 at (171.39391973774661, 112.89418992835171, 1011.2947156681156)
+[09:45:45] [Server thread/INFO]: 1ExplosiveTaco joined the game
+[09:45:47] [Client thread/INFO]: Warning: Clientside chunk ticking took 194 ms
+[09:45:51] [Client thread/INFO]: Warning: Clientside chunk ticking took 216 ms
+[09:45:59] [Client thread/WARN]: Unable to play unknown soundEvent: mocreatures:entgrunt
+[09:46:05] [Client thread/INFO]: Warning: Clientside chunk ticking took 129 ms
+[09:46:05] [Client thread/INFO]: Warning: Clientside chunk ticking took 143 ms
+[09:46:16] [Client thread/INFO]: Warning: Clientside chunk ticking took 201 ms
+[09:46:24] [Server thread/INFO]: Saving and pausing game...
+[09:46:24] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[09:46:24] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[09:46:24] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[09:46:24] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
+[09:47:14] [Client thread/INFO]: Warning: Clientside chunk ticking took 106 ms
+[09:47:16] [Client thread/INFO]: Warning: Clientside chunk ticking took 119 ms
+[09:47:19] [Client thread/INFO]: Warning: Clientside chunk ticking took 165 ms
+[09:47:20] [Server thread/INFO]: Saving and pausing game...
+[09:47:20] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[09:47:20] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[09:47:20] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[09:47:20] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
+[09:47:24] [Server thread/INFO]: [1ExplosiveTaco: Set own game mode to Survival Mode]
+[09:47:24] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[09:47:28] [Server thread/INFO]: Saving and pausing game...
+[09:47:28] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[09:47:28] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[09:47:28] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[09:47:28] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
+[09:48:20] [Client thread/INFO]: Warning: Clientside chunk ticking took 118 ms
+[09:48:50] [Server thread/INFO]: Saving and pausing game...
+[09:48:50] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[09:48:50] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[09:48:50] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[09:48:50] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
+[09:48:55] [Server thread/INFO]: [1ExplosiveTaco: Set own game mode to Creative Mode]
+[09:48:55] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[09:48:56] [Server thread/INFO]: 1ExplosiveTaco has just earned the achievement [Taking Inventory]
+[09:48:56] [Client thread/INFO]: [CHAT] 1ExplosiveTaco has just earned the achievement [Taking Inventory]
+[09:48:57] [Server thread/INFO]: Saving and pausing game...
+[09:48:57] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[09:48:57] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[09:48:57] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[09:48:57] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
+[09:49:38] [Server thread/INFO]: Saving and pausing game...
+[09:49:38] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[09:49:38] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[09:49:38] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[09:49:38] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
+[09:49:39] [Server thread/INFO]: Stopping server
+[09:49:39] [Server thread/INFO]: Saving players
+[09:49:39] [Server thread/INFO]: Saving worlds
+[09:49:39] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[09:49:39] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[09:49:39] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[09:49:39] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
+[09:49:45] [Client thread/INFO]: Stopping!
