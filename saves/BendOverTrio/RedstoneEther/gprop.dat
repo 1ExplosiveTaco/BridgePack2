@@ -1,5 +1,6 @@
 PublicFrequencies=1000
 PrivateFrequencies=50
 SharedFrequencies=5000
+dinosur.jammedFreqs=
 rakes.jammedFreqs=
 1explosivetaco.jammedFreqs=

@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 5.1.4 Unlimited for 1.7.10 on Sat Feb 27 14:36:36 EST 2016",
+  "generated": "Generated using JourneyMap 5.1.4 Unlimited for 1.7.10 on Sat Feb 27 20:54:07 EST 2016",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -2020,8 +2020,7 @@ var colorpalette={
       "name": "Auto Anvil",
       "uid": "OpenBlocks:autoanvil",
       "meta": 0,
-      "color": "#404040",
-      "alpha": 0.99607843
+      "color": "#404040"
     },
     {
       "name": "Auto Enchantment Table",
@@ -2461,8 +2460,7 @@ var colorpalette={
       "name": "Blazing Pyrotheum",
       "uid": "ThermalFoundation:FluidPyrotheum",
       "meta": 0,
-      "color": "#feba2d",
-      "alpha": 0.8666667
+      "color": "#feba2d"
     },
     {
       "name": "Bleached Bone Block",
@@ -3387,8 +3385,7 @@ var colorpalette={
       "name": "Building Guide",
       "uid": "OpenBlocks:guide",
       "meta": 0,
-      "color": "#cccccc",
-      "alpha": 0.58431375
+      "color": "#cccccc"
     },
     {
       "name": "Burning Blossom",
@@ -5406,8 +5403,7 @@ var colorpalette={
       "name": "Construction Mark",
       "uid": "BuildCraft|Builders:constructionMarkerBlock",
       "meta": 0,
-      "color": "#ac9a5e",
-      "alpha": 0.99607843
+      "color": "#ac9a5e"
     },
     {
       "name": "Conveyor Belt",
@@ -6735,8 +6731,7 @@ var colorpalette={
       "name": "Ectoplasm",
       "uid": "ExtraBees:ectoplasm",
       "meta": 0,
-      "color": "#6dbd85",
-      "alpha": 0.9882353
+      "color": "#6dbd85"
     },
     {
       "name": "Edged Glass",
@@ -7025,8 +7020,7 @@ var colorpalette={
       "name": "Energized Glowstone",
       "uid": "ThermalFoundation:FluidGlowstone",
       "meta": 0,
-      "color": "#fdd402",
-      "alpha": 0.8
+      "color": "#fdd402"
     },
     {
       "name": "Energy Extraction Pipe",
@@ -7056,8 +7050,7 @@ var colorpalette={
       "name": "Enhanced Building Guide",
       "uid": "OpenBlocks:builder_guide",
       "meta": 0,
-      "color": "#cccccc",
-      "alpha": 0.58431375
+      "color": "#cccccc"
     },
     {
       "name": "Epic Ship",
@@ -7069,8 +7062,7 @@ var colorpalette={
       "name": "Escritoire",
       "uid": "Forestry:core",
       "meta": 1,
-      "color": "#8a4f1f",
-      "alpha": 0.99607843
+      "color": "#8a4f1f"
     },
     {
       "name": "Essence Berry Bush",
@@ -8490,8 +8482,7 @@ var colorpalette={
       "name": "Gelid Cryotheum",
       "uid": "ThermalFoundation:FluidCryotheum",
       "meta": 0,
-      "color": "#23befa",
-      "alpha": 0.8980392
+      "color": "#23befa"
     },
     {
       "name": "Ghostwood",
@@ -9642,8 +9633,7 @@ var colorpalette={
       "name": "Ice Wall",
       "uid": "Railcraft:wall.alpha",
       "meta": 4,
-      "color": "#7dadff",
-      "alpha": 0.62352943
+      "color": "#7dadff"
     },
     {
       "name": "Icy Iris",
@@ -12201,8 +12191,7 @@ var colorpalette={
       "name": "Liquid Glass",
       "uid": "Forestry:fluid.glass",
       "meta": 0,
-      "color": "#a3a3a3",
-      "alpha": 0.7019608
+      "color": "#a3a3a3"
     },
     {
       "name": "Liquid Tin",
@@ -12564,8 +12553,7 @@ var colorpalette={
       "name": "Magic Pencil",
       "uid": "OpenBlocks:imaginary",
       "meta": 0,
-      "color": "#000000",
-      "alpha": 0.12156863
+      "color": "#000000"
     },
     {
       "name": "Magic Sapling",
@@ -13024,8 +13012,7 @@ var colorpalette={
       "name": "Molten Glass",
       "uid": "TConstruct:fluid.molten.glass",
       "meta": 0,
-      "color": "#9feefd",
-      "alpha": 0.69803923
+      "color": "#9feefd"
     },
     {
       "name": "Molten Gold",
@@ -15001,8 +14988,7 @@ var colorpalette={
       "name": "Path Mark",
       "uid": "BuildCraft|Core:pathMarkerBlock",
       "meta": 0,
-      "color": "#8d9958",
-      "alpha": 0.99607843
+      "color": "#8d9958"
     },
     {
       "name": "Pattern Chest",
@@ -15038,8 +15024,7 @@ var colorpalette={
       "name": "Peony",
       "uid": "minecraft:double_plant",
       "meta": 5,
-      "color": "#84858d",
-      "alpha": 0.99607843
+      "color": "#84858d"
     },
     {
       "name": "Peridot Ore",
@@ -15460,15 +15445,13 @@ var colorpalette={
       "name": "Primal Mana",
       "uid": "ThermalFoundation:FluidMana",
       "meta": 0,
-      "color": "#3b0070",
-      "alpha": 0.9019608
+      "color": "#3b0070"
     },
     {
       "name": "Programming Table",
       "uid": "BuildCraft|Silicon:laserTableBlock",
       "meta": 4,
-      "color": "#343435",
-      "alpha": 0.972549
+      "color": "#343435"
     },
     {
       "name": "Pulverizer (Basic)",
@@ -15589,7 +15572,7 @@ var colorpalette={
       "color": "#511427"
     },
     {
-      "name": "QED (Quark/Electron Director)",
+      "name": "QED (Quantum Energy Device)",
       "uid": "ExtraUtilities:endConstructor",
       "meta": 0,
       "color": "#3d5a45"
@@ -16165,8 +16148,7 @@ var colorpalette={
       "name": "Resonant Ender",
       "uid": "ThermalFoundation:FluidEnder",
       "meta": 0,
-      "color": "#083b3b",
-      "alpha": 0.8509804
+      "color": "#083b3b"
     },
     {
       "name": "Resonant Energy Cell",
@@ -16548,8 +16530,7 @@ var colorpalette={
       "name": "Sandy Brick Slab",
       "uid": "Railcraft:slab",
       "meta": 4,
-      "color": "#7dadff",
-      "alpha": 0.62352943
+      "color": "#7dadff"
     },
     {
       "name": "Sandy Brick Slab",
@@ -16813,8 +16794,7 @@ var colorpalette={
       "name": "Sandy Brick Stairs",
       "uid": "Railcraft:stair",
       "meta": 4,
-      "color": "#7dadff",
-      "alpha": 0.62352943
+      "color": "#7dadff"
     },
     {
       "name": "Sandy Brick Stairs",
@@ -18045,15 +18025,13 @@ var colorpalette={
       "name": "Steam",
       "uid": "Railcraft:fluid.steam",
       "meta": 0,
-      "color": "#a2a2a2",
-      "alpha": 0.7490196
+      "color": "#a2a2a2"
     },
     {
       "name": "Steam",
       "uid": "ThermalFoundation:FluidSteam",
       "meta": 0,
-      "color": "#b2b2b2",
-      "alpha": 0.8
+      "color": "#b2b2b2"
     },
     {
       "name": "Steam Dynamo",
@@ -18399,8 +18377,7 @@ var colorpalette={
       "name": "String",
       "uid": "minecraft:tripwire",
       "meta": 0,
-      "color": "#818181",
-      "alpha": 0.41960785
+      "color": "#818181"
     },
     {
       "name": "Strongbox",
@@ -18653,8 +18630,7 @@ var colorpalette={
       "name": "Terminal Glasses Bridge",
       "uid": "OpenPeripheral:glassesbridge",
       "meta": 0,
-      "color": "#4b4d50",
-      "alpha": 0.99607843
+      "color": "#4b4d50"
     },
     {
       "name": "Terrain Smasher",
@@ -19714,22 +19690,19 @@ var colorpalette={
       "name": "Wither Spawner",
       "uid": "GraveStone:GSSpawner",
       "meta": 0,
-      "color": "#ffffff",
-      "alpha": 0.56078434
+      "color": "#ffffff"
     },
     {
       "name": "Wither Spawner",
       "uid": "GraveStone:GSSpawner",
       "meta": 1,
-      "color": "#ffffff",
-      "alpha": 0.56078434
+      "color": "#ffffff"
     },
     {
       "name": "Wither Spawner",
       "uid": "GraveStone:GSSpawner",
       "meta": 2,
-      "color": "#ffffff",
-      "alpha": 0.56078434
+      "color": "#ffffff"
     },
     {
       "name": "Wither Wart",
@@ -19825,8 +19798,7 @@ var colorpalette={
       "name": "WyvernLair Tall Grass",
       "uid": "MoCreatures:MoCTallGrass",
       "meta": 0,
-      "color": "#493c69",
-      "alpha": 0.99215686
+      "color": "#493c69"
     },
     {
       "name": "WyvernLair Wood Plank",
@@ -19945,8 +19917,7 @@ var colorpalette={
       "name": "Zephyrean Aerotheum",
       "uid": "ThermalFoundation:FluidAerotheum",
       "meta": 0,
-      "color": "#ada87a",
-      "alpha": 0.69803923
+      "color": "#ada87a"
     },
     {
       "name": "Zombie Skull Candle",

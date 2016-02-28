@@ -78,3 +78,53 @@ Caused by: java.lang.NullPointerException
 	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
 	at org.millenaire.common.building.Building$SaveWorker.run(Building.java:320)
 
+6.0.0 27-02-2016 20:53:12 Starting new session. Mods: examplemod 
+6.0.0 27-02-2016 20:53:32 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 27-02-2016 20:53:43 MAJOR: null: Loading language: en_US
+6.0.0 27-02-2016 20:53:46 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 27-02-2016 22:36:53 Exception when generating village:
+6.0.0 27-02-2016 22:36:53 java.lang.ArrayIndexOutOfBoundsException: -8
+	at net.minecraft.world.chunk.Chunk.func_150810_a(Chunk.java:511)
+	at org.millenaire.common.MillWorldInfo.updateChunk(MillWorldInfo.java:509)
+	at org.millenaire.common.MillWorldInfo.createWorldInfo(MillWorldInfo.java:200)
+	at org.millenaire.common.MillWorldInfo.update(MillWorldInfo.java:380)
+	at org.millenaire.common.WorldGenVillage.generateVillage(WorldGenVillage.java:236)
+	at org.millenaire.common.WorldGenVillage.generateVillageAtPoint(WorldGenVillage.java:605)
+	at org.millenaire.common.WorldGenVillage.generate(WorldGenVillage.java:142)
+	at cpw.mods.fml.common.registry.GameRegistry.REPLACED_generateWorld(GameRegistry.java:112)
+	at sun.reflect.GeneratedMethodAccessor65.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at farseek.util.Reflection$MethodValue$.apply$extension(Reflection.scala:59)
+	at farseek.core.ReplacedMethod.apply(MethodReplacer.scala:105)
+	at farseek.world.gen.ChunkGeneratorExtensions$.generateWorld(ChunkGeneratorExtensions.scala:19)
+	at farseek.world.gen.ChunkGeneratorExtensions.generateWorld(ChunkGeneratorExtensions.scala)
+	at cpw.mods.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:280)
+	at fastcraft.a.d.a(F:84)
+	at fastcraft.Hooks.r(F:137)
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1050)
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190)
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101)
+	at net.minecraft.server.management.PlayerManager$PlayerInstance.<init>(PlayerManager.java:508)
+	at net.minecraft.server.management.PlayerManager.getOrCreateChunkWatcher(PlayerManager.java:203)
+	at net.minecraft.server.management.PlayerManager.func_72685_d(PlayerManager.java:382)
+	at net.minecraft.server.management.ServerConfigurationManager.func_72358_d(ServerConfigurationManager.java:313)
+	at net.minecraft.network.NetHandlerPlayServer.func_147347_a(NetHandlerPlayServer.java:404)
+	at net.minecraft.network.play.client.C03PacketPlayer.func_148833_a(SourceFile:137)
+	at net.minecraft.network.play.client.C03PacketPlayer$C04PacketPlayerPosition.func_148833_a(SourceFile:63)
+	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:212)
+	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:165)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:659)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:186)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+
+6.0.0 27-02-2016 22:36:53 Repeat exception x2: -8
+6.0.0 27-02-2016 22:36:53 Repeat exception x3: -8
+6.0.0 27-02-2016 22:36:53 Repeat exception x4: -8
+6.0.0 27-02-2016 22:36:53 Exception when generating village:
+6.0.0 27-02-2016 22:36:53 java.lang.ArrayIndexOutOfBoundsException
+
