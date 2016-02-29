@@ -1,3 +1,0 @@
-culture_reputation=byzantines,-117
-village_reputations=-1499/75/100,-1190
-village_diplomacy=-174/67/-189,5

@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 5.1.4 Unlimited for 1.7.10 on Sat Feb 27 20:54:07 EST 2016",
+  "generated": "Generated using JourneyMap 5.1.4 Unlimited for 1.7.10 on Sun Feb 28 21:55:28 EST 2016",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -11,7 +11,7 @@ var colorpalette={
   ],
   "permanent": false,
   "resourcePacks": "Default",
-  "modNames": "Alternate Terrain Generation:0.10.0, Antique Atlas:1.7.10-4.2.10, Archimedes\u0027 Ships Plus:1.7.10-1.8.1, BC Builders:7.1.14, BC Energy:7.1.14, BC Factory:7.1.14, BC Robotics:7.1.14, BC Silicon:7.1.14, BC Transport:7.1.14, Backpack:2.0.1, Battle Towers:1.5.1, Binnie Core:2.0-pre14, Binnie Patcher:1.5, Biomes O\u0027 Plenty:2.1.0, Botany:2.0-pre14, Build Mod:v1.0, BuildCraft Compat:7.1.3, BuildCraft:7.1.14, ChickenChunks:1.3.4.19, Chocolate Quest:1.0, CoFH ASM:000, CoFH Core:1.7.10R3.1.2, CodeChicken Core:1.0.7.47, CompactStorage:v2.0.0a, ComputerCraft:1.75, CoroAI:v1.0, CoroPets:v1.0, Cuchaz Interactive:1.7.10-1.0, Dense Ores:1.0, DrZhark\u0027s CustomSpawner:3.3.0, DrZhark\u0027s Mo\u0027Creatures Mod:6.3.1, Dynamic Lights Burning Entity Module:1.0.4, Dynamic Lights Creeper Module:1.0.4, Dynamic Lights Entity Light Module:1.0.1, Dynamic Lights EntityItem Module:1.0.8, Dynamic Lights Fiery Arrows Light Module:1.0.0, Dynamic Lights Flood Light:1.0.2, Dynamic Lights Mob Equipment Light Module:1.0.8, Dynamic Lights OtherPlayers Light Module:1.0.8, Dynamic Lights Player Light Module:1.1.4, Dynamic Lights:1.3.8, Enchanting Plus:3.0.2-d, EnderStorage:1.4.7.37, Extended Mod Config:v1.0, Extended Renderer:v1.0, Extra Bees:2.0-pre14, Extra Trees:2.0-pre14, Extra Utilities:1.2.12, ExtraTiC:1.4.5, Farseek:1.0.11, FastCraft:1.21, Forestry for Minecraft:4.2.9.57, Forge Microblocks:1.2.0.345, Forge Mod Loader:7.10.99.99, Forge Multipart:1.2.0.345, Genetics:2.0-pre14, GraveStone:2.16.0, Infernal Mobs:1.6.0, Inventory Tweaks:1.59-dev-152-cf6e263, Iron Backpacks:1.7.10-1.2.15, Iron Chest Minecarts:1.0.4, Iron Chest:6.0.60.741, JourneyMap:5.1.4, Mantle:1.7.10-0.3.2.jenkins191, MillÃ©naire:6.0.0, Mine \u0026 Blade Battlegear 2 - Bullseye:1.7.10, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Minecraft Multipart Plugin:1.2.0.345, Mod Support:0.31.3_build.unknown, MorePlayerModels:1.7.10b, Mouse Tweaks:2.4.4, Moving World:1.7.10-1.8.1, NEI Addons: Applied Energistics 2:1.12.14.40, NEI Addons: Botany:1.12.14.40, NEI Addons: Crafting Tables:1.12.14.40, NEI Addons: Developer Tools:1.12.14.40, NEI Addons: Ex Nihilo:1.12.14.40, NEI Addons: Forestry:1.12.14.40, NEI Addons:1.12.14.40, NEI Integration:1.1.2, Natura:2.2.0, Neat:GRADLE:VERSION-GRADLE:BUILD, Not Enough Items:1.0.5.118, NotEnoughKeys:@MOD_VERSION@, Open Modular Turrets:2.1.9-211, OpenBlocks:1.5.1, OpenMods:0.9.1, OpenModsCore:0.9.1, OpenPeripheralAddons:0.5.1, OpenPeripheralCore:1.3, OpenPeripheralIntegration:0.5, Ore Dictionary Converter:1.6.1, Pet Bat:1.3.8, Player API:1.4, Railcraft:9.8.0.0, Realistic Terrain Generation:0.6.2, Roguelike Dungeons:1.4.4, Rotten Flesh to Leather:1.7.10-2.0, Ships Mod Core:1.7.10-1.0.3, Ships Mod:1.7.10-1.0.3, Streams:0.2, Thermal Dynamics:1.7.10R1.1.0, Thermal Expansion:1.7.10R4.1.2, Thermal Foundation:1.7.10R1.2.3, TiC Tooltips:1.2.5, Tinkers\u0027 Construct:1.7.10-1.8.8.build988, Tinkers\u0027 Defense:1.2, Tinkers\u0027 Mechworks:0.2.15.106, Vein Miner:0.31.3_build.unknown, Veinminer Mod Integration:1.7.10-0.2.0, WR-CBE Addons:1.4.1.9, WR-CBE Core:1.4.1.9, WR-CBE Logic:1.4.1.9, Waila Harvestability:1.1.6, Waila:1.5.10, WorldEdit:6.0-beta-01, Zombie Awareness:v1.9.5, debug:1.0",
+  "modNames": "Alternate Terrain Generation:0.10.0, Antique Atlas:1.7.10-4.2.10, Archimedes\u0027 Ships Plus:1.7.10-1.8.1, BC Builders:7.1.14, BC Energy:7.1.14, BC Factory:7.1.14, BC Robotics:7.1.14, BC Silicon:7.1.14, BC Transport:7.1.14, Backpack:2.0.1, Battle Towers:1.5.1, Binnie Core:2.0-pre14, Binnie Patcher:1.5, Biomes O\u0027 Plenty:2.1.0, Botany:2.0-pre14, Build Mod:v1.0, BuildCraft Compat:7.1.3, BuildCraft:7.1.14, ChickenChunks:1.3.4.19, Chocolate Quest:1.0, CoFH ASM:000, CoFH Core:1.7.10R3.1.2, CodeChicken Core:1.0.7.47, CompactStorage:v2.0.0a, ComputerCraft:1.75, CoroAI:v1.0, CoroPets:v1.0, Cuchaz Interactive:1.7.10-1.0, Dense Ores:1.0, DrZhark\u0027s CustomSpawner:3.3.0, DrZhark\u0027s Mo\u0027Creatures Mod:6.3.1, Dynamic Lights Burning Entity Module:1.0.4, Dynamic Lights Creeper Module:1.0.4, Dynamic Lights Entity Light Module:1.0.1, Dynamic Lights EntityItem Module:1.0.8, Dynamic Lights Fiery Arrows Light Module:1.0.0, Dynamic Lights Flood Light:1.0.2, Dynamic Lights Mob Equipment Light Module:1.0.8, Dynamic Lights OtherPlayers Light Module:1.0.8, Dynamic Lights Player Light Module:1.1.4, Dynamic Lights:1.3.8, Enchanting Plus:3.0.2-d, EnderStorage:1.4.7.37, Extended Mod Config:v1.0, Extended Renderer:v1.0, Extra Bees:2.0-pre14, Extra Trees:2.0-pre14, Extra Utilities:1.2.12, ExtraTiC:1.4.5, Farseek:1.0.11, FastCraft:1.21, Forestry for Minecraft:4.2.9.57, Forge Microblocks:1.2.0.345, Forge Mod Loader:7.10.99.99, Forge Multipart:1.2.0.345, Genetics:2.0-pre14, GraveStone:2.16.0, Infernal Mobs:1.6.0, Inventory Tweaks:1.59-dev-152-cf6e263, Iron Backpacks:1.7.10-1.2.15, Iron Chest Minecarts:1.0.4, Iron Chest:6.0.60.741, JourneyMap:5.1.4, Mantle:1.7.10-0.3.2.jenkins191, MillÃ©naire:6.0.0, Mine \u0026 Blade Battlegear 2 - Bullseye:1.7.10, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Minecraft Multipart Plugin:1.2.0.345, Mod Support:0.31.3_build.unknown, MorePlayerModels:1.7.10b, Mouse Tweaks:2.4.4, Moving World:1.7.10-1.8.1, NEI Addons: Applied Energistics 2:1.12.14.40, NEI Addons: Botany:1.12.14.40, NEI Addons: Crafting Tables:1.12.14.40, NEI Addons: Developer Tools:1.12.14.40, NEI Addons: Ex Nihilo:1.12.14.40, NEI Addons: Forestry:1.12.14.40, NEI Addons:1.12.14.40, NEI Integration:1.1.2, Natura:2.2.0, Neat:GRADLE:VERSION-GRADLE:BUILD, Not Enough Items:1.0.5.118, NotEnoughKeys:@MOD_VERSION@, Open Modular Turrets:2.1.9-211, OpenBlocks:1.5.1, OpenMods:0.9.1, OpenModsCore:0.9.1, OpenPeripheralAddons:0.5.1, OpenPeripheralCore:1.3, OpenPeripheralIntegration:0.5, Ore Dictionary Converter:1.6.1, Pet Bat:1.3.8, Player API:1.4, Railcraft:9.8.0.0, Roguelike Dungeons:1.4.4, Rotten Flesh to Leather:1.7.10-2.0, Ships Mod Core:1.7.10-1.0.3, Ships Mod:1.7.10-1.0.3, Streams:0.2, Thermal Dynamics:1.7.10R1.1.0, Thermal Expansion:1.7.10R4.1.2, Thermal Foundation:1.7.10R1.2.3, TiC Tooltips:1.2.5, Tinkers\u0027 Construct:1.7.10-1.8.8.build988, Tinkers\u0027 Defense:1.2, Tinkers\u0027 Mechworks:0.2.15.106, Vein Miner:0.31.3_build.unknown, Veinminer Mod Integration:1.7.10-0.2.0, WR-CBE Addons:1.4.1.9, WR-CBE Core:1.4.1.9, WR-CBE Logic:1.4.1.9, Waila Harvestability:1.1.6, Waila:1.5.10, WorldEdit:6.0-beta-01, Zombie Awareness:v1.9.5, debug:1.0",
   "basicColors": [
     {
       "name": " Wood Slab",
@@ -2020,7 +2020,8 @@ var colorpalette={
       "name": "Auto Anvil",
       "uid": "OpenBlocks:autoanvil",
       "meta": 0,
-      "color": "#404040"
+      "color": "#404040",
+      "alpha": 0.99607843
     },
     {
       "name": "Auto Enchantment Table",
@@ -2460,7 +2461,8 @@ var colorpalette={
       "name": "Blazing Pyrotheum",
       "uid": "ThermalFoundation:FluidPyrotheum",
       "meta": 0,
-      "color": "#feba2d"
+      "color": "#feba2d",
+      "alpha": 0.8666667
     },
     {
       "name": "Bleached Bone Block",
@@ -3385,7 +3387,8 @@ var colorpalette={
       "name": "Building Guide",
       "uid": "OpenBlocks:guide",
       "meta": 0,
-      "color": "#cccccc"
+      "color": "#cccccc",
+      "alpha": 0.58431375
     },
     {
       "name": "Burning Blossom",
@@ -5403,7 +5406,8 @@ var colorpalette={
       "name": "Construction Mark",
       "uid": "BuildCraft|Builders:constructionMarkerBlock",
       "meta": 0,
-      "color": "#ac9a5e"
+      "color": "#ac9a5e",
+      "alpha": 0.99607843
     },
     {
       "name": "Conveyor Belt",
@@ -6731,7 +6735,8 @@ var colorpalette={
       "name": "Ectoplasm",
       "uid": "ExtraBees:ectoplasm",
       "meta": 0,
-      "color": "#6dbd85"
+      "color": "#6dbd85",
+      "alpha": 0.9882353
     },
     {
       "name": "Edged Glass",
@@ -7020,7 +7025,8 @@ var colorpalette={
       "name": "Energized Glowstone",
       "uid": "ThermalFoundation:FluidGlowstone",
       "meta": 0,
-      "color": "#fdd402"
+      "color": "#fdd402",
+      "alpha": 0.8
     },
     {
       "name": "Energy Extraction Pipe",
@@ -7050,7 +7056,8 @@ var colorpalette={
       "name": "Enhanced Building Guide",
       "uid": "OpenBlocks:builder_guide",
       "meta": 0,
-      "color": "#cccccc"
+      "color": "#cccccc",
+      "alpha": 0.58431375
     },
     {
       "name": "Epic Ship",
@@ -7062,7 +7069,8 @@ var colorpalette={
       "name": "Escritoire",
       "uid": "Forestry:core",
       "meta": 1,
-      "color": "#8a4f1f"
+      "color": "#8a4f1f",
+      "alpha": 0.99607843
     },
     {
       "name": "Essence Berry Bush",
@@ -8482,7 +8490,8 @@ var colorpalette={
       "name": "Gelid Cryotheum",
       "uid": "ThermalFoundation:FluidCryotheum",
       "meta": 0,
-      "color": "#23befa"
+      "color": "#23befa",
+      "alpha": 0.8980392
     },
     {
       "name": "Ghostwood",
@@ -9633,7 +9642,8 @@ var colorpalette={
       "name": "Ice Wall",
       "uid": "Railcraft:wall.alpha",
       "meta": 4,
-      "color": "#7dadff"
+      "color": "#7dadff",
+      "alpha": 0.62352943
     },
     {
       "name": "Icy Iris",
@@ -12191,7 +12201,8 @@ var colorpalette={
       "name": "Liquid Glass",
       "uid": "Forestry:fluid.glass",
       "meta": 0,
-      "color": "#a3a3a3"
+      "color": "#a3a3a3",
+      "alpha": 0.7019608
     },
     {
       "name": "Liquid Tin",
@@ -12553,7 +12564,8 @@ var colorpalette={
       "name": "Magic Pencil",
       "uid": "OpenBlocks:imaginary",
       "meta": 0,
-      "color": "#000000"
+      "color": "#000000",
+      "alpha": 0.12156863
     },
     {
       "name": "Magic Sapling",
@@ -13012,7 +13024,8 @@ var colorpalette={
       "name": "Molten Glass",
       "uid": "TConstruct:fluid.molten.glass",
       "meta": 0,
-      "color": "#9feefd"
+      "color": "#9feefd",
+      "alpha": 0.69803923
     },
     {
       "name": "Molten Gold",
@@ -14988,7 +15001,8 @@ var colorpalette={
       "name": "Path Mark",
       "uid": "BuildCraft|Core:pathMarkerBlock",
       "meta": 0,
-      "color": "#8d9958"
+      "color": "#8d9958",
+      "alpha": 0.99607843
     },
     {
       "name": "Pattern Chest",
@@ -15024,7 +15038,8 @@ var colorpalette={
       "name": "Peony",
       "uid": "minecraft:double_plant",
       "meta": 5,
-      "color": "#84858d"
+      "color": "#84858d",
+      "alpha": 0.99607843
     },
     {
       "name": "Peridot Ore",
@@ -15445,13 +15460,15 @@ var colorpalette={
       "name": "Primal Mana",
       "uid": "ThermalFoundation:FluidMana",
       "meta": 0,
-      "color": "#3b0070"
+      "color": "#3b0070",
+      "alpha": 0.9019608
     },
     {
       "name": "Programming Table",
       "uid": "BuildCraft|Silicon:laserTableBlock",
       "meta": 4,
-      "color": "#343435"
+      "color": "#343435",
+      "alpha": 0.972549
     },
     {
       "name": "Pulverizer (Basic)",
@@ -15572,7 +15589,7 @@ var colorpalette={
       "color": "#511427"
     },
     {
-      "name": "QED (Quantum Energy Device)",
+      "name": "QED (Quantum Entanglement Device)",
       "uid": "ExtraUtilities:endConstructor",
       "meta": 0,
       "color": "#3d5a45"
@@ -16148,7 +16165,8 @@ var colorpalette={
       "name": "Resonant Ender",
       "uid": "ThermalFoundation:FluidEnder",
       "meta": 0,
-      "color": "#083b3b"
+      "color": "#083b3b",
+      "alpha": 0.8509804
     },
     {
       "name": "Resonant Energy Cell",
@@ -16530,7 +16548,8 @@ var colorpalette={
       "name": "Sandy Brick Slab",
       "uid": "Railcraft:slab",
       "meta": 4,
-      "color": "#7dadff"
+      "color": "#7dadff",
+      "alpha": 0.62352943
     },
     {
       "name": "Sandy Brick Slab",
@@ -16794,7 +16813,8 @@ var colorpalette={
       "name": "Sandy Brick Stairs",
       "uid": "Railcraft:stair",
       "meta": 4,
-      "color": "#7dadff"
+      "color": "#7dadff",
+      "alpha": 0.62352943
     },
     {
       "name": "Sandy Brick Stairs",
@@ -18025,13 +18045,15 @@ var colorpalette={
       "name": "Steam",
       "uid": "Railcraft:fluid.steam",
       "meta": 0,
-      "color": "#a2a2a2"
+      "color": "#a2a2a2",
+      "alpha": 0.7490196
     },
     {
       "name": "Steam",
       "uid": "ThermalFoundation:FluidSteam",
       "meta": 0,
-      "color": "#b2b2b2"
+      "color": "#b2b2b2",
+      "alpha": 0.8
     },
     {
       "name": "Steam Dynamo",
@@ -18377,7 +18399,8 @@ var colorpalette={
       "name": "String",
       "uid": "minecraft:tripwire",
       "meta": 0,
-      "color": "#818181"
+      "color": "#818181",
+      "alpha": 0.41960785
     },
     {
       "name": "Strongbox",
@@ -18630,7 +18653,8 @@ var colorpalette={
       "name": "Terminal Glasses Bridge",
       "uid": "OpenPeripheral:glassesbridge",
       "meta": 0,
-      "color": "#4b4d50"
+      "color": "#4b4d50",
+      "alpha": 0.99607843
     },
     {
       "name": "Terrain Smasher",
@@ -19690,19 +19714,22 @@ var colorpalette={
       "name": "Wither Spawner",
       "uid": "GraveStone:GSSpawner",
       "meta": 0,
-      "color": "#ffffff"
+      "color": "#ffffff",
+      "alpha": 0.56078434
     },
     {
       "name": "Wither Spawner",
       "uid": "GraveStone:GSSpawner",
       "meta": 1,
-      "color": "#ffffff"
+      "color": "#ffffff",
+      "alpha": 0.56078434
     },
     {
       "name": "Wither Spawner",
       "uid": "GraveStone:GSSpawner",
       "meta": 2,
-      "color": "#ffffff"
+      "color": "#ffffff",
+      "alpha": 0.56078434
     },
     {
       "name": "Wither Wart",
@@ -19798,7 +19825,8 @@ var colorpalette={
       "name": "WyvernLair Tall Grass",
       "uid": "MoCreatures:MoCTallGrass",
       "meta": 0,
-      "color": "#493c69"
+      "color": "#493c69",
+      "alpha": 0.99215686
     },
     {
       "name": "WyvernLair Wood Plank",
@@ -19917,7 +19945,8 @@ var colorpalette={
       "name": "Zephyrean Aerotheum",
       "uid": "ThermalFoundation:FluidAerotheum",
       "meta": 0,
-      "color": "#ada87a"
+      "color": "#ada87a",
+      "alpha": 0.69803923
     },
     {
       "name": "Zombie Skull Candle",

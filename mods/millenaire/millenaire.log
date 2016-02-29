@@ -128,3 +128,600 @@ Caused by: java.lang.NullPointerException
 6.0.0 27-02-2016 22:36:53 Exception when generating village:
 6.0.0 27-02-2016 22:36:53 java.lang.ArrayIndexOutOfBoundsException
 
+6.0.0 28-02-2016 17:18:58 Starting new session. Mods: examplemod 
+6.0.0 28-02-2016 17:19:18 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 28-02-2016 17:19:28 MAJOR: null: Loading language: en_US
+6.0.0 28-02-2016 17:19:31 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 28-02-2016 18:35:46 Starting new session. Mods: examplemod 
+6.0.0 28-02-2016 18:36:16 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 28-02-2016 18:36:30 MAJOR: null: Loading language: en_US
+6.0.0 28-02-2016 18:36:35 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 28-02-2016 18:39:23 Exception when generating village:
+6.0.0 28-02-2016 18:39:23 java.lang.ArrayIndexOutOfBoundsException: -9
+	at net.minecraft.world.chunk.Chunk.func_150810_a(Chunk.java:511)
+	at org.millenaire.common.MillWorldInfo.updateChunk(MillWorldInfo.java:509)
+	at org.millenaire.common.MillWorldInfo.createWorldInfo(MillWorldInfo.java:200)
+	at org.millenaire.common.MillWorldInfo.update(MillWorldInfo.java:380)
+	at org.millenaire.common.WorldGenVillage.generateVillage(WorldGenVillage.java:236)
+	at org.millenaire.common.WorldGenVillage.generateVillageAtPoint(WorldGenVillage.java:512)
+	at org.millenaire.common.WorldGenVillage.generate(WorldGenVillage.java:142)
+	at cpw.mods.fml.common.registry.GameRegistry.REPLACED_generateWorld(GameRegistry.java:112)
+	at sun.reflect.GeneratedMethodAccessor19.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at farseek.util.Reflection$MethodValue$.apply$extension(Reflection.scala:59)
+	at farseek.core.ReplacedMethod.apply(MethodReplacer.scala:105)
+	at farseek.world.gen.ChunkGeneratorExtensions$.generateWorld(ChunkGeneratorExtensions.scala:19)
+	at farseek.world.gen.ChunkGeneratorExtensions.generateWorld(ChunkGeneratorExtensions.scala)
+	at cpw.mods.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:280)
+	at fastcraft.a.d.a(F:84)
+	at fastcraft.Hooks.r(F:137)
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1050)
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190)
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101)
+	at net.minecraft.server.management.PlayerManager$PlayerInstance.<init>(PlayerManager.java:508)
+	at net.minecraft.server.management.PlayerManager.getOrCreateChunkWatcher(PlayerManager.java:203)
+	at net.minecraft.server.management.PlayerManager.func_72685_d(PlayerManager.java:382)
+	at net.minecraft.server.management.ServerConfigurationManager.func_72358_d(ServerConfigurationManager.java:313)
+	at net.minecraft.network.NetHandlerPlayServer.func_147347_a(NetHandlerPlayServer.java:404)
+	at net.minecraft.network.play.client.C03PacketPlayer.func_148833_a(SourceFile:137)
+	at net.minecraft.network.play.client.C03PacketPlayer$C04PacketPlayerPosition.func_148833_a(SourceFile:63)
+	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:212)
+	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:165)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:659)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:186)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+
+6.0.0 28-02-2016 18:39:29 Repeat exception x2: -9
+6.0.0 28-02-2016 18:39:29 Exception when generating village:
+6.0.0 28-02-2016 18:39:29 java.lang.ArrayIndexOutOfBoundsException
+
+6.0.0 28-02-2016 19:07:08 Starting new session. Mods: examplemod 
+6.0.0 28-02-2016 19:07:30 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 28-02-2016 19:07:40 MAJOR: null: Loading language: en_US
+6.0.0 28-02-2016 19:07:43 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 28-02-2016 19:22:28 Starting new session. Mods: examplemod 
+6.0.0 28-02-2016 19:22:55 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 28-02-2016 19:23:07 MAJOR: null: Loading language: en_US
+6.0.0 28-02-2016 19:23:12 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 28-02-2016 19:48:55 Exception when generating village:
+6.0.0 28-02-2016 19:48:55 java.lang.ArrayIndexOutOfBoundsException: -9
+	at net.minecraft.world.chunk.Chunk.func_150810_a(Chunk.java:511)
+	at org.millenaire.common.MillWorldInfo.updateChunk(MillWorldInfo.java:509)
+	at org.millenaire.common.MillWorldInfo.createWorldInfo(MillWorldInfo.java:200)
+	at org.millenaire.common.MillWorldInfo.update(MillWorldInfo.java:380)
+	at org.millenaire.common.WorldGenVillage.generateVillage(WorldGenVillage.java:236)
+	at org.millenaire.common.WorldGenVillage.generateVillageAtPoint(WorldGenVillage.java:512)
+	at org.millenaire.common.WorldGenVillage.generate(WorldGenVillage.java:142)
+	at cpw.mods.fml.common.registry.GameRegistry.REPLACED_generateWorld(GameRegistry.java:112)
+	at sun.reflect.GeneratedMethodAccessor19.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at farseek.util.Reflection$MethodValue$.apply$extension(Reflection.scala:59)
+	at farseek.core.ReplacedMethod.apply(MethodReplacer.scala:105)
+	at farseek.world.gen.ChunkGeneratorExtensions$.generateWorld(ChunkGeneratorExtensions.scala:19)
+	at farseek.world.gen.ChunkGeneratorExtensions.generateWorld(ChunkGeneratorExtensions.scala)
+	at cpw.mods.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:280)
+	at fastcraft.a.d.a(F:84)
+	at fastcraft.Hooks.r(F:137)
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1045)
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190)
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101)
+	at net.minecraft.server.management.PlayerManager$PlayerInstance.<init>(PlayerManager.java:508)
+	at net.minecraft.server.management.PlayerManager.getOrCreateChunkWatcher(PlayerManager.java:203)
+	at net.minecraft.server.management.PlayerManager.func_72685_d(PlayerManager.java:382)
+	at net.minecraft.server.management.ServerConfigurationManager.func_72358_d(ServerConfigurationManager.java:313)
+	at net.minecraft.network.NetHandlerPlayServer.func_147347_a(NetHandlerPlayServer.java:404)
+	at net.minecraft.network.play.client.C03PacketPlayer.func_148833_a(SourceFile:137)
+	at net.minecraft.network.play.client.C03PacketPlayer$C04PacketPlayerPosition.func_148833_a(SourceFile:63)
+	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:212)
+	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:165)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:659)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:186)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+
+6.0.0 28-02-2016 19:48:58 Exception when generating village:
+6.0.0 28-02-2016 19:48:58 java.lang.ArrayIndexOutOfBoundsException
+
+6.0.0 28-02-2016 19:49:00 Repeat exception x2: null
+6.0.0 28-02-2016 19:49:00 Repeat exception x3: null
+6.0.0 28-02-2016 19:51:28 Starting new session. Mods: examplemod 
+6.0.0 28-02-2016 19:51:42 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 28-02-2016 19:51:47 MAJOR: null: Loading language: en_US
+6.0.0 28-02-2016 19:51:48 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 28-02-2016 19:52:55 Exception when generating village:
+6.0.0 28-02-2016 19:52:55 java.lang.ArrayIndexOutOfBoundsException: -8
+	at net.minecraft.world.chunk.Chunk.func_150810_a(Chunk.java:511)
+	at org.millenaire.common.MillWorldInfo.updateChunk(MillWorldInfo.java:509)
+	at org.millenaire.common.MillWorldInfo.createWorldInfo(MillWorldInfo.java:200)
+	at org.millenaire.common.MillWorldInfo.update(MillWorldInfo.java:380)
+	at org.millenaire.common.WorldGenVillage.generateVillage(WorldGenVillage.java:236)
+	at org.millenaire.common.WorldGenVillage.generateVillageAtPoint(WorldGenVillage.java:605)
+	at org.millenaire.common.WorldGenVillage.generate(WorldGenVillage.java:142)
+	at cpw.mods.fml.common.registry.GameRegistry.REPLACED_generateWorld(GameRegistry.java:112)
+	at sun.reflect.GeneratedMethodAccessor19.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at farseek.util.Reflection$MethodValue$.apply$extension(Reflection.scala:59)
+	at farseek.core.ReplacedMethod.apply(MethodReplacer.scala:105)
+	at farseek.world.gen.ChunkGeneratorExtensions$.generateWorld(ChunkGeneratorExtensions.scala:19)
+	at farseek.world.gen.ChunkGeneratorExtensions.generateWorld(ChunkGeneratorExtensions.scala)
+	at cpw.mods.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:280)
+	at fastcraft.a.d.a(F:84)
+	at fastcraft.Hooks.r(F:137)
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1055)
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190)
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101)
+	at net.minecraft.server.MinecraftServer.func_71222_d(MinecraftServer.java:265)
+	at net.minecraft.server.integrated.IntegratedServer.func_71247_a(IntegratedServer.java:130)
+	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:153)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+
+6.0.0 28-02-2016 19:52:55 Repeat exception x2: -8
+6.0.0 28-02-2016 19:52:55 Exception when generating village:
+6.0.0 28-02-2016 19:52:55 java.lang.ArrayIndexOutOfBoundsException: -9
+	at net.minecraft.world.chunk.Chunk.func_150810_a(Chunk.java:511)
+	at org.millenaire.common.MillWorldInfo.updateChunk(MillWorldInfo.java:509)
+	at org.millenaire.common.MillWorldInfo.createWorldInfo(MillWorldInfo.java:200)
+	at org.millenaire.common.MillWorldInfo.update(MillWorldInfo.java:380)
+	at org.millenaire.common.WorldGenVillage.generateVillage(WorldGenVillage.java:236)
+	at org.millenaire.common.WorldGenVillage.generateVillageAtPoint(WorldGenVillage.java:605)
+	at org.millenaire.common.WorldGenVillage.generate(WorldGenVillage.java:142)
+	at cpw.mods.fml.common.registry.GameRegistry.REPLACED_generateWorld(GameRegistry.java:112)
+	at sun.reflect.GeneratedMethodAccessor19.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at farseek.util.Reflection$MethodValue$.apply$extension(Reflection.scala:59)
+	at farseek.core.ReplacedMethod.apply(MethodReplacer.scala:105)
+	at farseek.world.gen.ChunkGeneratorExtensions$.generateWorld(ChunkGeneratorExtensions.scala:19)
+	at farseek.world.gen.ChunkGeneratorExtensions.generateWorld(ChunkGeneratorExtensions.scala)
+	at cpw.mods.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:280)
+	at fastcraft.a.d.a(F:84)
+	at fastcraft.Hooks.r(F:137)
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1055)
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190)
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101)
+	at net.minecraft.server.MinecraftServer.func_71222_d(MinecraftServer.java:265)
+	at net.minecraft.server.integrated.IntegratedServer.func_71247_a(IntegratedServer.java:130)
+	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:153)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+
+6.0.0 28-02-2016 19:52:57 Exception when generating village:
+6.0.0 28-02-2016 19:52:57 java.lang.ArrayIndexOutOfBoundsException
+
+6.0.0 28-02-2016 19:52:57 Repeat exception x2: null
+6.0.0 28-02-2016 19:52:57 Repeat exception x3: null
+6.0.0 28-02-2016 19:52:57 Repeat exception x4: null
+6.0.0 28-02-2016 19:52:57 Repeat exception x5: null
+6.0.0 28-02-2016 19:52:57 Repeat exception x6: null
+6.0.0 28-02-2016 19:52:58 Repeat exception x7: null
+6.0.0 28-02-2016 19:52:58 Repeat exception x8: null
+6.0.0 28-02-2016 19:54:12 Repeat exception x9: null
+6.0.0 28-02-2016 19:54:19 Repeat exception x10: null
+6.0.0 28-02-2016 19:54:22 Repeat exception x11: null
+6.0.0 28-02-2016 19:54:31 Repeat exception x12: null
+6.0.0 28-02-2016 19:54:31 Repeat exception x13: null
+6.0.0 28-02-2016 19:54:31 Repeat exception x14: null
+6.0.0 28-02-2016 19:54:41 Repeat exception x15: null
+6.0.0 28-02-2016 19:54:41 Repeat exception x16: null
+6.0.0 28-02-2016 19:54:41 Repeat exception x17: null
+6.0.0 28-02-2016 19:54:41 Repeat exception x18: null
+6.0.0 28-02-2016 19:54:42 Repeat exception x19: null
+6.0.0 28-02-2016 19:54:42 Repeat exception x20: null
+6.0.0 28-02-2016 19:54:42 Repeat exception x21: null
+6.0.0 28-02-2016 19:54:42 Repeat exception x22: null
+6.0.0 28-02-2016 19:54:42 Repeat exception x23: null
+6.0.0 28-02-2016 19:54:42 Repeat exception x24: null
+6.0.0 28-02-2016 19:54:46 Repeat exception x25: null
+6.0.0 28-02-2016 19:54:46 Repeat exception x26: null
+6.0.0 28-02-2016 19:54:46 Repeat exception x27: null
+6.0.0 28-02-2016 19:54:46 Repeat exception x28: null
+6.0.0 28-02-2016 19:54:46 Repeat exception x29: null
+6.0.0 28-02-2016 19:54:46 Repeat exception x30: null
+6.0.0 28-02-2016 19:54:46 Repeat exception x31: null
+6.0.0 28-02-2016 19:54:46 Repeat exception x32: null
+6.0.0 28-02-2016 19:54:46 Repeat exception x33: null
+6.0.0 28-02-2016 19:54:46 Repeat exception x34: null
+6.0.0 28-02-2016 19:54:46 Repeat exception x35: null
+6.0.0 28-02-2016 19:54:46 Repeat exception x36: null
+6.0.0 28-02-2016 19:54:46 Repeat exception x37: null
+6.0.0 28-02-2016 19:54:46 Repeat exception x38: null
+6.0.0 28-02-2016 19:54:47 Repeat exception x39: null
+6.0.0 28-02-2016 19:54:47 Repeat exception x40: null
+6.0.0 28-02-2016 19:54:47 Repeat exception x41: null
+6.0.0 28-02-2016 19:54:47 Repeat exception x42: null
+6.0.0 28-02-2016 19:54:47 Repeat exception x43: null
+6.0.0 28-02-2016 19:54:47 Repeat exception x44: null
+6.0.0 28-02-2016 19:54:47 Repeat exception x45: null
+6.0.0 28-02-2016 19:54:47 Repeat exception x46: null
+6.0.0 28-02-2016 19:54:47 Repeat exception x47: null
+6.0.0 28-02-2016 19:54:48 Repeat exception x48: null
+6.0.0 28-02-2016 19:54:48 Repeat exception x49: null
+6.0.0 28-02-2016 19:54:48 Repeat exception x50: null
+6.0.0 28-02-2016 19:54:48 Repeat exception x51: null
+6.0.0 28-02-2016 19:54:48 Repeat exception x52: null
+6.0.0 28-02-2016 19:54:48 Repeat exception x53: null
+6.0.0 28-02-2016 19:54:48 Repeat exception x54: null
+6.0.0 28-02-2016 19:54:48 Repeat exception x55: null
+6.0.0 28-02-2016 19:54:48 Repeat exception x56: null
+6.0.0 28-02-2016 19:54:48 Repeat exception x57: null
+6.0.0 28-02-2016 19:54:48 Repeat exception x58: null
+6.0.0 28-02-2016 19:54:49 Repeat exception x59: null
+6.0.0 28-02-2016 19:54:49 Repeat exception x60: null
+6.0.0 28-02-2016 19:54:49 Repeat exception x61: null
+6.0.0 28-02-2016 19:54:49 Repeat exception x62: null
+6.0.0 28-02-2016 19:54:49 Repeat exception x63: null
+6.0.0 28-02-2016 19:54:50 Repeat exception x64: null
+6.0.0 28-02-2016 19:54:50 Repeat exception x65: null
+6.0.0 28-02-2016 19:54:50 Repeat exception x66: null
+6.0.0 28-02-2016 19:54:50 Repeat exception x67: null
+6.0.0 28-02-2016 19:54:50 Repeat exception x68: null
+6.0.0 28-02-2016 19:54:50 Repeat exception x69: null
+6.0.0 28-02-2016 19:54:50 Repeat exception x70: null
+6.0.0 28-02-2016 19:54:50 Repeat exception x71: null
+6.0.0 28-02-2016 19:54:50 Repeat exception x72: null
+6.0.0 28-02-2016 19:54:50 Repeat exception x73: null
+6.0.0 28-02-2016 19:54:50 Repeat exception x74: null
+6.0.0 28-02-2016 19:54:50 Repeat exception x75: null
+6.0.0 28-02-2016 19:54:50 Repeat exception x76: null
+6.0.0 28-02-2016 19:54:51 Repeat exception x77: null
+6.0.0 28-02-2016 19:54:51 Repeat exception x78: null
+6.0.0 28-02-2016 19:54:51 Repeat exception x79: null
+6.0.0 28-02-2016 19:54:51 Repeat exception x80: null
+6.0.0 28-02-2016 19:54:51 Repeat exception x81: null
+6.0.0 28-02-2016 19:54:51 Repeat exception x82: null
+6.0.0 28-02-2016 19:54:51 Repeat exception x83: null
+6.0.0 28-02-2016 19:54:51 Repeat exception x84: null
+6.0.0 28-02-2016 19:54:52 Repeat exception x85: null
+6.0.0 28-02-2016 19:54:52 Repeat exception x86: null
+6.0.0 28-02-2016 19:54:52 Repeat exception x87: null
+6.0.0 28-02-2016 19:54:52 Repeat exception x88: null
+6.0.0 28-02-2016 19:54:52 Repeat exception x89: null
+6.0.0 28-02-2016 19:54:52 Repeat exception x90: null
+6.0.0 28-02-2016 19:54:52 Repeat exception x91: null
+6.0.0 28-02-2016 19:54:52 Repeat exception x92: null
+6.0.0 28-02-2016 19:54:52 Repeat exception x93: null
+6.0.0 28-02-2016 19:54:52 Repeat exception x94: null
+6.0.0 28-02-2016 19:54:52 Repeat exception x95: null
+6.0.0 28-02-2016 19:54:52 Repeat exception x96: null
+6.0.0 28-02-2016 19:54:52 Repeat exception x97: null
+6.0.0 28-02-2016 19:54:52 Repeat exception x98: null
+6.0.0 28-02-2016 19:54:52 Repeat exception x99: null
+6.0.0 28-02-2016 19:54:53 Repeat exception x100: null
+6.0.0 28-02-2016 19:54:53 Repeat exception x101: null
+6.0.0 28-02-2016 19:54:53 Repeat exception x102: null
+6.0.0 28-02-2016 19:54:53 Repeat exception x103: null
+6.0.0 28-02-2016 19:54:53 Repeat exception x104: null
+6.0.0 28-02-2016 19:54:53 Repeat exception x105: null
+6.0.0 28-02-2016 19:54:53 Repeat exception x106: null
+6.0.0 28-02-2016 19:54:53 Repeat exception x107: null
+6.0.0 28-02-2016 19:54:53 Repeat exception x108: null
+6.0.0 28-02-2016 19:54:53 Repeat exception x109: null
+6.0.0 28-02-2016 19:54:54 Repeat exception x110: null
+6.0.0 28-02-2016 19:54:54 Repeat exception x111: null
+6.0.0 28-02-2016 19:54:54 Repeat exception x112: null
+6.0.0 28-02-2016 19:54:54 Repeat exception x113: null
+6.0.0 28-02-2016 19:54:54 Repeat exception x114: null
+6.0.0 28-02-2016 19:54:54 Repeat exception x115: null
+6.0.0 28-02-2016 19:54:56 Repeat exception x116: null
+6.0.0 28-02-2016 19:54:56 Repeat exception x117: null
+6.0.0 28-02-2016 19:54:56 Repeat exception x118: null
+6.0.0 28-02-2016 19:54:56 Repeat exception x119: null
+6.0.0 28-02-2016 19:54:56 Repeat exception x120: null
+6.0.0 28-02-2016 19:56:47 Repeat exception x121: null
+6.0.0 28-02-2016 19:56:49 Repeat exception x122: null
+6.0.0 28-02-2016 19:56:51 Repeat exception x123: null
+6.0.0 28-02-2016 19:56:51 Repeat exception x124: null
+6.0.0 28-02-2016 19:57:11 Repeat exception x125: null
+6.0.0 28-02-2016 19:57:13 Repeat exception x126: null
+6.0.0 28-02-2016 19:57:17 Repeat exception x127: null
+6.0.0 28-02-2016 19:57:30 Repeat exception x128: null
+6.0.0 28-02-2016 20:05:16 Repeat exception x129: null
+6.0.0 28-02-2016 20:06:26 Repeat exception x130: null
+6.0.0 28-02-2016 20:06:56 Repeat exception x131: null
+6.0.0 28-02-2016 20:06:58 Repeat exception x132: null
+6.0.0 28-02-2016 20:07:31 Repeat exception x133: null
+6.0.0 28-02-2016 20:07:51 Repeat exception x134: null
+6.0.0 28-02-2016 20:07:53 Repeat exception x135: null
+6.0.0 28-02-2016 20:17:18 Starting new session. Mods: examplemod 
+6.0.0 28-02-2016 20:17:38 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 28-02-2016 20:17:47 MAJOR: null: Loading language: en_US
+6.0.0 28-02-2016 20:17:50 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 28-02-2016 20:21:00 Exception when generating village:
+6.0.0 28-02-2016 20:21:00 java.lang.ArrayIndexOutOfBoundsException: -7
+	at net.minecraft.world.chunk.Chunk.func_150810_a(Chunk.java:511)
+	at org.millenaire.common.MillWorldInfo.updateChunk(MillWorldInfo.java:509)
+	at org.millenaire.common.MillWorldInfo.createWorldInfo(MillWorldInfo.java:200)
+	at org.millenaire.common.MillWorldInfo.update(MillWorldInfo.java:380)
+	at org.millenaire.common.WorldGenVillage.generateVillage(WorldGenVillage.java:236)
+	at org.millenaire.common.WorldGenVillage.generateVillageAtPoint(WorldGenVillage.java:512)
+	at org.millenaire.common.WorldGenVillage.generate(WorldGenVillage.java:142)
+	at cpw.mods.fml.common.registry.GameRegistry.REPLACED_generateWorld(GameRegistry.java:112)
+	at sun.reflect.GeneratedMethodAccessor19.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at farseek.util.Reflection$MethodValue$.apply$extension(Reflection.scala:59)
+	at farseek.core.ReplacedMethod.apply(MethodReplacer.scala:105)
+	at farseek.world.gen.ChunkGeneratorExtensions$.generateWorld(ChunkGeneratorExtensions.scala:19)
+	at farseek.world.gen.ChunkGeneratorExtensions.generateWorld(ChunkGeneratorExtensions.scala)
+	at cpw.mods.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:280)
+	at fastcraft.a.d.a(F:84)
+	at fastcraft.Hooks.r(F:137)
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1050)
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190)
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101)
+	at net.minecraft.server.management.PlayerManager$PlayerInstance.<init>(PlayerManager.java:508)
+	at net.minecraft.server.management.PlayerManager.getOrCreateChunkWatcher(PlayerManager.java:203)
+	at net.minecraft.server.management.PlayerManager.func_72685_d(PlayerManager.java:382)
+	at net.minecraft.server.management.ServerConfigurationManager.func_72358_d(ServerConfigurationManager.java:313)
+	at net.minecraft.network.NetHandlerPlayServer.func_147347_a(NetHandlerPlayServer.java:404)
+	at net.minecraft.network.play.client.C03PacketPlayer.func_148833_a(SourceFile:137)
+	at net.minecraft.network.play.client.C03PacketPlayer$C04PacketPlayerPosition.func_148833_a(SourceFile:63)
+	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:212)
+	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:165)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:659)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:186)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+
+6.0.0 28-02-2016 20:21:00 Repeat exception x2: -7
+6.0.0 28-02-2016 20:21:00 Repeat exception x3: -7
+6.0.0 28-02-2016 20:21:00 Repeat exception x4: -7
+6.0.0 28-02-2016 20:21:00 Repeat exception x5: -7
+6.0.0 28-02-2016 20:21:06 Exception when generating village:
+6.0.0 28-02-2016 20:21:06 java.lang.ArrayIndexOutOfBoundsException
+
+6.0.0 28-02-2016 20:21:07 Repeat exception x2: null
+6.0.0 28-02-2016 20:21:07 Repeat exception x3: null
+6.0.0 28-02-2016 20:21:07 Repeat exception x4: null
+6.0.0 28-02-2016 20:21:07 Repeat exception x5: null
+6.0.0 28-02-2016 20:21:07 Repeat exception x6: null
+6.0.0 28-02-2016 20:21:07 Repeat exception x7: null
+6.0.0 28-02-2016 20:21:07 Repeat exception x8: null
+6.0.0 28-02-2016 20:21:07 Repeat exception x9: null
+6.0.0 28-02-2016 20:21:07 Repeat exception x10: null
+6.0.0 28-02-2016 20:21:08 Repeat exception x11: null
+6.0.0 28-02-2016 20:21:08 Repeat exception x12: null
+6.0.0 28-02-2016 20:21:08 Repeat exception x13: null
+6.0.0 28-02-2016 20:21:08 Repeat exception x14: null
+6.0.0 28-02-2016 20:21:09 Repeat exception x15: null
+6.0.0 28-02-2016 20:21:09 Repeat exception x16: null
+6.0.0 28-02-2016 20:21:09 Repeat exception x17: null
+6.0.0 28-02-2016 20:21:09 Repeat exception x18: null
+6.0.0 28-02-2016 20:21:09 Repeat exception x19: null
+6.0.0 28-02-2016 20:21:09 Repeat exception x20: null
+6.0.0 28-02-2016 20:21:10 Repeat exception x21: null
+6.0.0 28-02-2016 20:21:10 Repeat exception x22: null
+6.0.0 28-02-2016 20:21:11 Repeat exception x23: null
+6.0.0 28-02-2016 20:21:11 Repeat exception x24: null
+6.0.0 28-02-2016 20:21:11 Repeat exception x25: null
+6.0.0 28-02-2016 20:21:11 Repeat exception x26: null
+6.0.0 28-02-2016 20:21:11 Repeat exception x27: null
+6.0.0 28-02-2016 20:21:12 Repeat exception x28: null
+6.0.0 28-02-2016 20:21:12 Repeat exception x29: null
+6.0.0 28-02-2016 20:21:12 Repeat exception x30: null
+6.0.0 28-02-2016 20:21:12 Repeat exception x31: null
+6.0.0 28-02-2016 20:21:12 Repeat exception x32: null
+6.0.0 28-02-2016 20:21:12 Repeat exception x33: null
+6.0.0 28-02-2016 20:21:12 Repeat exception x34: null
+6.0.0 28-02-2016 20:21:13 Repeat exception x35: null
+6.0.0 28-02-2016 20:21:13 Repeat exception x36: null
+6.0.0 28-02-2016 20:21:13 Repeat exception x37: null
+6.0.0 28-02-2016 20:21:13 Repeat exception x38: null
+6.0.0 28-02-2016 20:21:13 Repeat exception x39: null
+6.0.0 28-02-2016 20:21:13 Repeat exception x40: null
+6.0.0 28-02-2016 20:21:13 Repeat exception x41: null
+6.0.0 28-02-2016 20:21:13 Repeat exception x42: null
+6.0.0 28-02-2016 20:21:13 Repeat exception x43: null
+6.0.0 28-02-2016 20:21:14 Repeat exception x44: null
+6.0.0 28-02-2016 20:21:15 Repeat exception x45: null
+6.0.0 28-02-2016 20:21:15 Repeat exception x46: null
+6.0.0 28-02-2016 20:21:15 Repeat exception x47: null
+6.0.0 28-02-2016 20:21:15 Repeat exception x48: null
+6.0.0 28-02-2016 20:21:15 Repeat exception x49: null
+6.0.0 28-02-2016 20:21:15 Repeat exception x50: null
+6.0.0 28-02-2016 20:21:15 Repeat exception x51: null
+6.0.0 28-02-2016 20:21:15 Repeat exception x52: null
+6.0.0 28-02-2016 20:21:21 Repeat exception x53: null
+6.0.0 28-02-2016 20:21:22 Repeat exception x54: null
+6.0.0 28-02-2016 20:21:22 Repeat exception x55: null
+6.0.0 28-02-2016 20:21:22 Repeat exception x56: null
+6.0.0 28-02-2016 20:21:22 Repeat exception x57: null
+6.0.0 28-02-2016 20:21:22 Repeat exception x58: null
+6.0.0 28-02-2016 20:21:22 Repeat exception x59: null
+6.0.0 28-02-2016 20:21:22 Repeat exception x60: null
+6.0.0 28-02-2016 20:21:22 Repeat exception x61: null
+6.0.0 28-02-2016 20:21:22 Repeat exception x62: null
+6.0.0 28-02-2016 20:21:23 Repeat exception x63: null
+6.0.0 28-02-2016 20:21:23 Repeat exception x64: null
+6.0.0 28-02-2016 20:21:23 Repeat exception x65: null
+6.0.0 28-02-2016 20:21:23 Repeat exception x66: null
+6.0.0 28-02-2016 20:21:23 Repeat exception x67: null
+6.0.0 28-02-2016 20:21:23 Repeat exception x68: null
+6.0.0 28-02-2016 20:21:23 Repeat exception x69: null
+6.0.0 28-02-2016 20:21:23 Repeat exception x70: null
+6.0.0 28-02-2016 20:21:24 Repeat exception x71: null
+6.0.0 28-02-2016 20:21:25 Repeat exception x72: null
+6.0.0 28-02-2016 20:21:25 Repeat exception x73: null
+6.0.0 28-02-2016 20:21:25 Repeat exception x74: null
+6.0.0 28-02-2016 20:21:25 Repeat exception x75: null
+6.0.0 28-02-2016 20:21:25 Repeat exception x76: null
+6.0.0 28-02-2016 20:21:25 Repeat exception x77: null
+6.0.0 28-02-2016 20:21:25 Repeat exception x78: null
+6.0.0 28-02-2016 20:21:25 Repeat exception x79: null
+6.0.0 28-02-2016 20:21:27 Repeat exception x80: null
+6.0.0 28-02-2016 20:21:27 Repeat exception x81: null
+6.0.0 28-02-2016 20:21:27 Repeat exception x82: null
+6.0.0 28-02-2016 20:21:27 Repeat exception x83: null
+6.0.0 28-02-2016 20:21:27 Repeat exception x84: null
+6.0.0 28-02-2016 20:21:27 Repeat exception x85: null
+6.0.0 28-02-2016 20:21:27 Repeat exception x86: null
+6.0.0 28-02-2016 20:21:27 Repeat exception x87: null
+6.0.0 28-02-2016 20:21:29 Repeat exception x88: null
+6.0.0 28-02-2016 20:21:29 Repeat exception x89: null
+6.0.0 28-02-2016 20:21:29 Repeat exception x90: null
+6.0.0 28-02-2016 20:23:24 Repeat exception x91: null
+6.0.0 28-02-2016 20:23:24 Repeat exception x92: null
+6.0.0 28-02-2016 20:23:24 Repeat exception x93: null
+6.0.0 28-02-2016 20:23:24 Repeat exception x94: null
+6.0.0 28-02-2016 20:23:28 Repeat exception x95: null
+6.0.0 28-02-2016 20:23:29 Repeat exception x96: null
+6.0.0 28-02-2016 20:23:30 Repeat exception x97: null
+6.0.0 28-02-2016 20:29:25 Repeat exception x98: null
+6.0.0 28-02-2016 20:29:25 Repeat exception x99: null
+6.0.0 28-02-2016 20:33:34 Starting new session. Mods: examplemod 
+6.0.0 28-02-2016 20:33:48 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 28-02-2016 20:33:53 MAJOR: null: Loading language: en_US
+6.0.0 28-02-2016 20:33:53 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 28-02-2016 20:35:26 Exception when generating village:
+6.0.0 28-02-2016 20:35:26 java.lang.ArrayIndexOutOfBoundsException: -8
+	at net.minecraft.world.chunk.Chunk.func_150810_a(Chunk.java:511)
+	at org.millenaire.common.MillWorldInfo.updateChunk(MillWorldInfo.java:509)
+	at org.millenaire.common.MillWorldInfo.createWorldInfo(MillWorldInfo.java:200)
+	at org.millenaire.common.MillWorldInfo.update(MillWorldInfo.java:380)
+	at org.millenaire.common.WorldGenVillage.generateVillage(WorldGenVillage.java:236)
+	at org.millenaire.common.WorldGenVillage.generateVillageAtPoint(WorldGenVillage.java:605)
+	at org.millenaire.common.WorldGenVillage.generate(WorldGenVillage.java:142)
+	at cpw.mods.fml.common.registry.GameRegistry.REPLACED_generateWorld(GameRegistry.java:112)
+	at sun.reflect.GeneratedMethodAccessor19.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at farseek.util.Reflection$MethodValue$.apply$extension(Reflection.scala:59)
+	at farseek.core.ReplacedMethod.apply(MethodReplacer.scala:105)
+	at farseek.world.gen.ChunkGeneratorExtensions$.generateWorld(ChunkGeneratorExtensions.scala:19)
+	at farseek.world.gen.ChunkGeneratorExtensions.generateWorld(ChunkGeneratorExtensions.scala)
+	at cpw.mods.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:280)
+	at fastcraft.a.d.a(F:84)
+	at fastcraft.Hooks.r(F:137)
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1045)
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190)
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101)
+	at net.minecraft.server.MinecraftServer.func_71222_d(MinecraftServer.java:265)
+	at net.minecraft.server.integrated.IntegratedServer.func_71247_a(IntegratedServer.java:130)
+	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:153)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+
+6.0.0 28-02-2016 21:10:16 Exception when generating village:
+6.0.0 28-02-2016 21:10:16 java.lang.ArrayIndexOutOfBoundsException
+
+6.0.0 28-02-2016 21:10:16 Repeat exception x2: null
+6.0.0 28-02-2016 21:15:11 Starting new session. Mods: examplemod 
+6.0.0 28-02-2016 21:15:23 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 28-02-2016 21:15:28 MAJOR: null: Loading language: en_US
+6.0.0 28-02-2016 21:15:29 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 28-02-2016 21:19:49 Exception when generating village:
+6.0.0 28-02-2016 21:19:49 java.lang.ArrayIndexOutOfBoundsException: -8
+	at net.minecraft.world.chunk.Chunk.func_150810_a(Chunk.java:511)
+	at org.millenaire.common.MillWorldInfo.updateChunk(MillWorldInfo.java:509)
+	at org.millenaire.common.MillWorldInfo.createWorldInfo(MillWorldInfo.java:200)
+	at org.millenaire.common.MillWorldInfo.update(MillWorldInfo.java:380)
+	at org.millenaire.common.WorldGenVillage.generateVillage(WorldGenVillage.java:236)
+	at org.millenaire.common.WorldGenVillage.generateVillageAtPoint(WorldGenVillage.java:512)
+	at org.millenaire.common.WorldGenVillage.generate(WorldGenVillage.java:142)
+	at cpw.mods.fml.common.registry.GameRegistry.REPLACED_generateWorld(GameRegistry.java:112)
+	at sun.reflect.GeneratedMethodAccessor19.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at farseek.util.Reflection$MethodValue$.apply$extension(Reflection.scala:59)
+	at farseek.core.ReplacedMethod.apply(MethodReplacer.scala:105)
+	at farseek.world.gen.ChunkGeneratorExtensions$.generateWorld(ChunkGeneratorExtensions.scala:19)
+	at farseek.world.gen.ChunkGeneratorExtensions.generateWorld(ChunkGeneratorExtensions.scala)
+	at cpw.mods.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:280)
+	at fastcraft.a.d.a(F:84)
+	at fastcraft.Hooks.r(F:137)
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1055)
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190)
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73154_d(ChunkProviderServer.java:199)
+	at net.minecraft.world.World.func_72964_e(World.java:419)
+	at net.minecraft.world.World.func_147439_a(World.java:345)
+	at drzhark.mocreatures.MoCTools.isNearBlockName(MoCTools.java:310)
+	at drzhark.mocreatures.entity.passive.MoCEntityBear.checkSpawningBiome(MoCEntityBear.java:453)
+	at drzhark.mocreatures.entity.passive.MoCEntityBear.selectType(MoCEntityBear.java:86)
+	at drzhark.mocreatures.entity.MoCEntityAnimal.func_110161_a(MoCEntityAnimal.java:79)
+	at drzhark.customspawner.CustomSpawner.creatureSpecificInit(CustomSpawner.java:730)
+	at drzhark.customspawner.CustomSpawner.performWorldGenSpawning(CustomSpawner.java:796)
+	at drzhark.customspawner.EventHooks.peformCustomWorldGenSpawning(EventHooks.java:51)
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler_166_EventHooks_peformCustomWorldGenSpawning_Populate.invoke(.dynamic)
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54)
+	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:140)
+	at net.minecraftforge.event.terraingen.TerrainGen.populate(TerrainGen.java:36)
+	at ttftcuts.atg.ATGChunkProvider.func_73153_a(ATGChunkProvider.java:427)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:279)
+	at fastcraft.a.d.a(F:84)
+	at fastcraft.Hooks.r(F:137)
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1055)
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190)
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101)
+	at net.minecraft.server.management.PlayerManager$PlayerInstance.<init>(PlayerManager.java:508)
+	at net.minecraft.server.management.PlayerManager.getOrCreateChunkWatcher(PlayerManager.java:203)
+	at net.minecraft.server.management.PlayerManager.func_72685_d(PlayerManager.java:382)
+	at net.minecraft.server.management.ServerConfigurationManager.func_72358_d(ServerConfigurationManager.java:313)
+	at net.minecraft.network.NetHandlerPlayServer.func_147347_a(NetHandlerPlayServer.java:404)
+	at net.minecraft.network.play.client.C03PacketPlayer.func_148833_a(SourceFile:137)
+	at net.minecraft.network.play.client.C03PacketPlayer$C04PacketPlayerPosition.func_148833_a(SourceFile:63)
+	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:212)
+	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:165)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:659)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:186)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+
+6.0.0 28-02-2016 21:19:49 Exception when generating village:
+6.0.0 28-02-2016 21:19:49 java.lang.ArrayIndexOutOfBoundsException
+
+6.0.0 28-02-2016 21:19:49 Repeat exception x2: null
+6.0.0 28-02-2016 21:19:49 Repeat exception x3: null
+6.0.0 28-02-2016 21:19:49 Repeat exception x4: null
+6.0.0 28-02-2016 21:19:49 Repeat exception x5: null
+6.0.0 28-02-2016 21:19:49 Repeat exception x6: null
+6.0.0 28-02-2016 21:19:50 Repeat exception x2: -8
+6.0.0 28-02-2016 21:19:50 Repeat exception x7: null
+6.0.0 28-02-2016 21:19:50 Repeat exception x8: null
+6.0.0 28-02-2016 21:19:50 Repeat exception x9: null
+6.0.0 28-02-2016 21:19:50 Repeat exception x10: null
+6.0.0 28-02-2016 21:19:50 Repeat exception x11: null
+6.0.0 28-02-2016 21:19:50 Repeat exception x12: null
+6.0.0 28-02-2016 21:19:50 Repeat exception x13: null
+6.0.0 28-02-2016 21:19:50 Repeat exception x14: null
+6.0.0 28-02-2016 21:19:50 Repeat exception x15: null
+6.0.0 28-02-2016 21:19:50 Repeat exception x16: null
+6.0.0 28-02-2016 21:19:51 Repeat exception x17: null
+6.0.0 28-02-2016 21:19:51 Repeat exception x18: null
+6.0.0 28-02-2016 21:19:51 Repeat exception x19: null
+6.0.0 28-02-2016 21:19:51 Repeat exception x20: null
+6.0.0 28-02-2016 21:19:51 Repeat exception x21: null
+6.0.0 28-02-2016 21:19:51 Repeat exception x22: null
+6.0.0 28-02-2016 21:19:51 Repeat exception x23: null
+6.0.0 28-02-2016 21:19:51 Repeat exception x24: null
+6.0.0 28-02-2016 21:19:51 Repeat exception x25: null
+6.0.0 28-02-2016 21:19:52 Repeat exception x26: null
+6.0.0 28-02-2016 21:19:52 Repeat exception x27: null
+6.0.0 28-02-2016 21:54:36 Starting new session. Mods: examplemod 
+6.0.0 28-02-2016 21:54:56 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 28-02-2016 21:55:03 MAJOR: null: Loading language: en_US
+6.0.0 28-02-2016 21:55:03 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name

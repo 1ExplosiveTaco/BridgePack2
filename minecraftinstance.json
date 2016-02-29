@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2016-02-28T01:50:51.3549414Z",
+  "lastPlayed": "2016-02-29T02:53:21.7459486Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -28,7 +28,7 @@
   "modpackOverrides": null,
   "isMemoryOverride": false,
   "allocatedMemory": 0,
-  "guid": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+  "guid": "a137baaa-5a56-4922-85a3-d26f600c6901",
   "gameTypeID": 432,
   "installPath": "C:\\Users\\joebr\\Documents\\Curse\\Minecraft\\Instances\\BridgePack2\\",
   "name": "BridgePack2",
@@ -110,7 +110,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:13:31.7658128Z",
       "lastWriteTimeUtc": "2016-02-27T17:40:22.2800198Z",
-      "queryTimestamp": "2016-02-27T18:13:32.071838Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1431692Z",
       "fileCount": 22,
       "fileSize": 0
     },
@@ -125,7 +125,7 @@
       "status": 1,
       "timestamp": "2016-02-27T15:01:19.835352Z",
       "lastWriteTimeUtc": "2016-02-27T14:52:42.9096379Z",
-      "queryTimestamp": "2016-02-27T15:01:20.125329Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1431692Z",
       "fileCount": 1,
       "fileSize": 513018
     },
@@ -140,7 +140,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:13:31.7256777Z",
       "lastWriteTimeUtc": "2016-02-27T18:04:53.9511058Z",
-      "queryTimestamp": "2016-02-27T18:13:32.0708345Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1431692Z",
       "fileCount": 1,
       "fileSize": 2539846
     },
@@ -155,7 +155,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:29:57.0676251Z",
       "lastWriteTimeUtc": "2016-02-27T18:25:38.3870337Z",
-      "queryTimestamp": "2016-02-27T18:29:57.6064305Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1441696Z",
       "fileCount": 1,
       "fileSize": 1397415
     },
@@ -170,7 +170,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:18:14.2240762Z",
       "lastWriteTimeUtc": "2016-02-27T18:12:17.8321351Z",
-      "queryTimestamp": "2016-02-27T18:18:14.6304381Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1441696Z",
       "fileCount": 1,
       "fileSize": 102858
     },
@@ -185,7 +185,7 @@
       "status": 1,
       "timestamp": "2016-02-27T15:01:19.8985692Z",
       "lastWriteTimeUtc": "2016-02-27T14:57:07.7448258Z",
-      "queryTimestamp": "2016-02-27T15:01:20.125329Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1441696Z",
       "fileCount": 1,
       "fileSize": 52002
     },
@@ -200,7 +200,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:29:57.0836794Z",
       "lastWriteTimeUtc": "2016-02-27T18:26:11.6384314Z",
-      "queryTimestamp": "2016-02-27T18:29:57.6074391Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1441696Z",
       "fileCount": 1,
       "fileSize": 2149827
     },
@@ -215,7 +215,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:18:14.2391322Z",
       "lastWriteTimeUtc": "2016-02-27T18:07:48.3132252Z",
-      "queryTimestamp": "2016-02-27T18:18:14.6274277Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1451695Z",
       "fileCount": 1,
       "fileSize": 5601409
     },
@@ -230,7 +230,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:50:24.1945502Z",
       "lastWriteTimeUtc": "2016-02-27T18:44:04.9169957Z",
-      "queryTimestamp": "2016-02-27T18:50:24.7112819Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1451695Z",
       "fileCount": 1,
       "fileSize": 972199
     },
@@ -243,9 +243,9 @@
         2388142823
       ],
       "status": 1,
-      "timestamp": "2016-02-27T18:50:24.2035804Z",
+      "timestamp": "2016-02-29T02:53:07.7501464Z",
       "lastWriteTimeUtc": "2016-02-27T18:44:57.9857722Z",
-      "queryTimestamp": "2016-02-27T18:50:24.7112819Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1451695Z",
       "fileCount": 1,
       "fileSize": 282107
     },
@@ -317,7 +317,7 @@
       "status": 1,
       "timestamp": "2016-02-27T17:20:28.0063881Z",
       "lastWriteTimeUtc": "2016-02-27T16:57:13.974249Z",
-      "queryTimestamp": "2016-02-27T17:20:28.2602387Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1451695Z",
       "fileCount": 21,
       "fileSize": 0
     },
@@ -332,7 +332,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:18:14.1729053Z",
       "lastWriteTimeUtc": "2016-02-27T18:13:58.8395113Z",
-      "queryTimestamp": "2016-02-27T18:18:14.6254262Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1461699Z",
       "fileCount": 1,
       "fileSize": 1087082
     },
@@ -347,7 +347,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:29:57.0325073Z",
       "lastWriteTimeUtc": "2016-02-27T18:24:03.7971601Z",
-      "queryTimestamp": "2016-02-27T18:29:57.6084371Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1461699Z",
       "fileCount": 1,
       "fileSize": 2783746
     },
@@ -362,7 +362,7 @@
       "status": 1,
       "timestamp": "2016-02-27T15:01:19.9025827Z",
       "lastWriteTimeUtc": "2016-02-27T14:55:50.5110924Z",
-      "queryTimestamp": "2016-02-27T15:01:20.1243255Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1461699Z",
       "fileCount": 1,
       "fileSize": 544821
     },
@@ -377,7 +377,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:18:14.2321029Z",
       "lastWriteTimeUtc": "2016-02-27T18:07:04.6108211Z",
-      "queryTimestamp": "2016-02-27T18:18:14.6354547Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1461699Z",
       "fileCount": 1,
       "fileSize": 580003
     },
@@ -392,7 +392,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:34:11.0515079Z",
       "lastWriteTimeUtc": "2016-02-27T18:33:36.3151303Z",
-      "queryTimestamp": "2016-02-27T18:34:11.4117146Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1461699Z",
       "fileCount": 1,
       "fileSize": 90518
     },
@@ -407,7 +407,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:18:14.1949788Z",
       "lastWriteTimeUtc": "2016-02-27T18:07:32.5193155Z",
-      "queryTimestamp": "2016-02-27T18:18:14.6254262Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1471692Z",
       "fileCount": 1,
       "fileSize": 240223
     },
@@ -422,7 +422,7 @@
       "status": 1,
       "timestamp": "2016-02-27T17:20:27.9572235Z",
       "lastWriteTimeUtc": "2016-02-27T16:57:13.4715654Z",
-      "queryTimestamp": "2016-02-27T17:20:28.262245Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1471692Z",
       "fileCount": 1,
       "fileSize": 134015
     },
@@ -437,7 +437,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:13:31.7517653Z",
       "lastWriteTimeUtc": "2016-02-27T18:04:45.901138Z",
-      "queryTimestamp": "2016-02-27T18:13:32.0728408Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1471692Z",
       "fileCount": 1,
       "fileSize": 585802
     },
@@ -452,7 +452,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:29:56.9833433Z",
       "lastWriteTimeUtc": "2016-02-27T18:28:14.131783Z",
-      "queryTimestamp": "2016-02-27T18:29:57.6094457Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1471692Z",
       "fileCount": 1,
       "fileSize": 4519402
     },
@@ -467,7 +467,7 @@
       "status": 1,
       "timestamp": "2016-02-27T17:20:27.9983608Z",
       "lastWriteTimeUtc": "2016-02-27T16:57:13.5387897Z",
-      "queryTimestamp": "2016-02-27T17:20:28.262245Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1481693Z",
       "fileCount": 1,
       "fileSize": 251440
     },
@@ -482,7 +482,7 @@
       "status": 1,
       "timestamp": "2016-02-27T15:01:19.8323423Z",
       "lastWriteTimeUtc": "2016-02-27T14:56:46.04614Z",
-      "queryTimestamp": "2016-02-27T15:01:20.1263321Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1481693Z",
       "fileCount": 1,
       "fileSize": 101777
     },
@@ -507,7 +507,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:50:24.2146175Z",
       "lastWriteTimeUtc": "2016-02-27T15:02:51.1302032Z",
-      "queryTimestamp": "2016-02-27T18:50:24.7152999Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1481693Z",
       "fileCount": 2,
       "fileSize": 0
     },
@@ -522,7 +522,7 @@
       "status": 1,
       "timestamp": "2016-02-27T15:01:19.562438Z",
       "lastWriteTimeUtc": "2016-02-27T14:52:42.7641456Z",
-      "queryTimestamp": "2016-02-27T15:01:20.1243255Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1491695Z",
       "fileCount": 1,
       "fileSize": 145782
     },
@@ -537,24 +537,9 @@
       "status": 1,
       "timestamp": "2016-02-27T18:34:11.0555162Z",
       "lastWriteTimeUtc": "2016-02-27T18:32:27.422331Z",
-      "queryTimestamp": "2016-02-27T18:34:11.4137161Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1491695Z",
       "fileCount": 1,
       "fileSize": 60626
-    },
-    {
-      "folderName": "SmartRender-1.7.10-2.1.jar",
-      "fingerprint": 1748131197,
-      "fileDateHash": 3158159637,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1748131197
-      ],
-      "status": 1,
-      "timestamp": "2016-02-27T18:50:24.2126103Z",
-      "lastWriteTimeUtc": "2016-02-27T18:44:58.1262376Z",
-      "queryTimestamp": "2016-02-27T18:50:24.7152999Z",
-      "fileCount": 1,
-      "fileSize": 146186
     },
     {
       "folderName": "ChickenChunks-1.7.10-1.3.4.19-universal.jar",
@@ -567,7 +552,7 @@
       "status": 1,
       "timestamp": "2016-02-27T15:01:19.5614342Z",
       "lastWriteTimeUtc": "2016-02-27T14:52:44.8611701Z",
-      "queryTimestamp": "2016-02-27T15:01:20.1233221Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1491695Z",
       "fileCount": 1,
       "fileSize": 106701
     },
@@ -582,7 +567,7 @@
       "status": 1,
       "timestamp": "2016-02-27T15:01:19.9216416Z",
       "lastWriteTimeUtc": "2016-02-27T14:52:47.582286Z",
-      "queryTimestamp": "2016-02-27T15:01:20.125329Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1491695Z",
       "fileCount": 1,
       "fileSize": 352856
     },
@@ -597,7 +582,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:18:14.1989923Z",
       "lastWriteTimeUtc": "2016-02-27T18:04:14.6404139Z",
-      "queryTimestamp": "2016-02-27T18:18:14.6364582Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1681702Z",
       "fileCount": 1,
       "fileSize": 1223574
     },
@@ -612,7 +597,7 @@
       "status": 1,
       "timestamp": "2016-02-27T17:20:27.9632439Z",
       "lastWriteTimeUtc": "2016-02-27T16:57:13.5016657Z",
-      "queryTimestamp": "2016-02-27T17:20:28.2582318Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1691703Z",
       "fileCount": 1,
       "fileSize": 1223331
     },
@@ -627,7 +612,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:18:14.3193956Z",
       "lastWriteTimeUtc": "2016-02-27T18:04:15.1571446Z",
-      "queryTimestamp": "2016-02-27T18:18:14.6284312Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1691703Z",
       "fileCount": 1,
       "fileSize": 2199024
     },
@@ -642,7 +627,7 @@
       "status": 1,
       "timestamp": "2016-02-27T15:01:19.7831828Z",
       "lastWriteTimeUtc": "2016-02-27T14:52:43.6772091Z",
-      "queryTimestamp": "2016-02-27T15:01:20.1223135Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1691703Z",
       "fileCount": 1,
       "fileSize": 145063
     },
@@ -657,7 +642,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:29:57.2111063Z",
       "lastWriteTimeUtc": "2016-02-27T18:27:02.355334Z",
-      "queryTimestamp": "2016-02-27T18:29:57.6124503Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1691703Z",
       "fileCount": 1,
       "fileSize": 51898
     },
@@ -672,7 +657,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:29:57.1448839Z",
       "lastWriteTimeUtc": "2016-02-27T18:24:12.7351015Z",
-      "queryTimestamp": "2016-02-27T18:29:57.6124503Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1701702Z",
       "fileCount": 1,
       "fileSize": 158100
     },
@@ -687,7 +672,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:18:14.2250796Z",
       "lastWriteTimeUtc": "2016-02-27T18:06:56.4615255Z",
-      "queryTimestamp": "2016-02-27T18:18:14.6274277Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1701702Z",
       "fileCount": 1,
       "fileSize": 331089
     },
@@ -702,7 +687,7 @@
       "status": 1,
       "timestamp": "2016-02-27T15:01:19.4972197Z",
       "lastWriteTimeUtc": "2016-02-27T14:39:17.8728255Z",
-      "queryTimestamp": "2016-02-27T15:01:20.1263321Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1701702Z",
       "fileCount": 1,
       "fileSize": 868474
     },
@@ -717,7 +702,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:18:14.2321029Z",
       "lastWriteTimeUtc": "2016-02-27T18:10:55.452152Z",
-      "queryTimestamp": "2016-02-27T18:18:14.6284312Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1701702Z",
       "fileCount": 1,
       "fileSize": 29473
     },
@@ -732,7 +717,7 @@
       "status": 1,
       "timestamp": "2016-02-27T15:01:19.8413725Z",
       "lastWriteTimeUtc": "2016-02-27T14:39:16.9607699Z",
-      "queryTimestamp": "2016-02-27T15:01:20.125329Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1711703Z",
       "fileCount": 1,
       "fileSize": 392054
     },
@@ -747,7 +732,7 @@
       "status": 1,
       "timestamp": "2016-02-27T15:01:19.9086028Z",
       "lastWriteTimeUtc": "2016-02-27T14:59:00.7674634Z",
-      "queryTimestamp": "2016-02-27T15:01:20.1233221Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1711703Z",
       "fileCount": 1,
       "fileSize": 1342632
     },
@@ -791,7 +776,7 @@
       "status": 1,
       "timestamp": "2016-02-27T15:01:19.9246511Z",
       "lastWriteTimeUtc": "2016-02-27T14:49:39.0858396Z",
-      "queryTimestamp": "2016-02-27T15:01:20.1233221Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1711703Z",
       "fileCount": 13,
       "fileSize": 0
     },
@@ -806,7 +791,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:18:14.1839472Z",
       "lastWriteTimeUtc": "2016-02-27T18:06:42.9502575Z",
-      "queryTimestamp": "2016-02-27T18:18:14.6344513Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1711703Z",
       "fileCount": 1,
       "fileSize": 1106867
     },
@@ -821,24 +806,9 @@
       "status": 1,
       "timestamp": "2016-02-27T15:01:19.7972296Z",
       "lastWriteTimeUtc": "2016-02-27T14:53:29.7174369Z",
-      "queryTimestamp": "2016-02-27T15:01:20.125329Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1721707Z",
       "fileCount": 1,
       "fileSize": 1734339
-    },
-    {
-      "folderName": "SmartMoving-1.7.10-15.6.jar",
-      "fingerprint": 2489157444,
-      "fileDateHash": 699453788,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2489157444
-      ],
-      "status": 1,
-      "timestamp": "2016-02-27T18:50:24.2065902Z",
-      "lastWriteTimeUtc": "2016-02-27T18:44:58.3168764Z",
-      "queryTimestamp": "2016-02-27T18:50:24.7203117Z",
-      "fileCount": 1,
-      "fileSize": 574526
     },
     {
       "folderName": "fastcraft-1.21.jar",
@@ -851,7 +821,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:29:57.1067573Z",
       "lastWriteTimeUtc": "2016-02-20T17:37:50.4322124Z",
-      "queryTimestamp": "2016-02-27T18:29:57.6144624Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1721707Z",
       "fileCount": 1,
       "fileSize": 116959
     },
@@ -866,7 +836,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:18:14.2280906Z",
       "lastWriteTimeUtc": "2016-02-27T18:07:47.3921401Z",
-      "queryTimestamp": "2016-02-27T18:18:14.6324447Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1721707Z",
       "fileCount": 1,
       "fileSize": 202458
     },
@@ -881,7 +851,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:30:02.9443126Z",
       "lastWriteTimeUtc": "2016-02-19T01:46:21.2179388Z",
-      "queryTimestamp": "2016-02-27T18:30:03.1600357Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1721707Z",
       "fileCount": 1,
       "fileSize": 73340
     },
@@ -896,7 +866,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:29:57.2572608Z",
       "lastWriteTimeUtc": "2016-02-27T18:25:31.6735437Z",
-      "queryTimestamp": "2016-02-27T18:29:57.6154658Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1731709Z",
       "fileCount": 1,
       "fileSize": 442199
     },
@@ -1013,7 +983,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:50:24.2326832Z",
       "lastWriteTimeUtc": "2016-02-27T18:42:57.2031645Z",
-      "queryTimestamp": "2016-02-27T18:50:24.7223186Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1731709Z",
       "fileCount": 29,
       "fileSize": 0
     },
@@ -1028,9 +998,24 @@
       "status": 1,
       "timestamp": "2016-02-27T18:18:14.1969854Z",
       "lastWriteTimeUtc": "2016-02-27T18:06:51.7958901Z",
-      "queryTimestamp": "2016-02-27T18:18:14.6304381Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1731709Z",
       "fileCount": 1,
       "fileSize": 174814
+    },
+    {
+      "folderName": "RTG-1.7.10-0.6.2.jar.disabled",
+      "fingerprint": 2316215591,
+      "fileDateHash": 1936302101,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2316215591
+      ],
+      "status": 1,
+      "timestamp": "2016-02-29T02:53:07.754147Z",
+      "lastWriteTimeUtc": "2016-02-27T16:57:13.5307636Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1731709Z",
+      "fileCount": 1,
+      "fileSize": 1926590
     },
     {
       "folderName": "ThermalDynamics-[1.7.10]1.1.0-161.jar",
@@ -1043,7 +1028,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:29:57.3144521Z",
       "lastWriteTimeUtc": "2016-02-27T18:24:34.2652267Z",
-      "queryTimestamp": "2016-02-27T18:29:57.6154658Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1741707Z",
       "fileCount": 1,
       "fileSize": 462208
     },
@@ -1058,7 +1043,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:18:14.3464918Z",
       "lastWriteTimeUtc": "2016-02-27T18:08:12.3326916Z",
-      "queryTimestamp": "2016-02-27T18:18:14.6294398Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1741707Z",
       "fileCount": 1,
       "fileSize": 38401
     },
@@ -1073,7 +1058,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:18:14.3434817Z",
       "lastWriteTimeUtc": "2016-02-27T18:07:48.8811277Z",
-      "queryTimestamp": "2016-02-27T18:18:14.6274277Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1741707Z",
       "fileCount": 1,
       "fileSize": 221769
     },
@@ -1088,7 +1073,7 @@
       "status": 1,
       "timestamp": "2016-02-27T15:01:19.7821794Z",
       "lastWriteTimeUtc": "2016-02-27T14:39:15.6965364Z",
-      "queryTimestamp": "2016-02-27T15:01:20.125329Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1751715Z",
       "fileCount": 1,
       "fileSize": 96266
     },
@@ -1103,7 +1088,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:34:11.1889635Z",
       "lastWriteTimeUtc": "2016-02-27T18:31:32.7883004Z",
-      "queryTimestamp": "2016-02-27T18:34:11.4207397Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1751715Z",
       "fileCount": 1,
       "fileSize": 891845
     },
@@ -1118,7 +1103,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:29:57.1107702Z",
       "lastWriteTimeUtc": "2016-02-27T18:26:16.3321502Z",
-      "queryTimestamp": "2016-02-27T18:29:57.6174673Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1751715Z",
       "fileCount": 1,
       "fileSize": 3303413
     },
@@ -1133,7 +1118,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:18:14.2120363Z",
       "lastWriteTimeUtc": "2016-02-27T18:09:06.4188833Z",
-      "queryTimestamp": "2016-02-27T18:18:14.6314464Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1751715Z",
       "fileCount": 1,
       "fileSize": 1268131
     },
@@ -1148,7 +1133,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:34:11.0625392Z",
       "lastWriteTimeUtc": "2016-02-27T18:32:03.6075478Z",
-      "queryTimestamp": "2016-02-27T18:34:11.4217434Z",
+      "queryTimestamp": "2016-02-29T02:53:08.176171Z",
       "fileCount": 1,
       "fileSize": 11151826
     },
@@ -1163,7 +1148,7 @@
       "status": 1,
       "timestamp": "2016-02-27T15:01:19.5052461Z",
       "lastWriteTimeUtc": "2016-02-27T14:38:45.8425262Z",
-      "queryTimestamp": "2016-02-27T15:01:20.1243255Z",
+      "queryTimestamp": "2016-02-29T02:53:08.176171Z",
       "fileCount": 1,
       "fileSize": 5734271
     },
@@ -1178,7 +1163,7 @@
       "status": 1,
       "timestamp": "2016-02-27T17:20:27.9582266Z",
       "lastWriteTimeUtc": "2016-02-27T16:57:13.483605Z",
-      "queryTimestamp": "2016-02-27T17:20:28.262245Z",
+      "queryTimestamp": "2016-02-29T02:53:08.176171Z",
       "fileCount": 1,
       "fileSize": 376751
     },
@@ -1193,7 +1178,7 @@
       "status": 1,
       "timestamp": "2016-02-27T17:20:28.0013711Z",
       "lastWriteTimeUtc": "2016-02-27T16:57:13.5759144Z",
-      "queryTimestamp": "2016-02-27T17:20:28.2602387Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1771712Z",
       "fileCount": 1,
       "fileSize": 9624
     },
@@ -1208,7 +1193,7 @@
       "status": 1,
       "timestamp": "2016-02-27T15:01:19.8333457Z",
       "lastWriteTimeUtc": "2016-02-27T14:56:46.9110376Z",
-      "queryTimestamp": "2016-02-27T15:01:20.1243255Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1771712Z",
       "fileCount": 1,
       "fileSize": 197046
     },
@@ -1223,7 +1208,7 @@
       "status": 1,
       "timestamp": "2016-02-27T15:01:19.7942196Z",
       "lastWriteTimeUtc": "2016-02-27T14:55:41.7497419Z",
-      "queryTimestamp": "2016-02-27T15:01:20.1233221Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1771712Z",
       "fileCount": 1,
       "fileSize": 224461
     },
@@ -1238,7 +1223,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:29:57.2753211Z",
       "lastWriteTimeUtc": "2016-02-27T18:23:53.7856267Z",
-      "queryTimestamp": "2016-02-27T18:29:57.6184705Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1771712Z",
       "fileCount": 1,
       "fileSize": 3705302
     },
@@ -1253,7 +1238,7 @@
       "status": 1,
       "timestamp": "2016-02-27T17:20:27.9782945Z",
       "lastWriteTimeUtc": "2016-02-27T16:57:13.5066826Z",
-      "queryTimestamp": "2016-02-27T17:20:28.263249Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1781713Z",
       "fileCount": 1,
       "fileSize": 65655
     },
@@ -1268,7 +1253,7 @@
       "status": 1,
       "timestamp": "2016-02-27T17:22:27.1796409Z",
       "lastWriteTimeUtc": "2016-02-27T17:20:28.8893463Z",
-      "queryTimestamp": "2016-02-27T17:22:27.5308175Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1781713Z",
       "fileCount": 1,
       "fileSize": 4097363
     },
@@ -1283,7 +1268,7 @@
       "status": 1,
       "timestamp": "2016-02-27T15:01:19.8403687Z",
       "lastWriteTimeUtc": "2016-02-27T14:39:21.1668599Z",
-      "queryTimestamp": "2016-02-27T15:01:20.1243255Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1781713Z",
       "fileCount": 1,
       "fileSize": 92864
     },
@@ -1368,7 +1353,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:29:57.3254895Z",
       "lastWriteTimeUtc": "2016-02-27T18:21:12.7662091Z",
-      "queryTimestamp": "2016-02-27T18:29:57.6194793Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1781713Z",
       "fileCount": 26,
       "fileSize": 0
     },
@@ -1383,7 +1368,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:29:57.2703042Z",
       "lastWriteTimeUtc": "2016-02-27T18:25:30.9621606Z",
-      "queryTimestamp": "2016-02-27T18:29:57.6194793Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1791709Z",
       "fileCount": 1,
       "fileSize": 258517
     },
@@ -1398,7 +1383,7 @@
       "status": 1,
       "timestamp": "2016-02-27T15:01:19.5644443Z",
       "lastWriteTimeUtc": "2016-02-27T14:38:59.9377441Z",
-      "queryTimestamp": "2016-02-27T15:01:20.1223135Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1791709Z",
       "fileCount": 1,
       "fileSize": 596575
     },
@@ -1413,7 +1398,7 @@
       "status": 1,
       "timestamp": "2016-02-27T15:01:19.8152902Z",
       "lastWriteTimeUtc": "2016-02-27T14:39:23.1013455Z",
-      "queryTimestamp": "2016-02-27T15:01:20.1223135Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1831718Z",
       "fileCount": 1,
       "fileSize": 66648
     },
@@ -1428,7 +1413,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:29:57.0626082Z",
       "lastWriteTimeUtc": "2016-02-27T18:24:06.2453664Z",
-      "queryTimestamp": "2016-02-27T18:29:57.6204828Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1841713Z",
       "fileCount": 1,
       "fileSize": 262910
     },
@@ -1443,24 +1428,9 @@
       "status": 1,
       "timestamp": "2016-02-27T18:29:57.1499012Z",
       "lastWriteTimeUtc": "2016-02-27T18:24:13.8207385Z",
-      "queryTimestamp": "2016-02-27T18:29:57.6204828Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1841713Z",
       "fileCount": 1,
       "fileSize": 32695
-    },
-    {
-      "folderName": "RTG-1.7.10-0.6.2.jar",
-      "fingerprint": 2316215591,
-      "fileDateHash": 1936302101,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2316215591
-      ],
-      "status": 1,
-      "timestamp": "2016-02-27T17:20:27.9792973Z",
-      "lastWriteTimeUtc": "2016-02-27T16:57:13.5307636Z",
-      "queryTimestamp": "2016-02-27T17:20:28.2602387Z",
-      "fileCount": 1,
-      "fileSize": 1926590
     },
     {
       "folderName": "ThermalExpansion-[1.7.10]4.1.2-240.jar",
@@ -1473,7 +1443,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:18:14.2943117Z",
       "lastWriteTimeUtc": "2016-02-27T18:04:15.5855842Z",
-      "queryTimestamp": "2016-02-27T18:18:14.6334478Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1841713Z",
       "fileCount": 1,
       "fileSize": 2597816
     },
@@ -1488,7 +1458,7 @@
       "status": 1,
       "timestamp": "2016-02-27T15:01:19.7932164Z",
       "lastWriteTimeUtc": "2016-02-27T14:39:14.769429Z",
-      "queryTimestamp": "2016-02-27T15:01:20.125329Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1841713Z",
       "fileCount": 1,
       "fileSize": 163963
     },
@@ -1568,7 +1538,7 @@
       "status": 1,
       "timestamp": "2016-02-27T16:57:06.9236283Z",
       "lastWriteTimeUtc": "2016-02-27T15:24:10.021105Z",
-      "queryTimestamp": "2016-02-27T16:57:08.8440621Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1851712Z",
       "fileCount": 18,
       "fileSize": 0
     },
@@ -1583,7 +1553,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:18:14.3414751Z",
       "lastWriteTimeUtc": "2016-02-27T18:07:44.9479515Z",
-      "queryTimestamp": "2016-02-27T18:18:14.6304381Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1851712Z",
       "fileCount": 1,
       "fileSize": 238582
     },
@@ -1598,7 +1568,7 @@
       "status": 1,
       "timestamp": "2016-02-27T15:01:19.8162937Z",
       "lastWriteTimeUtc": "2016-02-27T15:00:58.4507113Z",
-      "queryTimestamp": "2016-02-27T15:01:20.1233221Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1851712Z",
       "fileCount": 1,
       "fileSize": 10339
     },
@@ -1613,7 +1583,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:50:24.1865284Z",
       "lastWriteTimeUtc": "2016-02-27T18:44:33.3351921Z",
-      "queryTimestamp": "2016-02-27T18:50:24.7303504Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1851712Z",
       "fileCount": 1,
       "fileSize": 832555
     },
@@ -1628,7 +1598,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:50:24.2065902Z",
       "lastWriteTimeUtc": "2016-02-27T18:43:51.9304983Z",
-      "queryTimestamp": "2016-02-27T18:50:24.7303504Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1861713Z",
       "fileCount": 1,
       "fileSize": 17880
     },
@@ -1643,7 +1613,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:29:57.2632809Z",
       "lastWriteTimeUtc": "2016-02-27T18:24:45.05437Z",
-      "queryTimestamp": "2016-02-27T18:29:57.6224843Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1861713Z",
       "fileCount": 1,
       "fileSize": 399701
     },
@@ -1658,7 +1628,7 @@
       "status": 1,
       "timestamp": "2016-02-27T15:01:19.5694613Z",
       "lastWriteTimeUtc": "2016-02-27T14:39:03.1023454Z",
-      "queryTimestamp": "2016-02-27T15:01:20.1233221Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1861713Z",
       "fileCount": 1,
       "fileSize": 21556740
     },
@@ -1673,7 +1643,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:29:57.2432131Z",
       "lastWriteTimeUtc": "2016-02-27T18:24:42.7305905Z",
-      "queryTimestamp": "2016-02-27T18:29:57.6234877Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1871718Z",
       "fileCount": 1,
       "fileSize": 1154687
     },
@@ -1688,7 +1658,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:30:02.9483316Z",
       "lastWriteTimeUtc": "2016-02-20T18:41:49.516657Z",
-      "queryTimestamp": "2016-02-27T18:30:03.1740876Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1871718Z",
       "fileCount": 1,
       "fileSize": 925253
     },
@@ -1703,7 +1673,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:18:14.230102Z",
       "lastWriteTimeUtc": "2016-02-27T18:07:32.4149656Z",
-      "queryTimestamp": "2016-02-27T18:18:14.6274277Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1881716Z",
       "fileCount": 1,
       "fileSize": 154694
     },
@@ -1718,7 +1688,7 @@
       "status": 1,
       "timestamp": "2016-02-27T18:29:57.2141166Z",
       "lastWriteTimeUtc": "2016-02-27T18:24:43.1720644Z",
-      "queryTimestamp": "2016-02-27T18:29:57.6234877Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1881716Z",
       "fileCount": 1,
       "fileSize": 2705342
     },
@@ -1733,7 +1703,7 @@
       "status": 1,
       "timestamp": "2016-02-27T15:01:19.9075996Z",
       "lastWriteTimeUtc": "2016-02-27T14:55:50.6485535Z",
-      "queryTimestamp": "2016-02-27T15:01:20.1243255Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1881716Z",
       "fileCount": 1,
       "fileSize": 28800
     },
@@ -1748,13 +1718,13 @@
       "status": 1,
       "timestamp": "2016-02-27T17:20:28.0003674Z",
       "lastWriteTimeUtc": "2016-02-27T16:57:13.5438064Z",
-      "queryTimestamp": "2016-02-27T17:20:28.2602387Z",
+      "queryTimestamp": "2016-02-29T02:53:08.1881716Z",
       "fileCount": 1,
       "fileSize": 110760
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2016-02-27T18:50:26.5333906Z",
+  "lastPreviousMatchUpdate": "2016-02-29T02:53:10.1882866Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.7.10",
@@ -1773,11 +1743,11 @@
     "LastSyncDate": "0001-01-01T00:00:00"
   },
   "preferenceShowAddOnInfo": true,
-  "installDate": "2016-02-27T16:57:06.8764704Z",
+  "installDate": "2016-02-29T02:53:06.3600667Z",
   "installedAddons": [
     {
       "addonID": 220318,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2281726,
         "FileName": "BiomesOPlenty-1.7.10-2.1.0.1889-universal.jar",
@@ -1824,7 +1794,7 @@
       "dateInstalled": "2016-02-27T14:38:45.8425262Z",
       "dateUpdated": "2016-02-27T14:38:45.8937028Z",
       "dateLastUpdateAttempted": "2016-02-27T14:38:45.8937028Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1836,7 +1806,7 @@
     },
     {
       "addonID": 229261,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2232970,
         "FileName": "CustomMobSpawner 3.3.0.zip",
@@ -1883,7 +1853,7 @@
       "dateInstalled": "2016-02-27T14:38:59.9387476Z",
       "dateUpdated": "2016-02-27T14:38:59.9407545Z",
       "dateLastUpdateAttempted": "2016-02-27T14:38:59.9407545Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1895,7 +1865,7 @@
     },
     {
       "addonID": 229260,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2232973,
         "FileName": "DrZharks MoCreatures Mod v6.3.1.zip",
@@ -1967,7 +1937,7 @@
       "dateInstalled": "2016-02-27T14:39:03.1023454Z",
       "dateUpdated": "2016-02-27T14:39:03.1274295Z",
       "dateLastUpdateAttempted": "2016-02-27T14:39:03.1274295Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1979,7 +1949,7 @@
     },
     {
       "addonID": 227875,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2227584,
         "FileName": "InfernalMobs-1.7.10.jar",
@@ -2026,7 +1996,7 @@
       "dateInstalled": "2016-02-27T14:39:14.7704322Z",
       "dateUpdated": "2016-02-27T14:39:14.7724394Z",
       "dateLastUpdateAttempted": "2016-02-27T14:39:14.7724394Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2038,7 +2008,7 @@
     },
     {
       "addonID": 227874,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2231444,
         "FileName": "DynamicLights-1.7.10.jar",
@@ -2089,7 +2059,7 @@
       "dateInstalled": "2016-02-27T14:39:15.697538Z",
       "dateUpdated": "2016-02-27T14:39:15.6985415Z",
       "dateLastUpdateAttempted": "2016-02-27T14:39:15.6985415Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2101,7 +2071,7 @@
     },
     {
       "addonID": 227873,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2276824,
         "FileName": "Ruins 15.4 for MC 1.7.10",
@@ -2140,7 +2110,7 @@
       "dateInstalled": "2016-02-27T14:39:16.961773Z",
       "dateUpdated": "2016-02-27T14:39:16.9627768Z",
       "dateLastUpdateAttempted": "2016-02-27T14:39:16.9627768Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2152,7 +2122,7 @@
     },
     {
       "addonID": 227877,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2231443,
         "FileName": "BattleTowers-1.7.10.jar",
@@ -2199,7 +2169,7 @@
       "dateInstalled": "2016-02-27T14:39:17.8728255Z",
       "dateUpdated": "2016-02-27T14:39:17.8748372Z",
       "dateLastUpdateAttempted": "2016-02-27T14:39:17.8748372Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2211,7 +2181,7 @@
     },
     {
       "addonID": 227879,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2282281,
         "FileName": "Pet Bat 1.7.10",
@@ -2258,7 +2228,7 @@
       "dateInstalled": "2016-02-27T14:39:21.1678636Z",
       "dateUpdated": "2016-02-27T14:39:21.1688668Z",
       "dateLastUpdateAttempted": "2016-02-27T14:39:21.1688668Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2270,7 +2240,7 @@
     },
     {
       "addonID": 227887,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2227654,
         "FileName": "MultiMine-1.7.10.zip",
@@ -2301,7 +2271,7 @@
       "dateInstalled": "2016-02-27T14:39:23.1013455Z",
       "dateUpdated": "2016-02-27T14:39:23.1023439Z",
       "dateLastUpdateAttempted": "2016-02-27T14:39:23.1023439Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2313,7 +2283,7 @@
     },
     {
       "addonID": 222213,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2262089,
         "FileName": "CodeChickenCore-1.7.10-1.0.7.47-universal.jar",
@@ -2356,7 +2326,7 @@
       "dateInstalled": "2016-02-27T14:52:42.7641456Z",
       "dateUpdated": "2016-02-27T14:52:42.7661525Z",
       "dateLastUpdateAttempted": "2016-02-27T14:52:42.7661525Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2368,7 +2338,7 @@
     },
     {
       "addonID": 222211,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2262091,
         "FileName": "NotEnoughItems-1.7.10-1.0.5.118-universal.jar",
@@ -2412,7 +2382,7 @@
       "dateInstalled": "2016-02-27T14:52:42.9096379Z",
       "dateUpdated": "2016-02-27T14:52:42.9216732Z",
       "dateLastUpdateAttempted": "2016-02-27T14:52:42.9216732Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2424,7 +2394,7 @@
     },
     {
       "addonID": 229306,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2262092,
         "FileName": "EnderStorage-1.7.10-1.4.7.37-universal.jar",
@@ -2468,7 +2438,7 @@
       "dateInstalled": "2016-02-27T14:52:43.6772091Z",
       "dateUpdated": "2016-02-27T14:52:43.6782074Z",
       "dateLastUpdateAttempted": "2016-02-27T14:52:43.6782074Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2480,7 +2450,7 @@
     },
     {
       "addonID": 229316,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2233250,
         "FileName": "ChickenChunks-1.7.10-1.3.4.19-universal.jar",
@@ -2524,7 +2494,7 @@
       "dateInstalled": "2016-02-27T14:52:44.8611701Z",
       "dateUpdated": "2016-02-27T14:52:44.863177Z",
       "dateLastUpdateAttempted": "2016-02-27T14:52:44.863177Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2536,7 +2506,7 @@
     },
     {
       "addonID": 229314,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2233235,
         "FileName": "WR-CBE-1.7.10-1.4.1.9-universal.jar",
@@ -2588,7 +2558,7 @@
       "dateInstalled": "2016-02-27T14:52:47.582286Z",
       "dateUpdated": "2016-02-27T14:52:47.5842929Z",
       "dateLastUpdateAttempted": "2016-02-27T14:52:47.5842929Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2600,7 +2570,7 @@
     },
     {
       "addonID": 32274,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2283867,
         "FileName": "journeymap-1.7.10-5.1.4",
@@ -2659,7 +2629,7 @@
       "dateInstalled": "2016-02-27T14:53:29.7174369Z",
       "dateUpdated": "2016-02-27T14:53:29.7224541Z",
       "dateLastUpdateAttempted": "2016-02-27T14:53:29.7224541Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2671,7 +2641,7 @@
     },
     {
       "addonID": 223094,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2210792,
         "FileName": "Inventory Tweaks 1.59-dev-152",
@@ -2694,7 +2664,7 @@
       "dateInstalled": "2016-02-27T14:55:41.7497419Z",
       "dateUpdated": "2016-02-27T14:55:41.7517491Z",
       "dateLastUpdateAttempted": "2016-02-27T14:55:41.7517491Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2706,7 +2676,7 @@
     },
     {
       "addonID": 73488,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2230518,
         "FileName": "Waila-1.5.10_1.7.10.jar",
@@ -2753,7 +2723,7 @@
       "dateInstalled": "2016-02-27T14:55:50.5110924Z",
       "dateUpdated": "2016-02-27T14:55:50.5161088Z",
       "dateLastUpdateAttempted": "2016-02-27T14:55:50.5161088Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2765,7 +2735,7 @@
     },
     {
       "addonID": 79287,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2270923,
         "FileName": "WailaHarvestability-mc1.7.10-1.1.6.jar",
@@ -2809,7 +2779,7 @@
       "dateInstalled": "2016-02-27T14:55:50.6485535Z",
       "dateUpdated": "2016-02-27T14:55:50.6595951Z",
       "dateLastUpdateAttempted": "2016-02-27T14:55:50.6595951Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2821,7 +2791,7 @@
     },
     {
       "addonID": 63352,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2262120,
         "FileName": "neiaddons-1.12.14.40-mc1.7.10.jar",
@@ -2873,7 +2843,7 @@
       "dateInstalled": "2016-02-27T14:56:46.0471384Z",
       "dateUpdated": "2016-02-27T14:56:46.0481418Z",
       "dateLastUpdateAttempted": "2016-02-27T14:56:46.0481418Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2885,7 +2855,7 @@
     },
     {
       "addonID": 225251,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2282522,
         "FileName": "NEIIntegration-MC1.7.10-1.1.2.jar",
@@ -2933,7 +2903,7 @@
       "dateInstalled": "2016-02-27T14:56:46.9110376Z",
       "dateUpdated": "2016-02-27T14:56:46.9130394Z",
       "dateLastUpdateAttempted": "2016-02-27T14:56:46.9130394Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2945,7 +2915,7 @@
     },
     {
       "addonID": 74924,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2264244,
         "FileName": "Mantle-1.7.10-0.3.2b.jar",
@@ -2988,7 +2958,7 @@
       "dateInstalled": "2016-02-27T14:57:06.8237407Z",
       "dateUpdated": "2016-02-27T14:57:06.8247438Z",
       "dateLastUpdateAttempted": "2016-02-27T14:57:06.8247438Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3000,7 +2970,7 @@
     },
     {
       "addonID": 74072,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2264246,
         "FileName": "TConstruct-1.7.10-1.8.8.jar",
@@ -3052,7 +3022,7 @@
       "dateInstalled": "2016-02-27T14:57:07.6786046Z",
       "dateUpdated": "2016-02-27T14:57:07.6856282Z",
       "dateLastUpdateAttempted": "2016-02-27T14:57:07.6856282Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3064,7 +3034,7 @@
     },
     {
       "addonID": 76845,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2246472,
         "FileName": "TiCTooltips-mc1.7.10-1.2.5.jar",
@@ -3108,7 +3078,7 @@
       "dateInstalled": "2016-02-27T14:57:07.7458296Z",
       "dateUpdated": "2016-02-27T14:57:07.7478365Z",
       "dateLastUpdateAttempted": "2016-02-27T14:57:07.7478365Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3120,7 +3090,7 @@
     },
     {
       "addonID": 78057,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2272157,
         "FileName": "TMechworks-1.7.10-0.2.15.106.jar",
@@ -3164,7 +3134,7 @@
       "dateInstalled": "2016-02-27T14:57:46.6541743Z",
       "dateUpdated": "2016-02-27T14:57:46.6591909Z",
       "dateLastUpdateAttempted": "2016-02-27T14:57:46.6591909Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3176,7 +3146,7 @@
     },
     {
       "addonID": 225608,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2219060,
         "FileName": "WorldEdit 6.0 (for MC 1.7.10)",
@@ -3223,7 +3193,7 @@
       "dateInstalled": "2016-02-27T14:59:00.7674634Z",
       "dateUpdated": "2016-02-27T14:59:00.7704686Z",
       "dateLastUpdateAttempted": "2016-02-27T14:59:00.7704686Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3235,7 +3205,7 @@
     },
     {
       "addonID": 238372,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2268525,
         "FileName": "Neat 1.0-1.jar",
@@ -3270,7 +3240,7 @@
       "dateInstalled": "2016-02-27T15:00:58.4517147Z",
       "dateUpdated": "2016-02-27T15:00:58.4527179Z",
       "dateLastUpdateAttempted": "2016-02-27T15:00:58.4527179Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3282,7 +3252,7 @@
     },
     {
       "addonID": 62929,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2272891,
         "FileName": "GraveStone-2.16.0.jar",
@@ -3357,7 +3327,7 @@
     },
     {
       "addonID": 227576,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2226384,
         "FileName": "veinminermodintegration 1.7.10 0.4.2",
@@ -3417,7 +3387,7 @@
     },
     {
       "addonID": 67133,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2281923,
         "FileName": "VeinMiner 0.31.3 [MC1.7.2,1.7.10; build unknown]",
@@ -3477,11 +3447,11 @@
     },
     {
       "addonID": 237989,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2281842,
         "FileName": "RTG-1.7.10-0.6.2",
-        "FileNameOnDisk": "RTG-1.7.10-0.6.2.jar",
+        "FileNameOnDisk": "RTG-1.7.10-0.6.2.jar.disabled",
         "FileDate": "2016-02-14T19:21:39",
         "ReleaseType": 2,
         "FileStatus": 2,
@@ -3529,7 +3499,7 @@
       "dateInstalled": "2016-02-27T17:20:28.6666Z",
       "dateUpdated": "2015-02-27T17:20:28.6666Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3541,7 +3511,7 @@
     },
     {
       "addonID": 229708,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2281555,
         "FileName": "Farseek-1.0.11.jar",
@@ -3584,7 +3554,7 @@
     },
     {
       "addonID": 229769,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2281587,
         "FileName": "Streams-0.2.jar",
@@ -3632,7 +3602,7 @@
     },
     {
       "addonID": 228356,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2231153,
         "FileName": "ATG 0.12.0 for Minecraft 1.7.10",
@@ -3679,7 +3649,7 @@
     },
     {
       "addonID": 227564,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2226312,
         "FileName": "Ore Dictionary Converter 1.6.1",
@@ -3730,7 +3700,7 @@
     },
     {
       "addonID": 221585,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2272441,
         "FileName": "roguelike-1.7.10-1.4.4.jar",
@@ -3765,7 +3735,7 @@
       "dateInstalled": "2016-02-27T18:04:45.901138Z",
       "dateUpdated": "2016-02-27T18:04:45.9041478Z",
       "dateLastUpdateAttempted": "2016-02-27T18:04:45.9041478Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3777,7 +3747,7 @@
     },
     {
       "addonID": 60265,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2227053,
         "FileName": "Chocolate Quest Release 1.0 for Minecraft 1.7.10",
@@ -3816,7 +3786,7 @@
       "dateInstalled": "2016-02-27T18:04:53.9511058Z",
       "dateUpdated": "2016-02-27T18:04:53.9561228Z",
       "dateLastUpdateAttempted": "2016-02-27T18:04:53.9561228Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3828,7 +3798,7 @@
     },
     {
       "addonID": 59710,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2262994,
         "FileName": "Mine & Blade: Battlegear 2 - Bullseye - 1.0.8.2 ",
@@ -3887,7 +3857,7 @@
       "dateInstalled": "2016-02-27T18:13:58.8395113Z",
       "dateUpdated": "2016-02-27T18:13:58.8435251Z",
       "dateLastUpdateAttempted": "2016-02-27T18:13:58.8435251Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3899,7 +3869,7 @@
     },
     {
       "addonID": 228029,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2282145,
         "FileName": "archimedesshipsplus-1.7.10-1.8.1.jar",
@@ -3967,7 +3937,7 @@
     },
     {
       "addonID": 227049,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2274484,
         "FileName": "IronBackpacks-1.7.10-1.2.15.jar",
@@ -4018,7 +3988,7 @@
     },
     {
       "addonID": 230495,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2282144,
         "FileName": "movingworld-1.7.10-1.8.1.jar",
@@ -4073,7 +4043,7 @@
     },
     {
       "addonID": 222880,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2282520,
         "FileName": "ThermalFoundation-[1.7.10]1.2.3-112.jar",
@@ -4145,7 +4115,7 @@
     },
     {
       "addonID": 224614,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2276280,
         "FileName": "NEK version: 1.7.10-3.0.0b45",
@@ -4192,7 +4162,7 @@
     },
     {
       "addonID": 237754,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2265743,
         "FileName": "zombieawareness-1.9.6 for MC v1.7.10.jar",
@@ -4243,7 +4213,7 @@
     },
     {
       "addonID": 59413,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2218324,
         "FileName": "EnchantingPlus-1.7.10-3.0.2-d.jar",
@@ -4294,7 +4264,7 @@
     },
     {
       "addonID": 59143,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2268883,
         "FileName": "backpack-2.0.1-1.7.x.jar",
@@ -4352,7 +4322,7 @@
     },
     {
       "addonID": 226910,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2230244,
         "FileName": "Tinkers' Defense 1.2.1",
@@ -4407,7 +4377,7 @@
     },
     {
       "addonID": 237749,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2283912,
         "FileName": "coroutil-1.7.10-1.1.4.jar",
@@ -4474,7 +4444,7 @@
     },
     {
       "addonID": 69163,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2282512,
         "FileName": "ThermalExpansion-[1.7.10]4.1.2-240.jar",
@@ -4542,7 +4512,7 @@
     },
     {
       "addonID": 227795,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2271214,
         "FileName": "Antique Atlas v4.2.10 (1.7.10)",
@@ -4598,7 +4568,7 @@
     },
     {
       "addonID": 226731,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2254977,
         "FileName": "v1.7.10-1.0.4",
@@ -4657,7 +4627,7 @@
     },
     {
       "addonID": 69162,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2283118,
         "FileName": "CoFHCore-[1.7.10]3.1.2-325.jar",
@@ -4725,7 +4695,7 @@
     },
     {
       "addonID": 51195,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2263415,
         "FileName": "Railcraft 9.8.0.0",
@@ -4808,7 +4778,7 @@
       "dateInstalled": "2016-02-27T18:23:53.7856267Z",
       "dateUpdated": "2016-02-27T18:23:53.8076957Z",
       "dateLastUpdateAttempted": "2016-02-27T18:23:53.8076957Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4820,7 +4790,7 @@
     },
     {
       "addonID": 61811,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2270425,
         "FileName": "Buildcraft 7.1.14",
@@ -4891,7 +4861,7 @@
       "dateInstalled": "2016-02-27T18:24:03.7971601Z",
       "dateUpdated": "2016-02-27T18:24:03.802177Z",
       "dateLastUpdateAttempted": "2016-02-27T18:24:03.802177Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4903,7 +4873,7 @@
     },
     {
       "addonID": 233140,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2270434,
         "FileName": "Buildcraft Compat 7.1.3",
@@ -4955,7 +4925,7 @@
       "dateInstalled": "2016-02-27T18:24:06.2453664Z",
       "dateUpdated": "2016-02-27T18:24:06.2473679Z",
       "dateLastUpdateAttempted": "2016-02-27T18:24:06.2473679Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4967,7 +4937,7 @@
     },
     {
       "addonID": 228756,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2230907,
         "FileName": "ironchest-1.7.10-6.0.60.741-universal.jar",
@@ -5010,7 +4980,7 @@
       "dateInstalled": "2016-02-27T18:24:12.7361049Z",
       "dateUpdated": "2016-02-27T18:24:12.7371135Z",
       "dateLastUpdateAttempted": "2016-02-27T18:24:12.7371135Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5022,7 +4992,7 @@
     },
     {
       "addonID": 224989,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2271882,
         "FileName": "IronChestMinecarts-1.0.4.jar",
@@ -5070,7 +5040,7 @@
       "dateInstalled": "2016-02-27T18:24:13.8207385Z",
       "dateUpdated": "2016-02-27T18:24:13.8227451Z",
       "dateLastUpdateAttempted": "2016-02-27T18:24:13.8227451Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5082,7 +5052,7 @@
     },
     {
       "addonID": 227443,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2246949,
         "FileName": "ThermalDynamics-[1.7.10]1.1.0-161.jar",
@@ -5142,7 +5112,7 @@
       "dateInstalled": "2016-02-27T18:24:34.2652267Z",
       "dateUpdated": "2016-02-27T18:24:34.2672339Z",
       "dateLastUpdateAttempted": "2016-02-27T18:24:34.2672339Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5154,7 +5124,7 @@
     },
     {
       "addonID": 228815,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2280605,
         "FileName": "OpenModsLib-1.7.10-0.9.1.jar",
@@ -5197,7 +5167,7 @@
       "dateInstalled": "2016-02-27T18:24:42.7305905Z",
       "dateUpdated": "2016-02-27T18:24:42.7335966Z",
       "dateLastUpdateAttempted": "2016-02-27T18:24:42.7335966Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5209,7 +5179,7 @@
     },
     {
       "addonID": 228816,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2280606,
         "FileName": "OpenBlocks-1.7.10-1.5.1.jar",
@@ -5257,7 +5227,7 @@
       "dateInstalled": "2016-02-27T18:24:43.1720644Z",
       "dateUpdated": "2016-02-27T18:24:43.1770814Z",
       "dateLastUpdateAttempted": "2016-02-27T18:24:43.1770814Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5269,7 +5239,7 @@
     },
     {
       "addonID": 228817,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2280607,
         "FileName": "OpenPeripheralCore-1.7.10-1.3.jar",
@@ -5333,7 +5303,7 @@
       "dateInstalled": "2016-02-27T18:24:45.05437Z",
       "dateUpdated": "2016-02-27T18:24:45.0563766Z",
       "dateLastUpdateAttempted": "2016-02-27T18:24:45.0563766Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5345,7 +5315,7 @@
     },
     {
       "addonID": 228819,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2280609,
         "FileName": "OpenPeripheralIntegration-1.7.10-0.5.jar",
@@ -5393,7 +5363,7 @@
       "dateInstalled": "2016-02-27T18:25:30.9621606Z",
       "dateUpdated": "2016-02-27T18:25:30.9661741Z",
       "dateLastUpdateAttempted": "2016-02-27T18:25:30.9661741Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5405,7 +5375,7 @@
     },
     {
       "addonID": 228818,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2280608,
         "FileName": "OpenPeripheralAddons-1.7.10-0.5.1.jar",
@@ -5457,7 +5427,7 @@
       "dateInstalled": "2016-02-27T18:25:31.6735437Z",
       "dateUpdated": "2016-02-27T18:25:31.6755503Z",
       "dateLastUpdateAttempted": "2016-02-27T18:25:31.6755503Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5469,7 +5439,7 @@
     },
     {
       "addonID": 67504,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2269339,
         "FileName": "ComputerCraft 1.75",
@@ -5524,7 +5494,7 @@
       "dateInstalled": "2016-02-27T18:25:38.3870337Z",
       "dateUpdated": "2016-02-27T18:25:38.3900492Z",
       "dateLastUpdateAttempted": "2016-02-27T18:25:38.3900492Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5536,7 +5506,7 @@
     },
     {
       "addonID": 225561,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2264383,
         "FileName": "Extra Utilities 1.2.12",
@@ -5591,7 +5561,7 @@
       "dateInstalled": "2016-02-27T18:26:11.6384314Z",
       "dateUpdated": "2016-02-27T18:26:11.6424446Z",
       "dateLastUpdateAttempted": "2016-02-27T18:26:11.6424446Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5603,7 +5573,7 @@
     },
     {
       "addonID": 59751,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2283350,
         "FileName": "Forestry 4.2.9",
@@ -5662,7 +5632,7 @@
       "dateInstalled": "2016-02-27T18:26:16.3321502Z",
       "dateUpdated": "2016-02-27T18:26:16.3371677Z",
       "dateLastUpdateAttempted": "2016-02-27T18:26:16.3371677Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5674,7 +5644,7 @@
     },
     {
       "addonID": 60089,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2209265,
         "FileName": "MouseTweaks-2.4.4-mc1.7.10.jar",
@@ -5696,7 +5666,7 @@
       "dateInstalled": "2016-02-27T18:27:02.355334Z",
       "dateUpdated": "2016-02-27T18:27:02.3563321Z",
       "dateLastUpdateAttempted": "2016-02-27T18:27:02.3563321Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5708,7 +5678,7 @@
     },
     {
       "addonID": 223525,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2246131,
         "FileName": "binnie-mods-2.0-pre14.jar",
@@ -5747,7 +5717,7 @@
       "dateInstalled": "2016-02-27T18:28:14.1327862Z",
       "dateUpdated": "2016-02-27T18:28:14.1388063Z",
       "dateLastUpdateAttempted": "2016-02-27T18:28:14.1388063Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5759,7 +5729,7 @@
     },
     {
       "addonID": 74120,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2216125,
         "FileName": "natura-1.7.10-2.2.0.1.jar",
@@ -5803,7 +5773,7 @@
       "dateInstalled": "2016-02-27T18:31:32.7883004Z",
       "dateUpdated": "2016-02-27T18:31:32.7903118Z",
       "dateLastUpdateAttempted": "2016-02-27T18:31:32.7903118Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5815,7 +5785,7 @@
     },
     {
       "addonID": 72728,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2239878,
         "FileName": "ExtraTiC-1.7.10-1.4.5.jar",
@@ -5859,7 +5829,7 @@
       "dateInstalled": "2016-02-27T18:32:03.6075478Z",
       "dateUpdated": "2016-02-27T18:32:03.6215946Z",
       "dateLastUpdateAttempted": "2016-02-27T18:32:03.6215946Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5871,7 +5841,7 @@
     },
     {
       "addonID": 224942,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2234692,
         "FileName": "Dense Ores 1.6.2",
@@ -5910,7 +5880,7 @@
       "dateInstalled": "2016-02-27T18:32:27.422331Z",
       "dateUpdated": "2016-02-27T18:32:27.4233392Z",
       "dateLastUpdateAttempted": "2016-02-27T18:32:27.4233392Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5922,7 +5892,7 @@
     },
     {
       "addonID": 223703,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2276736,
         "FileName": "compactstorage-1.7.10-release-2.1.0-lts.21-universal.jar",
@@ -5961,7 +5931,7 @@
       "dateInstalled": "2016-02-27T18:33:36.3151303Z",
       "dateUpdated": "2016-02-27T18:33:36.3171372Z",
       "dateLastUpdateAttempted": "2016-02-27T18:33:36.3171372Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5973,7 +5943,7 @@
     },
     {
       "addonID": 228829,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2231078,
         "FileName": "RottenFleshToLeather-2.1-1.7.10.jar",
@@ -6012,7 +5982,7 @@
       "dateInstalled": "2016-02-27T18:43:51.9304983Z",
       "dateUpdated": "2016-02-27T18:43:51.9325001Z",
       "dateLastUpdateAttempted": "2016-02-27T18:43:51.9325001Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6024,7 +5994,7 @@
     },
     {
       "addonID": 224663,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2280989,
         "FileName": "OpenModularTurrets-1.7.10-2.1.9-211.jar",
@@ -6067,7 +6037,7 @@
       "dateInstalled": "2016-02-27T18:44:04.9169957Z",
       "dateUpdated": "2016-02-27T18:44:04.9230158Z",
       "dateLastUpdateAttempted": "2016-02-27T18:44:04.9230158Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6079,7 +6049,7 @@
     },
     {
       "addonID": 221939,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2242988,
         "FileName": "MorePlayerModels_1.7.10b.jar",
@@ -6122,7 +6092,7 @@
       "dateInstalled": "2016-02-27T18:44:33.3351921Z",
       "dateUpdated": "2016-02-27T18:44:33.3371984Z",
       "dateLastUpdateAttempted": "2016-02-27T18:44:33.3371984Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6134,7 +6104,7 @@
     },
     {
       "addonID": 228969,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
+      "gameInstanceID": "a137baaa-5a56-4922-85a3-d26f600c6901",
       "installedFile": {
         "Id": 2248928,
         "FileName": "Player API version 1.4 for Minecraft 1.7.10",
@@ -6174,146 +6144,10 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2016-02-27T18:44:57.9857722Z",
-      "dateUpdated": "2016-02-27T18:44:57.9877739Z",
-      "dateLastUpdateAttempted": "2016-02-27T18:44:57.9877739Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": true,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 229857,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
-      "installedFile": {
-        "Id": 2248949,
-        "FileName": "Smart Render version 2.1 for Minecraft 1.7.10",
-        "FileNameOnDisk": "SmartRender-1.7.10-2.1.jar.disabled",
-        "FileDate": "2015-07-25T21:22:24",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "http://addons.curse.cursecdn.com/files/2248/949/SmartRender-1.7.10-2.1.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [
-          {
-            "AddOnId": 228969,
-            "Type": 1
-          },
-          {
-            "AddOnId": 228981,
-            "Type": 2
-          }
-        ],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "license.txt",
-            "Fingerprint": 336632441
-          },
-          {
-            "Foldername": "license-gpl.txt",
-            "Fingerprint": 949489070
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 609783380
-          },
-          {
-            "Foldername": "meta-inf",
-            "Fingerprint": 2739928603
-          },
-          {
-            "Foldername": "net",
-            "Fingerprint": 699211846
-          }
-        ],
-        "PackageFingerprint": 1748131197,
-        "GameVersion": [
-          "1.7.10"
-        ]
-      },
-      "dateInstalled": "2016-02-27T18:44:58.1262376Z",
-      "dateUpdated": "2016-02-27T18:44:58.1282445Z",
-      "dateLastUpdateAttempted": "2016-02-27T18:44:58.1282445Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": true,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 229858,
-      "gameInstanceID": "007afc52-d148-4f5b-93aa-3121d4d5b7a9",
-      "installedFile": {
-        "Id": 2248946,
-        "FileName": "Smart Moving version 15.6 for Minecraft 1.7.10",
-        "FileNameOnDisk": "SmartMoving-1.7.10-15.6.jar.disabled",
-        "FileDate": "2015-07-25T21:19:11",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "http://addons.curse.cursecdn.com/files/2248/946/SmartMoving-1.7.10-15.6.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [
-          {
-            "AddOnId": 228969,
-            "Type": 1
-          },
-          {
-            "AddOnId": 228981,
-            "Type": 2
-          },
-          {
-            "AddOnId": 229857,
-            "Type": 1
-          }
-        ],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 1060284452
-          },
-          {
-            "Foldername": "license.txt",
-            "Fingerprint": 4144802809
-          },
-          {
-            "Foldername": "license-gpl.txt",
-            "Fingerprint": 949489070
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 866491751
-          },
-          {
-            "Foldername": "meta-inf",
-            "Fingerprint": 3156918966
-          },
-          {
-            "Foldername": "net",
-            "Fingerprint": 1697319145
-          }
-        ],
-        "PackageFingerprint": 2489157444,
-        "GameVersion": [
-          "1.7.10"
-        ]
-      },
-      "dateInstalled": "2016-02-27T18:44:58.3168764Z",
-      "dateUpdated": "2016-02-27T18:44:58.3188833Z",
-      "dateLastUpdateAttempted": "2016-02-27T18:44:58.3188833Z",
-      "status": 4,
+      "dateInstalled": "2016-02-29T02:53:08.4691878Z",
+      "dateUpdated": "2015-02-28T02:53:08.4691878Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
